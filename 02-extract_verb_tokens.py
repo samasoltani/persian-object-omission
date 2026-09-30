@@ -38,6 +38,21 @@ def is_imperfective(form):
     return form.startswith("می") or form.startswith("نمی")
 
 
+def ra_marked(tok, kids):
+    """True if the token carries «را/رو» as a case dependent."""
+    return any(k["deprel"] == "case" and k["form"] in {"را", "رو"}
+               for k in kids.get(tok["id"], []))
+
+
+def is_object(tok, kids):
+    """Overt direct object: deprel obj, OR an obl/obl:arg dependent marked with «را».
+    PerDT sometimes tags the «را»-object of a complex predicate as obl:arg
+    (e.g. «خربزه را دندان بزن»); «را» marks a direct object, so we count it."""
+    if tok["deprel"] == "obj":
+        return True
+    return tok["deprel"].startswith("obl") and ra_marked(tok, kids)
+
+
 def describe_object(obj, kids):
     """Surface properties of an overt object (used later for factors 1-2)."""
     ks = kids.get(obj["id"], [])
@@ -84,13 +99,15 @@ for s in read_all():
         predicate = f"{nve} {v['lemma']}" if nve else v["lemma"]
 
         # --- overt object --------------------------------------------------
-        objs = [k for k in ks if k["deprel"] == "obj"]
+        objs = [k for k in ks if is_object(k, kids)]
+        objs.sort(key=lambda k: k["deprel"] != "obj")   # a true obj first
         row = {
             "file": s["file"], "sent_id": s["sent_id"], "tok_id": v["id"],
             "form": v["form"], "verb_lemma": v["lemma"], "nve": nve,
             "predicate": predicate, "cp_strict": cp_strict, "cp_broad": cp_broad,
             "light_verb": v["lemma"] if nve else None,
             "has_obj": bool(objs),
+            "obj_from_obl_ra": bool(objs) and objs[0]["deprel"] != "obj",
         }
         empty_obj = {k: None for k in ["obj_lemma", "obj_upos", "obj_ra", "obj_pron",
                                        "obj_plural", "obj_dem", "obj_indef",
@@ -115,13 +132,14 @@ for s in read_all():
                            if k["deprel"] == "conj" and k["upos"] == "VERB" and k["id"] != v["id"]]
         row["in_coordination"] = bool(conj_verbs)
         row["conjunct_has_obj"] = any(
-            any(k["deprel"] == "obj" for k in kids.get(c["id"], [])) for c in conj_verbs)
+            any(is_object(k, kids) for k in kids.get(c["id"], [])) for c in conj_verbs)
 
         # --- other flags from step 01 --------------------------------------
         row.update({
             "has_ccomp": any(r.startswith("ccomp") for r in rels),
             "has_xcomp_verb": any(k["deprel"] == "xcomp" and k["upos"] == "VERB" for k in ks),
-            "has_obl_arg": "obl:arg" in rels,
+            # PP complement only (a «را»-marked obl:arg is an object, see is_object)
+            "has_obl_arg": any(k["deprel"] == "obl:arg" and not ra_marked(k, kids) for k in ks),
             "has_nsubj": any(r.startswith("nsubj") for r in rels),
             "deprel": v["deprel"],
             "text": s["text"],
@@ -137,6 +155,7 @@ df.to_csv(OUT / "02_verb_tokens.csv", index=False, encoding="utf-8-sig")
 print(f"Active lexical verb tokens: {len(df)}")
 print(f"Distinct predicates: {df['predicate'].nunique()}")
 print(f"CP-strict: {df['cp_strict'].sum()}   CP-broad: {df['cp_broad'].sum()}")
+print(f"Objects recovered from «را»-marked obl/obl:arg: {df['obj_from_obl_ra'].sum()}")
 print("\nCP-broad additions (xcomp NVE), top 15:")
 print(df[df["cp_broad"] & ~df["cp_strict"]]["predicate"].value_counts().head(15).to_string())
 

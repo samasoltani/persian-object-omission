@@ -1,0 +1,9 @@
+﻿step,removed,remaining
+active lexical verbs (step 02),0,50989
+relative clause (acl),7559,43430
+clausal complement (ccomp),4694,38736
+direct speech (parataxis),72,38664
+predicative/clausal xcomp,2671,35993
+clausal subject (csubj),12,35981
+"PP-verbs (obl:arg > obj, obj < 50%)",13727,22254
+not transitive at 10% (or too rare),5835,16419

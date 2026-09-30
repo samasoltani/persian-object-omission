@@ -24,3 +24,6 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# --- Token-level tables (contain corpus sentences; regenerate by running the scripts) ---
+outputs/tables/*_tokens.csv

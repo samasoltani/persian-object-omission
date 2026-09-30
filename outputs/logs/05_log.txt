@@ -1,0 +1,70 @@
+Predicates: 1294   reliable (>= 10 overt objects): 258
+Tokens covered by reliable predicates: 9029 of 16419 (55.0%)
+
+=== Mean of each measure: complex vs simple (reliable predicates) ===
+cp_strict        simple  complex
+obj_entropy_r10   3.047    3.037
+obj_entropy       4.604    3.919
+top_obj_share     0.158    0.186
+obj_ttr           0.778    0.846
+bare_rate         0.178    0.047
+no_ra_rate        0.306    0.175
+pron_rate         0.117    0.111
+log_freq          3.350    2.679
+omission_rate     0.105    0.076
+
+=== Spearman correlation with omission rate (reliable predicates) ===
+obj_entropy_r10    0.010
+obj_entropy        0.233
+top_obj_share     -0.101
+obj_ttr           -0.114
+bare_rate          0.211
+no_ra_rate         0.188
+pron_rate          0.024
+log_freq           0.565
+
+=== Correlations among the measures (check for collinearity) ===
+                 obj_entropy_r10  obj_entropy  top_obj_share  obj_ttr  bare_rate  no_ra_rate  pron_rate  log_freq
+obj_entropy_r10             1.00         0.68          -0.88     0.82      -0.10       -0.10       0.11      0.11
+obj_entropy                 0.68         1.00          -0.82     0.26       0.22        0.20       0.16      0.71
+top_obj_share              -0.88        -0.82           1.00    -0.51      -0.08       -0.07      -0.13     -0.40
+obj_ttr                     0.82         0.26          -0.51     1.00      -0.35       -0.33       0.08     -0.32
+bare_rate                  -0.10         0.22          -0.08    -0.35       1.00        0.83      -0.23      0.39
+no_ra_rate                 -0.10         0.20          -0.07    -0.33       0.83        1.00      -0.25      0.37
+pron_rate                   0.11         0.16          -0.13     0.08      -0.23       -0.25       1.00      0.05
+log_freq                    0.11         0.71          -0.40    -0.32       0.39        0.37       0.05      1.00
+
+=== Most predictable objects (lowest entropy, reliable) ===
+  predicate  n_obj top_obj  top_obj_share  obj_entropy_r10  omission_rate
+ استیفا کرد     10      حق          0.700            1.357          0.000
+ برقرار کرد     10  ارتباط          0.600            1.571          0.000
+     تاباند     10     نور          0.600            1.571          0.000
+     افروخت     15    چراغ          0.333            1.919          0.062
+سردبیری کرد     12   نشریه          0.500            2.013          0.000
+       دوخت     19     چشم          0.474            2.024          0.136
+      پیمود     14     راه          0.429            2.048          0.000
+      پوشید     15    لباس          0.467            2.098          0.211
+    جلب کرد     14    توجه          0.429            2.106          0.067
+  اتخاذ کرد     10   تصمیم          0.500            2.161          0.000
+    وفق داد     10     خود          0.500            2.161          0.000
+     افراشت     20    پرچم          0.400            2.231          0.048
+   عرضه کرد     10   محصول          0.400            2.322          0.091
+ اتخاذ داشت     10   تصمیم          0.300            2.371          0.000
+     حل کرد     27    مشکل          0.296            2.399          0.000
+
+=== Least predictable objects (highest entropy, reliable) ===
+ predicate  n_obj top_obj  top_obj_share  obj_entropy_r10  omission_rate
+کنار گذاشت     12  مقایسه          0.083            3.322          0.000
+   کسب کرد     10  موافقت          0.100            3.322          0.333
+    چک کرد     10     فیش          0.100            3.322          0.000
+     چلاند     11    خودم          0.091            3.322          0.154
+    افشاند     11    پرچم          0.091            3.322          0.083
+  حصول کرد     11 تخم‌مرغ          0.091            3.322          0.000
+ خاطر آورد     11    رهبر          0.091            3.322          0.000
+  خارج کرد     10     عکس          0.100            3.322          0.167
+   حفظ کرد     15     شما          0.067            3.322          0.118
+   میخ کرد     10     چشم          0.100            3.322          0.091
+
+Saved: 05_predicate_measures.csv, 05_analysis_tokens.csv
+
+=== exit code: 0 ===

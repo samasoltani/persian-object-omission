@@ -39,7 +39,7 @@ annotation/        manual annotation sample
 
 ## How to run
 
-Run the scripts in numeric order from the project root (e.g. in PyCharm, with `hazf_mafoul` opened as the project).
+Run the scripts in numeric order from the project root (e.g. in PyCharm, with the repository folder opened as the project).
 
 ## Requirements
 

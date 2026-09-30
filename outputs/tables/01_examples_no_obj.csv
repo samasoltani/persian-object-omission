@@ -1,0 +1,150 @@
+﻿file,sent_id,verb_lemma,predicate,is_complex,has_obj,has_ccomp,voice,imperfective,text
+fa_perdt-ud-train.conllu,train-s229,خورد,خورد,False,False,False,Act,False,هرچند نمی‌شد تأسف نخورد وقتی تکم‌چی غرفهٔ آذربایجان حتی به حرکت درآوردن تکم را نیز به درستی نمی‌دانست.
+fa_perdt-ud-train.conllu,train-s700,خواند,خواند,False,False,False,Act,False,از قیافه‌اش می‌شد خواند که این پیشنهاد برایش اهمیت چندانی نداشته است.
+fa_perdt-ud-train.conllu,train-s803,خورد,خورد,False,False,False,Act,True,مطالبشان آن قدر جلف و سبک از آب درمی‌آمد که حامی ما حاضر به انتشار آن نبود و یا آن قدر سنگین و کم‌مخاطب که به درد شبکهٔ چهار سیما می‌خورد.
+fa_perdt-ud-train.conllu,train-s906,خواند,خواند,False,False,False,Act,False,کتاب در کیف یا جیب خود داشته باشند و در اتوبوس که نشستند، کتاب را باز کنند و بخوانند.
+fa_perdt-ud-train.conllu,train-s907,خواند,خواند,False,False,False,Act,False,وقتی هم به مقصد رسیدند، نشانه‌ای لای کتاب بگذارند و باز در فرصت یا فرصت‌های بعدی آن را باز کنند و از همان جا بخوانند.
+fa_perdt-ud-train.conllu,train-s999,خورد,خورد,False,False,False,Act,True,اگر شما قدری از خود غفلت کنید یا امر بر شما مشتبه شود که این ما هستیم که ایستاده‌ایم و مراقبت می‌کنیم، به زمین می‌خورید.
+fa_perdt-ud-train.conllu,train-s1004,نوشت,نوشت,False,False,False,Act,False,با خودم تعهد کرده بودم که مطلب جز از اقتصاد ننویسم ولی نمی‌دانم چرا نمی‌توانم ننویسم.
+fa_perdt-ud-train.conllu,train-s1181,خورد,خورد,False,False,False,Act,True,آنهایی که بدون این تفکر بدون یک قانونی بدون قانون اسلامی تمتع می‌کنند و می‌خورند اینها اکلشان اکل حیوانی است.
+fa_perdt-ud-train.conllu,train-s1534,خورد,خورد,False,False,False,Act,False,هرچند، هنوز که هنوز است، همان نام مستعارش را در شناسنامهٔ هفته‌نامه می‌گذارد تا کمتر به غیرت بنده بربخورد.
+fa_perdt-ud-train.conllu,train-s1686,خرید,خرید,False,False,False,Act,False,آخرین مرتبه‌ای که حسابی کتکش زدم در وضعیت بی‌ریخت بی‌پولی، از زن کارگر کارخانهٔ پتوبافی که همسایه‌مان بودند، یک جفت پتوی گل‌برجسته خریده بود.
+fa_perdt-ud-train.conllu,train-s1704,خواند,خواند,False,False,False,Act,False,از نو خواندم.
+fa_perdt-ud-train.conllu,train-s1839,نوشت,نوشت,False,False,False,Act,False,فرض مسلم داستان‌نویسی غربی که می‌گوید: نویسنده از چیزی باید بنویسد که آن را تجربه کرده است و چون بهار داستان بدون بدی‌ها و پلشتی‌ها امکان ندارد به همین دلیل تجربهٔ امور ناپسند برای نویسنده و هنرمند جایز است، خلاف نتایج قطعی‌ای است که نویسنده در تجربهٔ علمی خود از هستی یافته است.
+fa_perdt-ud-train.conllu,train-s1841,نوشت,نوشت,False,False,False,Act,True,آیا نویسنده تنها هنگامی که می‌نویسد نویسنده است و در باقی زمان‌ها با دیگر انسان‌ها برابر است؟
+fa_perdt-ud-train.conllu,train-s1877,نوشت,نوشت,False,False,False,Act,False,اگر خیلی روان و راحت نوشتید و صفحات زیادی را پشت سر گذاشتید، تردید کنید.
+fa_perdt-ud-train.conllu,train-s2029,خواند,خواند,False,False,False,Act,True,آنها که زیاد می‌خوانند، وقتشان کم است.
+fa_perdt-ud-train.conllu,train-s2031,خواند,خواند,False,False,False,Act,True,من با تفکر و اندیشه‌ام می‌خوانم.
+fa_perdt-ud-train.conllu,train-s2036,خواند,خواند,False,False,False,Act,False,ممکن است پس از من بخوانید، در آن وقت من نزد شما نیستم که بخواهم به نفع خود و جلب نظرتان برای کسب مقام و قدرتی با قلب‌های جوان شما بازی کنم.
+fa_perdt-ud-train.conllu,train-s2170,خورد,خورد,False,False,False,Act,False,در احادیث آمده است که در مورد آنچه از مال حلال در دنیا خورده باشید، در آخرت سؤال نخواهد شد و خداوند کریم‌تر از آن است که از مؤمن در مورد آنچه از حلال خورده و آشامیده است، سؤال کند.
+fa_perdt-ud-train.conllu,train-s2170,خورد,خورد,False,False,False,Act,False,در احادیث آمده است که در مورد آنچه از مال حلال در دنیا خورده باشید، در آخرت سؤال نخواهد شد و خداوند کریم‌تر از آن است که از مؤمن در مورد آنچه از حلال خورده و آشامیده است، سؤال کند.
+fa_perdt-ud-train.conllu,train-s2172,خورد,خورد,False,False,False,Act,False,بخورید، بیاشامید و فوراً لاغر شوید!
+fa_perdt-ud-train.conllu,train-s2173,خورد,خورد,False,False,False,Act,False,بخورید و بیاشامید ولی اسراف نکنید.
+fa_perdt-ud-train.conllu,train-s2174,خورد,خورد,False,False,False,Act,False,در این مدت که در دنیا بوده‌ام، خورده‌ام و آشامیده‌ام و پوشیده‌ام، خداوند مرا وانگذاشته است و تملق احدی را نگفته‌ام و طمعی به احدی نداشته‌ام.
+fa_perdt-ud-train.conllu,train-s2671,خرید,خرید,False,False,False,Act,True,هر جا کتاب تازه‌ای می‌دید می‌خرید، آن را با دقت می‌خواند و در کتابخانه‌اش نگاه می‌داشت.
+fa_perdt-ud-train.conllu,train-s2722,خورد,خورد,False,False,False,Act,False,دختر به دلیل آزاد نبودن در معاشرت با مرد و عدم تجربه، اغلب به نخستین مردی که برمی‌خورد، با کمترین آشنایی دل می‌باخت.
+fa_perdt-ud-train.conllu,train-s2876,خورد,خورد,False,False,False,Act,False,پس اگر تمام سال یا مقداری از آن را از علف چیده‌شده یا از زراعتی که ملک مالک یا ملک کس دیگر است بچرد، زکات ندارد، ولی اگر در تمام سال یک روز یا دو روز از علف مالک بخورد، بنا بر احتیاط زکات آن واجب می‌باشد.
+fa_perdt-ud-train.conllu,train-s2907,خورد,خورد,False,False,False,Act,False,«از شگفتی‌های دریای پارس چیزی است که مردمان به شب‌هنگام بینند، در آن گاه چون موج‌ها بر هم خورند و بر یکدیگر شکسته شوند، از آنها آتش برجهد و آن که بر کشتی سوار است پندارد که بر دریایی از آتش روان باشد».
+fa_perdt-ud-train.conllu,train-s2915,نوشت,نوشت,False,False,False,Act,False,برای نمونه یک یهودی نمی‌تواند در شبات آتش بیفروزد، اتومبیل براند چرا که در موتور ماشین آتش روشن می‌شود، لامپ روشن یا خاموش کند، آشپزی کند، بنویسد، چیزی را در خیابان حمل کند، کاری که نیاز به جابه‌جایی شدید بدنی دارد انجام دهد، دوچرخه‌سواری کند، از دستگاه‌های الکتریکی مانند کامپیوتر، تلویزیون و آسانسور استفاده کند، و خرید و فروش کند؛ یهودیان ارتودوکس در این مورد بسیار باتوجه هستند.
+fa_perdt-ud-train.conllu,train-s2974,خواند,خواند,False,False,False,Act,True,بعد از یکی دو بار خواندن، حالا دو دسته شده‌ایم و همه با هم دم می‌دهیم و می‌خوانیم.
+fa_perdt-ud-train.conllu,train-s3010,خورد,خورد,False,False,False,Act,False,آنها همگی از یک توبره خورده و از یک کاسه لیسیده‌اند.
+fa_perdt-ud-train.conllu,train-s3258,خورد,خورد,False,False,False,Act,True,از آن چه می‌خورید به من بخورانید.
+fa_perdt-ud-train.conllu,train-s3633,خورد,خورد,False,False,False,Act,False,پایش به سنگی خورد و پرتاب شد.
+fa_perdt-ud-train.conllu,train-s3695,خرید,خرید,False,False,False,Act,False,ابزاری که خواهید خرید را بشناسید تا بتوانید حداکثر راندمان را ازش خارج کنید و با نقاط ضعفش کمتر تلاقی بکنید.
+fa_perdt-ud-train.conllu,train-s3710,خواند,خواند,False,False,False,Act,False,هر چه قرآن کریم را بیشتر بخوانیم، بیشتر در این کتاب آسمانی تعمق خواهیم کرد.
+fa_perdt-ud-train.conllu,train-s3809,نوشت,نوشت,False,False,False,Act,False,قبلاً در مورد مؤسسات متقلب مهاجرتی و آنهایی که برای مشتریان ناآگاه خود مدارک جعل و ارسال می‌کرده‌اند در سایت کنپارس نوشته‌ام.
+fa_perdt-ud-train.conllu,train-s3885,خورد,خورد,False,False,False,Act,True,این مدل به درد کسانی می‌خورد که قبلاً لباس بافته باشند.
+fa_perdt-ud-train.conllu,train-s4431,پخت,پخت,False,False,False,Act,False,از غذاهایی که خودتان پختید عکس بگذارید.
+fa_perdt-ud-train.conllu,train-s4434,پخت,پخت,False,False,False,Act,False,لپه را که قبلاً خیس کرده و پخته‌ایم، به گوشت اضافه می‌کنیم.
+fa_perdt-ud-train.conllu,train-s4943,خورد,خورد,False,False,False,Act,False,از نظر پرسنل مورد نیاز به مشکل برخورده‌ایم.
+fa_perdt-ud-train.conllu,train-s4944,خورد,خورد,False,False,False,Act,False,شانس آورده بودند که به یک گروه آماتوری نجوم برخورده بودند.
+fa_perdt-ud-train.conllu,train-s4945,خورد,خورد,False,False,False,Act,False,اگر در شجاعت و خویشتن‌داری بیشتر مردمان دقیق گردی به نکته‌ای شگفت برخواهی خورد.
+fa_perdt-ud-train.conllu,train-s4946,خورد,خورد,False,False,False,Act,False,به مشکل برخورد که چه عنوان انگلیسی باید برای وب‌نوشت‌های بی‌عنوان انتخاب کرد.
+fa_perdt-ud-train.conllu,train-s4947,خورد,خورد,False,False,False,Act,False,در این کتاب برای اولین بار به طبقه‌بندی حیوانات برمی‌خوریم.
+fa_perdt-ud-train.conllu,train-s4948,خورد,خورد,False,False,False,Act,False,سرمایهٔ اولیهٔ خود را مورد استفاده قرار ندهید مگر آن که به موردی ضروری بربخورید.
+fa_perdt-ud-train.conllu,train-s4949,خورد,خورد,False,False,False,Act,False,من یادم نمی‌آید که سر راهم به سعید برخورده باشم.
+fa_perdt-ud-train.conllu,train-s5090,خواند,خواند,False,False,False,Act,True,به نظرم، این داستان یک چیزی کم دارد یک چیزی که وقتی می‌خوانی در پایان به خواندنش ارزیده باشد.
+fa_perdt-ud-train.conllu,train-s5267,خواند,خواند,False,False,False,Act,True,قبل از شروع مراسم همان طور که در زورخانه‌ها می‌خوانند و ضرب می‌زنند خواندند و مابقی شرکت‌کنندگان در یاعلی گفتن با مرشد همراهی کردند.
+fa_perdt-ud-train.conllu,train-s5267,خواند,خواند,False,False,False,Act,False,قبل از شروع مراسم همان طور که در زورخانه‌ها می‌خوانند و ضرب می‌زنند خواندند و مابقی شرکت‌کنندگان در یاعلی گفتن با مرشد همراهی کردند.
+fa_perdt-ud-train.conllu,train-s5818,نوشت,نوشت,False,False,False,Act,False,به جای این که بنویسند با خودکار وررفتند.
+fa_perdt-ud-train.conllu,train-s6072,نوشت,نوشت,False,False,False,Act,False,اینها را که من نوشته‌ام اصلاً برای این نیست که به شما پز داده باشم.
+fa_perdt-ud-train.conllu,train-s6089,نوشت,نوشت,False,False,False,Act,True,آری می‌نویسم تا بر آقایان بانگ زده باشم که «الوعده وفا».
+fa_perdt-ud-train.conllu,train-s6594,نوشت,نوشت,False,False,False,Act,False,در این کارت دکتر امامی از سفر خود به بلژیک و نمایشگاه بلژیک نوشته است و از اعضای خانواده احوال‌پرسی کرده است.
+fa_perdt-ud-train.conllu,train-s7877,نوشت,نوشت,False,False,False,Act,False,اگر لطف خدا و عنایت شما باشد باز هم خواهیم نوشت و این چراغ افروخته در باد، همچنان سوسو خواهد کرد.
+fa_perdt-ud-train.conllu,train-s8340,خورد,خورد,False,False,False,Act,False,صدای مختصری از سمت پنجره به گوشم خورد، احتمالاً صدای به هم خوردن کرکره‌های پنجره بود که با وزش باد تلق تلوق صدا داده بودند.
+fa_perdt-ud-train.conllu,train-s8476,نوشت,نوشت,False,False,False,Act,False,بنویس و امضایش کن.
+fa_perdt-ud-train.conllu,train-s8865,نوشت,نوشت,False,False,False,Act,True,جوابی که الآن می‌نویسم را بارها در ذهنم گردانده و غربال کرده‌ام که امیدوارم اشتباهاتش کم باشد.
+fa_perdt-ud-train.conllu,train-s9106,نوشت,نوشت,False,False,False,Act,False,چنین نوشته بود که شما اگرچه به قشون من امداد کرده‌اید ولی کسی که حق نمک ولی‌نعمت خود را فراموش کرده، خیانت نماید به کار خدمت این دولت نیز نخواهد خورد.
+fa_perdt-ud-train.conllu,train-s9106,خورد,خورد,False,False,False,Act,False,چنین نوشته بود که شما اگرچه به قشون من امداد کرده‌اید ولی کسی که حق نمک ولی‌نعمت خود را فراموش کرده، خیانت نماید به کار خدمت این دولت نیز نخواهد خورد.
+fa_perdt-ud-train.conllu,train-s9587,خواند,خواند,False,False,False,Act,True,حتماً مطالبی را که می‌خوانم به ذهنم خواهم سپرد و به موقع آن را فراخوانی خواهم کرد.
+fa_perdt-ud-train.conllu,train-s9862,نوشت,نوشت,False,False,False,Act,True,رییس فرهنگ که اجازهٔ نشستن داد، نگاهش لحظه‌ای روی دستم مکث کرد و بعد چیزی را که می‌نوشت، تمام کرد و می‌خواست متوجه من بشود که رونویس حکم را روی میزش گذاشته بودم.
+fa_perdt-ud-train.conllu,train-s9902,خورد,خورد,False,False,False,Act,False,هنوز «گه خوردم» نامه‌نویسی هم مد نشده بود که بگویم یارو به این زودی‌ها از سولدونی درخواهد آمد.
+fa_perdt-ud-train.conllu,train-s9922,خواند,خواند,False,False,False,Act,False,پروندهٔ برق و تلفن مدرسه را از بایگانی بسیار محقر مدرسه بیرون کشیده بودم و خوانده بودم.
+fa_perdt-ud-train.conllu,train-s9973,خواند,خواند,False,False,False,Act,True,از خشم و برای آن که صدای جنجال عروسی منیر را نشنوم شب خیلی دیر به خانه برگشتم اما باز مطرب حرام‌زادهٔ مجلس ول‌کن معامله نبود و با صدای نیم‌مست خود می‌خواند.
+fa_perdt-ud-train.conllu,train-s10094,نوشت,نوشت,False,False,False,Act,False,و به خاطر کم کردن روی جمیله و همهٔ آنهایی که از تلخ بودن نوشته‌های من ایراد می‌گیرند بنویسم.
+fa_perdt-ud-train.conllu,train-s10100,نوشت,نوشت,False,False,False,Act,True,چرا آن قدر تلخ می‌نویسی؛ چرا؟
+fa_perdt-ud-train.conllu,train-s10216,خواند,خواند,False,False,False,Act,False,تا آنجا که من در کتاب‌های مربوطه خوانده‌ام در ایران باستان و در میان قوم یهود و احتمالاً در هند حجاب وجود داشته و از آنچه در قانون اسلام آمده سخت‌تر بوده است.
+fa_perdt-ud-train.conllu,train-s10228,خواند,خواند,False,False,False,Act,True,این که بعضی از هموطنان هرودوت در صحت و نوع این مذاکرات تردید می‌کرده‌اند، از آن روست که دوست داشته‌اند کسانی را که «بربر» (بیگانه) می‌خوانده‌اند از آشنایی با مباحث مربوط به دموکراسی و الیگارشی و مونارشی که نزد خود آنها موضوع بحث فیلسوفان قوم بوده است بی‌بهره نشان دهند و از این راه نیز، به گونه‌ای پارسیان را که دشمن خویش می‌خوانده‌اند در خور تحقیر فرانمایند.
+fa_perdt-ud-train.conllu,train-s10228,خواند,خواند,False,False,False,Act,True,این که بعضی از هموطنان هرودوت در صحت و نوع این مذاکرات تردید می‌کرده‌اند، از آن روست که دوست داشته‌اند کسانی را که «بربر» (بیگانه) می‌خوانده‌اند از آشنایی با مباحث مربوط به دموکراسی و الیگارشی و مونارشی که نزد خود آنها موضوع بحث فیلسوفان قوم بوده است بی‌بهره نشان دهند و از این راه نیز، به گونه‌ای پارسیان را که دشمن خویش می‌خوانده‌اند در خور تحقیر فرانمایند.
+fa_perdt-ud-train.conllu,train-s10299,خورد,خورد,False,False,False,Act,True,معنی عامیانه و عمومی‌اش همان ماده‌ای است که از آرد تهیه می‌شود و همه می‌خوریم.
+fa_perdt-ud-train.conllu,train-s10367,خورد,خورد,False,False,False,Act,False,راه چاره این است که با عفاف دروغین و خارخار پلید پنهانی، هر جا که برمی‌خوریم چه در وجود خودمان و چه در دنیای دور و برمان بجنگیم.
+fa_perdt-ud-train.conllu,train-s10723,خورد,خورد,False,False,False,Act,True,اگر حتی نوک انگشت کسی به پوست و موی او می‌خورد، همان روز دست جلادها سپرده می‌شد که انگشتش یا دستش بریده شود.
+fa_perdt-ud-train.conllu,train-s11111,خورد,خورد,False,False,False,Act,False,وقتی نیزه‌ها به شما برخورد در آن فروروید، پیچ و تاب بخورید و چون شمشیرها بر شما فرود آمد هر یک [از شما] دندان بفشارد که این برای حفظ سر بهتر است و سپس با جلو سر خود از آن قوم استقبال کنید.
+fa_perdt-ud-train.conllu,train-s11257,نوشت,نوشت,False,False,False,Act,True,پیامبر (صلی‌الله علیه و آله) آیات سورهٔ تین را بر وی املا کرد و او می‌نوشت.
+fa_perdt-ud-train.conllu,train-s11422,نوشت,نوشت,False,False,False,Act,False,در رابطه با تجارب خود برای یک مجله مقاله بنویسید و سعی کنید شعر بسرایید یا ترانه تصنیف بکنید.
+fa_perdt-ud-train.conllu,train-s11496,خرید,خرید,False,False,False,Act,False,با پولی که از این راه صرفه‌جویی کرده بودم، برای خودم یک پیراهن خریدم.
+fa_perdt-ud-train.conllu,train-s11586,خورد,خورد,False,False,False,Act,True,چند روز اول کاسهٔ شیری جلویش می‌گذاشتم، اما نمی‌خورد.
+fa_perdt-ud-train.conllu,train-s11587,خورد,خورد,False,False,False,Act,False,یعنی نمی‌دانست چطور باید بخورد.
+fa_perdt-ud-train.conllu,train-s11598,نوشت,نوشت,False,False,False,Act,False,با آدرس خودتان، فقط به آدرس حسینیه بنویسید و من جواب خواهم داد و به شما پس خواهم فرستاد.
+fa_perdt-ud-train.conllu,train-s12077,نوشت,نوشت,False,False,False,Act,False,آقا جان، نمی‌شود یک پارتی‌بازی بکنید و یواشکی گوشهٔ پرونده‌ام بنویسید.
+fa_perdt-ud-train.conllu,train-s12178,خواند,خواند,False,False,False,Act,False,مانند کسی که تازه چیزی به یادش افتاده باشد رو به من کرده و گفت: این آیه که خواندی، در کدام سوره است؟
+fa_perdt-ud-train.conllu,train-s12244,خورد,خورد,False,False,False,Act,True,بهترین و فاضل‌ترین چیزی که هر مرد می‌خورد، چیزی است که از کار دست خویش، حاصل آورده باشد.
+fa_perdt-ud-train.conllu,train-s12297,خورد,خورد,False,False,False,Act,True,روزهای سال می‌خورد پیه می‌آورد؛ شب‌های سال از هول نداری فردا، پیه‌هایش آب می‌شود.
+fa_perdt-ud-train.conllu,train-s12298,نوشت,نوشت,False,False,False,Act,False,دو فرستادهٔ تو را پیش خواندم و از آنها پرسش کردم و محرمانه سخن کردم و رأی و فضلشان را چنان یافتم که نوشته بودی.
+fa_perdt-ud-train.conllu,train-s12332,نوشت,نوشت,False,False,False,Act,False,ایشان با یک خط بسیار زیبایی نوشتند.
+fa_perdt-ud-train.conllu,train-s13576,خورد,خورد,False,False,False,Act,True,کمتر می‌خورم و بیشتر تحرک می‌کنم.
+fa_perdt-ud-train.conllu,train-s13998,خورد,خورد,False,False,False,Act,True,و از آنچه می‌خورید و در خانه‌هایتان ذخیره می‌نهید خبر می‌دهم.
+fa_perdt-ud-train.conllu,train-s15167,نوشت,نوشت,False,False,False,Act,False,نایب‌رییس شورای مرکزی قرارگاه عمار با اشاره به آثار شهید آوینی در فیلم‌سازی و نویسندگی تأکید کرد: هیچ کس نمی‌تواند بگوید آوینی قبل از آن که انقلابی باشد یک فیلمساز بوده است چراکه دغدغهٔ انقلاب و اسلام داشت و جایی نوشت و جایی فیلم‌سازی کرد.
+fa_perdt-ud-train.conllu,train-s15250,خرید,خرید,False,False,False,Act,False,خوبی را نمی‌توان قرض گرفت، خرید یا گدایی کرد.
+fa_perdt-ud-train.conllu,train-s15956,خورد,خورد,False,False,False,Act,True,قطرات موزون باران به شیشه‌ها می‌خورد... مثل کسی که در ذهن من ریتم گرفته باشد.
+fa_perdt-ud-train.conllu,train-s16517,نوشت,نوشت,False,False,False,Act,False,امروز به یکی از اهداف کوچکم که سال پیش برای رسیدن به آن زمان‌بندی کرده بودم و چند ماه پیش در وبلاگم نوشته بودم رسیدم.
+fa_perdt-ud-train.conllu,train-s16661,خورد,خورد,False,False,False,Act,False,از چیزهای حلال بخورید و شیطان را تعبد نکنید.
+fa_perdt-ud-train.conllu,train-s17096,خورد,خورد,False,False,False,Act,True,برخی جوانان پس از ازدواج تازه متوجه می‌شوند که به درد هم نمی‌خورند پس باید طلاق بگیرند.
+fa_perdt-ud-train.conllu,train-s17262,خورد,خورد,False,False,False,Act,False,وقتی قذافی با سران آمریکا و اروپا به مشکل خورد آمریکایی‌ها جرائم قذافی را لیست کردند.
+fa_perdt-ud-train.conllu,train-s17286,خورد,خورد,False,False,False,Act,False,قبلاً از آب و هوای مناطقی که در آن ماهیگیری خواهید کرد اطلاع دقیق به دست بیاورید تا به مشکل برنخورید.
+fa_perdt-ud-train.conllu,train-s17667,خورد,خورد,False,False,False,Act,False,خدا که برای کشاورز بذر آماده می‌کند تا بکارد و درو کند و بخورد، به شما نیز بذر فراوان عطا خواهد کرد تا بکارید، و محصولتان را فزونی خواهد داد.
+fa_perdt-ud-train.conllu,train-s17697,خورد,خورد,False,False,False,Act,False,دیشب هم مانند شب‌های دیگر به دلم رنگ غم خورده بود.
+fa_perdt-ud-train.conllu,train-s17899,نوشت,نوشت,False,False,False,Act,False,به دلیل اینکه این روزها، اتفاقاتی که باید در اینجا بنویسیم دارد زیاد می‌شود و من نمی‌توانم با سرعتی که در ابتدا می‌نوشتم ادامه بدهم، مجبور هستم که هر موقع هر چه رسید دستم بنویسم منتهی برای اینکه از لحاظ زمانی با هم قاطی نشوند، موضوع‌بندی خواهم کرد.
+fa_perdt-ud-train.conllu,train-s17899,نوشت,نوشت,False,False,False,Act,True,به دلیل اینکه این روزها، اتفاقاتی که باید در اینجا بنویسیم دارد زیاد می‌شود و من نمی‌توانم با سرعتی که در ابتدا می‌نوشتم ادامه بدهم، مجبور هستم که هر موقع هر چه رسید دستم بنویسم منتهی برای اینکه از لحاظ زمانی با هم قاطی نشوند، موضوع‌بندی خواهم کرد.
+fa_perdt-ud-train.conllu,train-s17900,نوشت,نوشت,False,False,False,Act,True,مطلبی را که می‌نویسید می‌توانید آن مطلب را موضوع‌بندی کنید.
+fa_perdt-ud-train.conllu,train-s18629,خورد,خورد,False,False,False,Act,True,مرتب می‌خورد و بع‌بع می‌کند.
+fa_perdt-ud-train.conllu,train-s19105,خواند,خواند,False,False,False,Act,True,میان‌دار می‌خواند و سینه‌زن‌ها دم می‌گیرند.
+fa_perdt-ud-train.conllu,train-s19210,نوشت,نوشت,False,False,False,Act,True,او هر کاری می‌نوشت، همواره به مراتب بزرگ‌تر از آثار تراژدی‌نویسان جدید از آب درمی‌آمد.
+fa_perdt-ud-train.conllu,train-s19246,خواند,خواند,False,False,False,Act,True,جامع‌المقدمات، مغنی، مطول، مکاسب شیخ، اشعار و خلاصه همه چیز را تعلیم می‌داد و قاعده‌اش این بود که طلاب می‌خواندند و او شرح می‌داد و معنی می‌کرد.
+fa_perdt-ud-train.conllu,train-s19284,خورد,خورد,False,False,False,Act,False,گوسفند کشته بودند و پانزده نفری همه‌اش را سیخ زده بودند و خورده بودند.
+fa_perdt-ud-train.conllu,train-s19301,خواند,خواند,False,False,False,Act,False,مدتی است که فضایی در شهر کتاب شعبهٔ ساوه جهت علاقمندان به کتاب ایجاد شده است، تا بتوانند دیگران را در لذت بهترین کتابی که تاکنون خوانده‌اند شریک کنند.
+fa_perdt-ud-train.conllu,train-s20968,خورد,خورد,False,False,False,Act,False,مثل اینکه خونی که قبلاً خورده بود حسابی بهش کام داده بود.
+fa_perdt-ud-train.conllu,train-s21243,خورد,خورد,False,False,False,Act,True,با یک دست می‌خورد و غالباً می‌نویسد و با دست دیگر طهارت می‌گیرد!
+fa_perdt-ud-train.conllu,train-s21243,نوشت,نوشت,False,False,False,Act,True,با یک دست می‌خورد و غالباً می‌نویسد و با دست دیگر طهارت می‌گیرد!
+fa_perdt-ud-train.conllu,train-s21276,نوشت,نوشت,False,False,False,Act,False,پس از دو روز بالأخره وقت کردم بنویسم.
+fa_perdt-ud-train.conllu,train-s21378,خورد,خورد,False,False,False,Act,True,در این فصل که خیابان‌های تهران زرد و نارنجی است، اینجا سبز سبز است و از تمام پدیده‌های ساخت بشر، یک آمفی‌تئاتر با صندلی‌های سیمانی به چشم می‌خورد که هنوز سرد است و تاکنون فرصت نیافته میهمان‌نوازی بکند.
+fa_perdt-ud-train.conllu,train-s21385,خورد,خورد,False,False,False,Act,True,خداوند مردم را در مورد غذاهای لذیذ و آب‌های خنک که در فصل تابستان می‌خورند، مؤاخذه می‌کند.
+fa_perdt-ud-train.conllu,train-s21946,خرید,خرید,False,False,False,Act,False,ایشان به سال هخامنشی 2537 سکه مهریه می‌کند و امروز نه تنها دختر سکه‌ها را بخشیده بلکه آپارتمانی را که پدرش برایشان کادوی عروسی خریده بود، بخشیده.
+fa_perdt-ud-train.conllu,train-s22174,خورد,خورد,False,False,False,Act,True,هر دستی که محکم به پشت ما می‌خورد ما را شکنجه می‌کرد و ما را وادار می‌کرد که آروغ بزنیم.
+fa_perdt-ud-train.conllu,train-s22332,خورد,خورد,False,False,False,Act,False,تمام اشیای مسروقه را در آن مدت فروخته و خورده و تمام کرده بود و فقط سر قلیان سید محسن باقی مانده بود که گرفته و مسترد داشتیم.
+fa_perdt-ud-train.conllu,train-s22338,خواند,خواند,False,False,False,Act,False,پس از آنکه صمد تا نیمه شب پایکوبی نمود و مستی کرد و خواند، در حالی که آهنگ می‌خواند از عروسی رفت.
+fa_perdt-ud-train.conllu,train-s22355,نوشت,نوشت,False,False,False,Act,False,نمی‌دانم چطور بنویسم بسیار سخت است کسی را که نمی‌شناسی برای او مشاورت بکنی.
+fa_perdt-ud-train.conllu,train-s22366,نوشت,نوشت,False,False,False,Act,True,وقتی یک نژادپرست زیر پوشش دمکراسی مقاله‌نویسی می‌کند، قطعاً نژادپرستانه می‌نویسد.
+fa_perdt-ud-train.conllu,train-s22548,خورد,خورد,False,False,False,Act,False,این اقدام هم به همان سد سکندر مذهبی- استبدادی- امپریالیستی‌ای که هدایت در آثار خویش بر آن انگشت گذارده بود برخورد و در نطفه خفه شد.
+fa_perdt-ud-train.conllu,train-s22840,خورد,خورد,False,False,False,Act,False,این طلسم را بر روی یک کاغذ با گلاب و زعفران بنویسید و آن را در آب بجوشانید و از آب آن بخورید به حرمت این طلسم هزار نوع مرض از بین می‌رود و شفا پیدا می‌کنید.
+fa_perdt-ud-train.conllu,train-s23302,خورد,خورد,False,False,False,Act,False,ایشان با اشاره به تلاش‌های گستردهٔ دشمنان برای سوق دادن ایران به سوی موضع بی‌تفاوتی در قبال فلسطین خاطرنشان کردند: دشمنان از همهٔ راه‌ها وارد شدند اما سرشان به سنگ خورد.
+fa_perdt-ud-train.conllu,train-s23495,خواند,خواند,False,False,False,Act,False,گفتم شاید غلط خوانده‌ام.
+fa_perdt-ud-train.conllu,train-s23512,نوشت,نوشت,False,False,False,Act,True,در حقیقت هر نویسنده‌ای انسان است اما برخی از انسان‌ها مهارت نویسندگی را کسب می‌کنند و می‌نویسند.
+fa_perdt-ud-train.conllu,train-s23516,نوشت,نوشت,False,False,False,Act,False,ممکن است نویسنده‌ای سر ساعت مشخص پشت میزش بنویسد.
+fa_perdt-ud-train.conllu,train-s23900,خورد,خورد,False,False,False,Act,False,این اولین تونلی بود که در مسیرشان به آن برمی‌خوردند.
+fa_perdt-ud-train.conllu,train-s24124,خرید,خرید,False,False,False,Act,False,شاید دوستانم بخواهند جزوه‌هایی را که دو روز قبل خریده بودند پس بیاورند.
+fa_perdt-ud-train.conllu,train-s24525,خورد,خورد,False,False,False,Act,False,اگر به دیگران برنخورد در رابطه با زنان ابله و احمق هم می‌شویم.
+fa_perdt-ud-train.conllu,train-s24527,خورد,خورد,False,False,False,Act,True,نفس دختر هنگام درس به نفس من می‌خورد تمام وجودم را شوق می‌کرد اما از ترس عشق پاک این شوق و حرارت که مرا می‌سوزاند و می‌گداخت به زبان نمی‌آوردم.
+fa_perdt-ud-train.conllu,train-s24783,نوشت,نوشت,False,False,False,Act,False,من تا حالا فکر می‌کردم آنجا نوشته‌ای و داری پست می‌کنی.
+fa_perdt-ud-train.conllu,train-s24848,خورد,خورد,False,False,False,Act,False,نوروز آمده تا می‌توانید بخورید مبادا که از قافله پس بیافتید.
+fa_perdt-ud-train.conllu,train-s25752,خورد,خورد,False,False,False,Act,True,او را در آغوش کشیدم ولی مثل موجی که به صخره می‌خورد از جایش تکان هم نخورد.
+fa_perdt-ud-dev.conllu,dev-s251,خواند,خواند,False,False,False,Act,True,هر چه بود دلی بود که می‌خواند و می‌نواخت و دل‌هایی که به جان خریدار آن آواها و نغمه‌ها بودند.
+fa_perdt-ud-dev.conllu,dev-s303,خورد,خورد,False,False,False,Act,True,تابستان‌ها که فصل توت بود، چادرشب بزرگی روی تخت پهن می‌کردیم و توت‌های درخت محله را می‌تکاندیم و همه با هم می‌خوردیم.
+fa_perdt-ud-dev.conllu,dev-s313,نوشت,نوشت,False,False,False,Act,False,تاریخ پرفراز و نشیب حوزه‌های علمیه را نمی‌توان در اوراق تاریخ مکتوب جست که واقعه‌نگاران، خواسته و ناخواسته، خدمت‌گزار اورنگ‌ها بوده‌اند و با رعایا و مراکز ستیز علیه سلطه‌ها، چهره پرآژنگ داشته‌اند و اگر که گاهی، منصفانه نوشته‌اند و در ترسیم چهره‌ها، کمتر خطا کرده‌اند، باز از لایه‌های زیرین قضایا، روی برتابانده‌اند و یا به خاطر عدم شناخت دقیق انگیزه‌ها و مصالح، بیراهه راه پیموده‌اند.
+fa_perdt-ud-dev.conllu,dev-s555,پخت,پخت,False,False,False,Act,False,پیازها را برای یک مدت زمان طولانی روی حرارت ملایم بگذارید تا به خوبی بپزند.
+fa_perdt-ud-dev.conllu,dev-s619,خورد,خورد,False,False,False,Act,False,به یک میدان مین وسیع در فکه برخوردیم.
+fa_perdt-ud-dev.conllu,dev-s1158,خورد,خورد,False,False,False,Act,False,اگر به سر کودک ضربه خورده است دکتر برای بررسی شکستگی از جمجمه عکس خواهد گرفت.
+fa_perdt-ud-dev.conllu,dev-s1233,خورد,خورد,False,False,False,Act,False,سعی کردم با سرعت دور حیاط خانه دوچرخه‌سواری کنم که ناگهان دوچرخه منحرف شد و سرم محکم به دیوار حوض خانه خورد.
+fa_perdt-ud-dev.conllu,dev-s1244,خواند,خواند,False,False,False,Act,True,"دنیا در تصرفمان بود، غمی نداشتیم، آزاد و بی‌نیاز بودیم، می‌خواندیم، می‌گفتیم، می‌خندیدیم، درس حاضر می‌کردیم و چون خسته می‌شدیم برای آیندهٔ ""کثیف فعلی"" آرزوهایی کرده، از حافظ فال می‌گرفتیم."
+fa_perdt-ud-dev.conllu,dev-s1264,نوشت,نوشت,False,False,False,Act,True,گفت: «تو مرا نمی‌بینی، مرا به این گندگی، عشقم را به این بزرگی، و علی را که لبخندش دنیا را می‌ارزد، اینها را نمی‌بینی، بعد می‌نشینی در مورد آن کارگر افغانی می‌نویسی، او که مجموع دقایقی که دیدمش به پنج نمی‌رسد، می‌نشینی و ساعت‌ها در موردش فکر می‌کنی و ساعت‌ها می‌نویسی.».
+fa_perdt-ud-dev.conllu,dev-s1264,نوشت,نوشت,False,False,False,Act,True,گفت: «تو مرا نمی‌بینی، مرا به این گندگی، عشقم را به این بزرگی، و علی را که لبخندش دنیا را می‌ارزد، اینها را نمی‌بینی، بعد می‌نشینی در مورد آن کارگر افغانی می‌نویسی، او که مجموع دقایقی که دیدمش به پنج نمی‌رسد، می‌نشینی و ساعت‌ها در موردش فکر می‌کنی و ساعت‌ها می‌نویسی.».
+fa_perdt-ud-dev.conllu,dev-s1434,نوشت,نوشت,False,False,False,Act,True,هفته‌نامه‌ای هم به مسئولیت خودش چاپ می‌کرد که خودش می‌نوشت و خودش تایپ می‌کرد و صفحه‌آرایی می‌کرد.
+fa_perdt-ud-test.conllu,test-s28,خرید,خرید,False,False,False,Act,False,بایستی اگر چاهی روی زمین است بخرند، اگر نیست، آب‌رسانی بکنند.
+fa_perdt-ud-test.conllu,test-s199,نوشت,نوشت,False,False,False,Act,True,پرویز شاپور به یک موضوع پیله می‌کرد و می‌نوشت.
+fa_perdt-ud-test.conllu,test-s757,خواند,خواند,False,False,False,Act,False,بخوانید و بخندید دنیا ارزش ندارد که همه‌اش غم بخورید.
+fa_perdt-ud-test.conllu,test-s897,خورد,خورد,False,False,False,Act,False,اگر کسی به شخصی چشم‌زخم زد و در اثر آن شخص مریض شد، بهترین و ساده‌ترین راه برای خوب شدن و رهایی از آن مرض این است که از دست شخص چشم‌زننده یک چیز خوردنی بگیرد و بخورد.
+fa_perdt-ud-test.conllu,test-s1192,خواند,خواند,False,False,False,Act,False,در هر حال اگر در سفر تمام بخواند نمازش باطل است چه نسیان کرده باشد و چه از روی سهو تمام خوانده باشد.
+fa_perdt-ud-test.conllu,test-s1192,خواند,خواند,False,False,False,Act,False,در هر حال اگر در سفر تمام بخواند نمازش باطل است چه نسیان کرده باشد و چه از روی سهو تمام خوانده باشد.
+fa_perdt-ud-test.conllu,test-s1193,نوشت,نوشت,False,False,False,Act,False,همان گونه که قبلاً نوشتم مدت زیادی بود می‌خواستم یک نوگرایی کرده باشم.
+fa_perdt-ud-test.conllu,test-s1197,خورد,خورد,False,False,False,Act,True,قبلاً صیادی کرده بودم، ولی در شهر جدید این کار به درد نمی‌خورد.
+fa_perdt-ud-test.conllu,test-s1272,نوشت,نوشت,False,False,False,Act,False,چندین نمونه از مقاله‌های بی‌شماری را که نوشته‌ام در یک جلد چاپ خواهم کرد.

@@ -1,0 +1,25 @@
+# --- Corpus data (not redistributed; see README for download) ---
+data/perdt/*.conllu
+data/valency/*
+
+# --- Large or intermediate outputs ---
+outputs/**/*.pkl
+outputs/**/*.parquet
+
+# --- Manual annotation (keep private until publication) ---
+annotation/raw/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- PyCharm / IDE ---
+.idea/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini

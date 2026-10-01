@@ -24,6 +24,7 @@ Each file starts with the guide, then a right-to-left table:
     شماره | محمول | جمله (verb in bold) | برچسب | توضیح
 The annotator writes ONE code in the «برچسب» column (Persian or Latin):
     آ  (F)  حذف آزاد / بافت‌آزاد
+    ض  (G)  مفعول به‌صورت مضاف‌الیهِ جزء غیرفعلی: «طلبِ کرامت کردند»
     ق  (C)  حذف به قرینه
     خ  (E)  خطای برچسب‌گذاری: مفعول در جمله هست
     غ  (N)  کاربرد غیرمتعدی یا ساخت دیگر
@@ -148,6 +149,9 @@ GUIDE = [
     ("آ", "F", "حذف آزاد (بافت‌آزاد)",
      "مفعول نیامده و مرجع آن در جمله یا بافت ذکر نشده است.",
      "«دائم داره می‌خوره.»  «روی پوست درختان حکاکی نکنید.»"),
+    ("ض", "G", "مفعول به‌صورت مضاف‌الیه",
+     "مفعول آمده، ولی نه جدا: به‌صورت مضاف‌الیهِ جزء غیرفعلی (با کسرهٔ اضافه).",
+     "«طلبِ کرامت کردند»  «طلبِ باران می‌کردند»  (= کرامت/باران را طلب کردند)"),
     ("ق", "C", "حذف به قرینه",
      "مفعول نیامده، ولی مرجع آن در همین جمله یا جملهٔ قبل هست؛ مثلاً مفعول مشترک با فعل هم‌پایه.",
      "«کتاب را باز کنند و بخوانند.»"),
@@ -241,7 +245,11 @@ for annotator in [1, 2]:
         doc = new_document()
         write_guide(doc, b, annotator)
         write_items(doc, items)
-        doc.save(folder / f"06_batch{b}.docx")
+        target = folder / f"06_batch{b}.docx"
+        if target.exists():
+            print(f"  kept existing {target} (delete it to regenerate)")
+            continue
+        doc.save(target)
 
 sample[["item", "batch", "stratum", "file", "sent_id", "tok_id", "predicate",
         "cp_strict", "cp_broad", "light_verb", "reliable", "has_obj",

@@ -4,8 +4,28 @@ simple_reliable_omitted          available   655   sampled 100
 simple_rare_omitted              available   128   sampled 100
 control_with_object              sampled 100
 
-Total items: 500 in 5 batches of 100
-Saved: annotation/annotator1/06_batch1-5.docx, annotation/annotator2/06_batch1-5.docx,
-       annotation/06_sample_key.csv
+=== STDERR ===
+Traceback (most recent call last):
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\06-annotation_sample.py", line 244, in <module>
+    doc.save(folder / f"06_batch{b}.docx")
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\.venv\Lib\site-packages\docx\document.py", line 204, in save
+    self._part.save(path_or_stream)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\.venv\Lib\site-packages\docx\parts\document.py", line 114, in save
+    self.package.save(path_or_stream)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\.venv\Lib\site-packages\docx\opc\package.py", line 166, in save
+    PackageWriter.write(pkg_file, self.rels, self.parts)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\.venv\Lib\site-packages\docx\opc\pkgwriter.py", line 34, in write
+    phys_writer = PhysPkgWriter(pkg_file)
+  File "C:\Users\sama\PycharmProjects\persian-object-omission\.venv\Lib\site-packages\docx\opc\phys_pkg.py", line 109, in __init__
+    self._zipf = ZipFile(pkg_file, "w", compression=ZIP_DEFLATED)
+                 ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sama\anaconda3\Lib\zipfile\__init__.py", line 1367, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'annotation\\annotator1\\06_batch1.docx'
 
-=== exit code: 0 ===
+=== exit code: 1 ===

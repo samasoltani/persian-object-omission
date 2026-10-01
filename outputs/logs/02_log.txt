@@ -1,0 +1,58 @@
+Active lexical verb tokens: 50989
+Distinct predicates: 5699
+CP-strict: 31367   CP-broad: 32708
+Objects recovered from «را»-marked obl/obl:arg: 189
+
+CP-broad additions (xcomp NVE), top 15:
+predicate
+باز کرد      48
+رها کرد      27
+پر کرد       18
+فراهم کرد    17
+متهم کرد     17
+مطرح کرد     16
+آماده کرد    16
+وادار کرد    15
+مشخص کرد     14
+دور کرد      14
+خارج کرد     13
+روشن کرد     13
+پاک کرد      13
+تمام کرد     12
+پنهان کرد    12
+
+Overt object, by predicate type (raw, before transitivity filter):
+has_obj  False  True 
+type                 
+complex  0.654  0.346
+simple   0.542  0.458
+
+Overt objects - surface properties:
+  obj_ra        0.725
+  obj_pron      0.112
+  obj_plural    0.235
+  obj_dem       0.033
+  obj_indef     0.016
+  obj_modified  0.567
+  obj_bare      0.120
+
+Instance-level factors (share of all verb tokens):
+  imperfective      0.270
+  progressive       0.003
+  imperative        0.050
+  negated           0.061
+  in_coordination   0.317
+  conjunct_has_obj  0.139
+  has_ccomp         0.102
+  has_obl_arg       0.315
+
+Without overt object: how many are 'suspect' (shared-object coordination,
+clausal/verbal complement)?
+  no-obj tokens            : 31139
+  conjunct has obj         : 3902
+  has ccomp                : 4881
+  has verbal xcomp         : 0
+
+Saved: C:\Users\sama\PycharmProjects\persian-object-omission\outputs\tables\02_verb_tokens.csv
+
+=== exit code: 0 ===

@@ -27,6 +27,3 @@ desktop.ini
 
 # --- Token-level tables (contain corpus sentences; regenerate by running the scripts) ---
 outputs/tables/*_tokens.csv
-
-# --- Annotation batches (contain corpus sentences; regenerate with 06) ---
-annotation/annotator*/

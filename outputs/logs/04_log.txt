@@ -1,0 +1,80 @@
+=== Exclusion flow ===
+                               step  removed  remaining
+     active lexical verbs (step 02)        0      50989
+              relative clause (acl)     7559      43430
+         clausal complement (ccomp)     4694      38736
+          direct speech (parataxis)       72      38664
+          predicative/clausal xcomp     2671      35993
+            clausal subject (csubj)       12      35981
+PP-verbs (obl:arg > obj, obj < 50%)    13515      22466
+not transitive at 10% (or too rare)     5923      16543
+
+=== RQ1 (descriptive, cleaned): omission rate, complex vs simple ===
+ threshold cp_definition  complex_types  simple_types  complex_omit_token  simple_omit_token  complex_omit_type  simple_omit_type
+      0.05     cp_strict           1083           227               0.149              0.107              0.143             0.127
+      0.05      cp_broad           1133           177               0.148              0.106              0.142             0.126
+      0.10     cp_strict           1083           227               0.149              0.107              0.143             0.127
+      0.10      cp_broad           1133           177               0.148              0.106              0.142             0.126
+      0.20     cp_strict           1083           227               0.149              0.107              0.143             0.127
+      0.20      cp_broad           1133           177               0.148              0.106              0.142             0.126
+
+=== Main dataset (10%) ===
+predicates: 1310   tokens: 16543   omitted: 2155 (13.0%)
+  omitted with an object-bearing conjunct (possible shared object): 619
+
+=== RQ2 (descriptive, cleaned): omission by light verb (CP-strict) ===
+            tokens  omit_token  predicate_types
+light_verb                                     
+کرد           6352       0.165              765
+داد           1400       0.106              146
+زد             424       0.186               59
+داشت           345       0.078               42
+آورد           201       0.104               23
+گرفت           154       0.110               19
+گذاشت           72       0.000                9
+کشید            53       0.132                7
+
+=== PP-verbs removed (most frequent 15) ===
+  predicate   n  n_obj  n_oblarg
+        رفت 487     10       379
+        آمد 461      2       310
+       رسید 307      2       269
+      افتاد 159      1       123
+       نشست 151      9       110
+  وجود داشت 100      2        36
+        گشت  98      5        64
+       ماند  91      0        55
+     ایستاد  87      0        58
+     پرداخت  81     10        73
+       گذشت  75      0        49
+استفاده کرد  74      4        69
+    وارد شد  72      0        12
+   نگاه کرد  55     12        38
+    عمل کرد  48      4        18
+
+=== Highest omission among frequent transitives after cleaning (n >= 30) ===
+predicate   n  n_obj  omission_rate  cp_strict
+ شروع کرد  62     14          0.774       True
+     ریخت  75     43          0.427      False
+    دانست  43     25          0.419      False
+     خورد 128     78          0.391      False
+      گفت 144    103          0.285      False
+     نوشت 107     77          0.280      False
+  دست داد  37     27          0.270       True
+    خواست  54     40          0.259      False
+ایجاد کرد  34     26          0.235       True
+      کرد 175    135          0.229      False
+    بخشید  54     42          0.222      False
+   پذیرفت  50     40          0.200      False
+     شکست  48     39          0.188      False
+      برد 132    108          0.182      False
+     شنید  55     45          0.182      False
+       زد 148    124          0.162      False
+   فرستاد  59     50          0.153      False
+      کشت  50     43          0.140      False
+انجام داد 102     88          0.137       True
+    خواند 152    134          0.118      False
+
+Saved: 04_exclusions.csv, 04_predicates.csv, 04_sensitivity.csv, 04_analysis_tokens.csv
+
+=== exit code: 0 ===

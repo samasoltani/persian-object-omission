@@ -1,8 +1,8 @@
 ﻿predicate,n,n_obj,n_oblarg,cp_strict,cp_broad,light_verb,obj_rate,oblarg_rate,omission_rate,pp_verb,transitive_5,transitive_10,transitive_20
 داشت,1336,1313,83,False,False,,0.9827844311377245,0.06212574850299401,0.017215568862275488,False,True,True,True
-رفت,487,6,381,False,False,,0.012320328542094456,0.7823408624229979,0.9876796714579056,True,False,False,False
-آمد,461,1,311,False,False,,0.0021691973969631237,0.6746203904555315,0.9978308026030369,True,False,False,False
-داد,448,432,217,False,False,,0.9642857142857143,0.484375,0.0357142857142857,False,True,True,True
+رفت,487,10,379,False,False,,0.02053388090349076,0.7782340862422998,0.9794661190965093,True,False,False,False
+آمد,461,2,310,False,False,,0.004338394793926247,0.6724511930585684,0.9956616052060737,True,False,False,False
+داد,448,432,208,False,False,,0.9642857142857143,0.4642857142857143,0.0357142857142857,False,True,True,True
 گرفت,375,352,162,False,False,,0.9386666666666666,0.432,0.06133333333333335,False,True,True,True
 رسید,307,2,269,False,False,,0.006514657980456026,0.8762214983713354,0.993485342019544,True,False,False,False
 آورد,271,251,201,False,False,,0.9261992619926199,0.7416974169741697,0.07380073800738007,False,True,True,True
@@ -13,23 +13,23 @@
 افتاد,159,1,123,False,False,,0.006289308176100629,0.7735849056603774,0.9937106918238994,True,False,False,False
 خواند,152,134,17,False,False,,0.881578947368421,0.1118421052631579,0.11842105263157898,False,True,True,True
 نشست,151,9,110,False,False,,0.059602649006622516,0.7284768211920529,0.9403973509933775,True,False,False,False
-زد,148,124,71,False,False,,0.8378378378378378,0.4797297297297297,0.16216216216216217,False,True,True,True
-گفت,144,103,50,False,False,,0.7152777777777778,0.3472222222222222,0.2847222222222222,False,True,True,True
-کشید,135,124,88,False,False,,0.9185185185185185,0.6518518518518519,0.08148148148148149,False,True,True,True
-برد,132,108,81,False,False,,0.8181818181818182,0.6136363636363636,0.18181818181818177,False,True,True,True
+زد,148,124,69,False,False,,0.8378378378378378,0.46621621621621623,0.16216216216216217,False,True,True,True
+گفت,144,103,47,False,False,,0.7152777777777778,0.3263888888888889,0.2847222222222222,False,True,True,True
+کشید,135,124,87,False,False,,0.9185185185185185,0.6444444444444445,0.08148148148148149,False,True,True,True
+برد,132,108,80,False,False,,0.8181818181818182,0.6060606060606061,0.18181818181818177,False,True,True,True
 خورد,128,78,31,False,False,,0.609375,0.2421875,0.390625,False,True,True,True
 انداخت,118,110,91,False,False,,0.9322033898305084,0.7711864406779662,0.06779661016949157,False,True,True,True
 نوشت,107,77,15,False,False,,0.719626168224299,0.14018691588785046,0.28037383177570097,False,True,True,True
 انجام داد,102,88,1,True,True,داد,0.8627450980392157,0.00980392156862745,0.13725490196078427,False,True,True,True
 وجود داشت,100,2,36,True,True,داشت,0.02,0.36,0.98,True,False,False,False
-گشت,98,4,65,False,False,,0.04081632653061224,0.6632653061224489,0.9591836734693877,True,False,False,False
+گشت,98,5,64,False,False,,0.05102040816326531,0.6530612244897959,0.9489795918367347,True,False,False,False
 ماند,91,0,55,False,False,,0.0,0.6043956043956044,1.0,True,False,False,False
 ایستاد,87,0,58,False,False,,0.0,0.6666666666666666,1.0,True,False,False,False
 یافت,85,83,10,False,False,,0.9764705882352941,0.11764705882352941,0.02352941176470591,False,True,True,True
 پرداخت,81,10,73,False,False,,0.12345679012345678,0.9012345679012346,0.8765432098765432,True,False,False,False
 گذشت,75,0,49,False,False,,0.0,0.6533333333333333,1.0,True,False,False,False
 ریخت,75,43,46,False,False,,0.5733333333333334,0.6133333333333333,0.42666666666666664,False,True,True,True
-رساند,74,73,69,False,False,,0.9864864864864865,0.9324324324324325,0.013513513513513487,False,True,True,True
+رساند,74,73,67,False,False,,0.9864864864864865,0.9054054054054054,0.013513513513513487,False,True,True,True
 استفاده کرد,74,4,69,True,True,کرد,0.05405405405405406,0.9324324324324325,0.9459459459459459,True,False,False,False
 وارد شد,72,0,12,True,True,شد,0.0,0.16666666666666666,1.0,True,False,False,False
 بست,71,68,18,False,False,,0.9577464788732394,0.2535211267605634,0.04225352112676062,False,True,True,True
@@ -38,10 +38,10 @@
 شروع کرد,62,14,5,True,True,کرد,0.22580645161290322,0.08064516129032258,0.7741935483870968,False,True,True,True
 فرستاد,59,50,38,False,False,,0.847457627118644,0.6440677966101694,0.15254237288135597,False,True,True,True
 ساخت,55,50,4,False,False,,0.9090909090909091,0.07272727272727272,0.09090909090909094,False,True,True,True
-نگاه کرد,55,10,40,True,True,کرد,0.18181818181818182,0.7272727272727273,0.8181818181818181,True,False,False,False
+نگاه کرد,55,12,38,True,True,کرد,0.21818181818181817,0.6909090909090909,0.7818181818181819,True,False,False,False
 شنید,55,45,5,False,False,,0.8181818181818182,0.09090909090909091,0.18181818181818177,False,True,True,True
 دوست داشت,55,49,0,True,True,داشت,0.8909090909090909,0.0,0.10909090909090913,False,True,True,True
-بخشید,54,42,16,False,False,,0.7777777777777778,0.2962962962962963,0.2222222222222222,False,True,True,True
+بخشید,54,42,11,False,False,,0.7777777777777778,0.2037037037037037,0.2222222222222222,False,True,True,True
 خواست,54,40,22,False,False,,0.7407407407407407,0.4074074074074074,0.2592592592592593,False,True,True,True
 رسانید,53,50,51,False,False,,0.9433962264150944,0.9622641509433962,0.05660377358490565,False,True,True,True
 نشان داد,53,49,14,True,True,داد,0.9245283018867925,0.2641509433962264,0.07547169811320753,False,True,True,True
@@ -71,7 +71,7 @@
 مرد,32,0,1,False,False,,0.0,0.03125,1.0,True,False,False,False
 گوش داد,32,5,22,True,True,داد,0.15625,0.6875,0.84375,True,False,False,False
 گشود,32,32,7,False,False,,1.0,0.21875,0.0,False,True,True,True
-دست زد,32,0,20,True,True,زد,0.0,0.625,1.0,True,False,False,False
+دست زد,32,1,19,True,True,زد,0.03125,0.59375,0.96875,True,False,False,False
 نشاند,32,31,18,False,False,,0.96875,0.5625,0.03125,False,True,True,True
 افکند,31,30,24,False,False,,0.967741935483871,0.7741935483870968,0.032258064516129004,False,True,True,True
 جست,30,28,3,False,False,,0.9333333333333333,0.1,0.06666666666666665,False,True,True,True
@@ -180,14 +180,14 @@
 طلبید,17,15,13,False,False,,0.8823529411764706,0.7647058823529411,0.11764705882352944,False,True,True,True
 حذف کرد,17,16,5,True,True,کرد,0.9411764705882353,0.29411764705882354,0.05882352941176472,False,True,True,True
 حفظ کرد,17,15,2,False,True,کرد,0.8823529411764706,0.11764705882352941,0.11764705882352944,False,True,True,True
-همراهی کرد,17,8,10,True,True,کرد,0.47058823529411764,0.5882352941176471,0.5294117647058824,True,False,False,False
+همراهی کرد,17,9,9,True,True,کرد,0.5294117647058824,0.5294117647058824,0.47058823529411764,False,True,True,True
 دستگیر شد,17,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 قطع کرد,17,16,1,True,True,کرد,0.9411764705882353,0.058823529411764705,0.05882352941176472,False,True,True,True
 تولید کرد,17,13,0,True,True,کرد,0.7647058823529411,0.0,0.23529411764705888,False,True,True,True
 کند,17,16,11,False,False,,0.9411764705882353,0.6470588235294118,0.05882352941176472,False,True,True,True
 فشرد,17,16,2,False,False,,0.9411764705882353,0.11764705882352941,0.05882352941176472,False,True,True,True
 دفاع کرد,17,1,16,True,True,کرد,0.058823529411764705,0.9411764705882353,0.9411764705882353,True,False,False,False
-چرخید,17,0,7,False,False,,0.0,0.4117647058823529,1.0,True,False,False,False
+چرخید,17,1,7,False,False,,0.058823529411764705,0.4117647058823529,0.9411764705882353,True,False,False,False
 تاخت,17,0,14,False,False,,0.0,0.8235294117647058,1.0,True,False,False,False
 تکرار کرد,17,15,0,True,True,کرد,0.8823529411764706,0.0,0.11764705882352944,False,True,True,True
 یاد گرفت,17,13,0,True,True,گرفت,0.7647058823529411,0.0,0.23529411764705888,False,True,True,True
@@ -195,11 +195,11 @@
 صورت گرفت,16,0,0,True,True,گرفت,0.0,0.0,1.0,False,False,False,False
 مسالمت کرد,16,0,11,True,True,کرد,0.0,0.6875,1.0,True,False,False,False
 پاشید,16,14,10,False,False,,0.875,0.625,0.125,False,True,True,True
-شکست داد,16,15,2,True,True,داد,0.9375,0.125,0.0625,False,True,True,True
+شکست داد,16,16,1,True,True,داد,1.0,0.0625,0.0,False,True,True,True
 استفاده شد,16,0,11,True,True,شد,0.0,0.6875,1.0,True,False,False,False
 جمع شد,16,0,5,True,True,شد,0.0,0.3125,1.0,True,False,False,False
 افروخت,16,15,0,False,False,,0.9375,0.0,0.0625,False,True,True,True
-مالید,16,16,14,False,False,,1.0,0.875,0.0,False,True,True,True
+مالید,16,16,12,False,False,,1.0,0.75,0.0,False,True,True,True
 پوشاند,16,16,5,False,False,,1.0,0.3125,0.0,False,True,True,True
 سوزاند,16,16,0,False,False,,1.0,0.0,0.0,False,True,True,True
 افزود,16,5,15,False,False,,0.3125,0.9375,0.6875,True,False,False,False
@@ -256,8 +256,8 @@
 جنباند,14,13,0,False,False,,0.9285714285714286,0.0,0.0714285714285714,False,True,True,True
 آمیخت,14,6,13,False,False,,0.42857142857142855,0.9285714285714286,0.5714285714285714,True,False,False,False
 کاست,14,2,12,False,False,,0.14285714285714285,0.8571428571428571,0.8571428571428572,True,False,False,False
-نمایاند,14,14,7,False,False,,1.0,0.5,0.0,False,True,True,True
-نفس کشید,14,0,0,True,True,کشید,0.0,0.0,1.0,False,False,False,False
+نمایاند,14,14,6,False,False,,1.0,0.42857142857142855,0.0,False,True,True,True
+نفس کشید,14,1,0,True,True,کشید,0.07142857142857142,0.0,0.9285714285714286,False,False,False,False
 پیمود,14,14,0,False,False,,1.0,0.0,0.0,False,True,True,True
 راه افتاد,14,0,3,True,True,افتاد,0.0,0.21428571428571427,1.0,True,False,False,False
 شتاب کرد,14,0,6,True,True,کرد,0.0,0.42857142857142855,1.0,True,False,False,False
@@ -271,13 +271,13 @@
 سفر کرد,14,0,11,True,True,کرد,0.0,0.7857142857142857,1.0,True,False,False,False
 نالید,14,0,6,False,False,,0.0,0.42857142857142855,1.0,True,False,False,False
 تأمل کرد,14,0,5,True,True,کرد,0.0,0.35714285714285715,1.0,True,False,False,False
-محبت کرد,14,0,10,True,True,کرد,0.0,0.7142857142857143,1.0,True,False,False,False
+محبت کرد,14,1,9,True,True,کرد,0.07142857142857142,0.6428571428571429,0.9285714285714286,True,False,False,False
 ترقی کرد,14,0,4,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
 آماده کرد,14,11,0,False,True,کرد,0.7857142857142857,0.0,0.2142857142857143,False,True,True,True
 داد کرد,14,2,4,True,True,کرد,0.14285714285714285,0.2857142857142857,0.8571428571428572,True,False,False,False
-مقابله کرد,14,0,12,True,True,کرد,0.0,0.8571428571428571,1.0,True,False,False,False
+مقابله کرد,14,1,12,True,True,کرد,0.07142857142857142,0.8571428571428571,0.9285714285714286,True,False,False,False
 نتیجه‌گیری کرد,14,0,4,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
-نهی کرد,14,10,8,True,True,کرد,0.7142857142857143,0.5714285714285714,0.2857142857142857,False,True,True,True
+نهی کرد,14,11,7,True,True,کرد,0.7857142857142857,0.5,0.2142857142857143,False,True,True,True
 قبول کرد,14,8,2,True,True,کرد,0.5714285714285714,0.14285714285714285,0.4285714285714286,False,True,True,True
 دوری جست,14,0,14,True,True,جست,0.0,1.0,1.0,True,False,False,False
 ترساند,14,13,1,False,False,,0.9285714285714286,0.07142857142857142,0.0714285714285714,False,True,True,True
@@ -306,7 +306,7 @@
 کم آورد,13,3,2,True,True,آورد,0.23076923076923078,0.15384615384615385,0.7692307692307692,False,True,True,True
 مطالعه کرد,13,7,0,True,True,کرد,0.5384615384615384,0.0,0.46153846153846156,False,True,True,True
 پرستید,13,13,0,False,False,,1.0,0.0,0.0,False,True,True,True
-چنگ کشید,13,0,11,True,True,کشید,0.0,0.8461538461538461,1.0,True,False,False,False
+چنگ کشید,13,1,10,True,True,کشید,0.07692307692307693,0.7692307692307693,0.9230769230769231,True,False,False,False
 گوش کرد,13,7,5,True,True,کرد,0.5384615384615384,0.38461538461538464,0.46153846153846156,False,True,True,True
 توضیح داد,13,6,7,True,True,داد,0.46153846153846156,0.5384615384615384,0.5384615384615384,True,False,False,False
 پا داشت,13,13,0,False,True,داشت,1.0,0.0,0.0,False,True,True,True
@@ -341,7 +341,7 @@
 نثار کرد,12,10,0,True,True,کرد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
 پخت کرد,12,6,0,True,True,کرد,0.5,0.0,0.5,False,True,True,True
 جا ماند,12,0,8,True,True,ماند,0.0,0.6666666666666666,1.0,True,False,False,False
-شن‌ریزی کرد,12,4,7,True,True,کرد,0.3333333333333333,0.5833333333333334,0.6666666666666667,True,False,False,False
+شن‌ریزی کرد,12,8,3,True,True,کرد,0.6666666666666666,0.25,0.33333333333333337,False,True,True,True
 هم کوبید,12,12,0,True,True,کوبید,1.0,0.0,0.0,False,True,True,True
 منتشر کرد,12,9,0,True,True,کرد,0.75,0.0,0.25,False,True,True,True
 فریب داد,12,11,0,True,True,داد,0.9166666666666666,0.0,0.08333333333333337,False,True,True,True
@@ -359,7 +359,7 @@
 سبقت جست,12,0,7,True,True,جست,0.0,0.5833333333333334,1.0,True,False,False,False
 عمل آمد,12,1,2,True,True,آمد,0.08333333333333333,0.16666666666666666,0.9166666666666666,True,False,False,False
 خرج کرد,12,9,2,True,True,کرد,0.75,0.16666666666666666,0.25,False,True,True,True
-سر برد,12,2,9,True,True,برد,0.16666666666666666,0.75,0.8333333333333334,True,False,False,False
+سر برد,12,3,9,True,True,برد,0.25,0.75,0.75,True,False,False,False
 تعمق کرد,12,1,9,True,True,کرد,0.08333333333333333,0.75,0.9166666666666666,True,False,False,False
 اعتماد کرد,12,0,12,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 اجرا کرد,12,11,0,True,True,کرد,0.9166666666666666,0.0,0.08333333333333337,False,True,True,True
@@ -403,7 +403,7 @@
 درمان کرد,12,12,1,True,True,کرد,1.0,0.08333333333333333,0.0,False,True,True,True
 افراط کرد,12,0,9,True,True,کرد,0.0,0.75,1.0,True,False,False,False
 گنجاند,12,11,12,False,False,,0.9166666666666666,1.0,0.08333333333333337,False,True,True,True
-اسکان کرد,11,0,8,True,True,کرد,0.0,0.7272727272727273,1.0,True,False,False,False
+اسکان کرد,11,1,8,True,True,کرد,0.09090909090909091,0.7272727272727273,0.9090909090909091,True,False,False,False
 تحلیل کرد,11,11,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 آرام گرفت,11,0,4,True,True,گرفت,0.0,0.36363636363636365,1.0,True,False,False,False
 پاس داشت,11,11,0,True,True,داشت,1.0,0.0,0.0,False,True,True,True
@@ -417,7 +417,7 @@
 بازگو کرد,11,11,1,True,True,کرد,1.0,0.09090909090909091,0.0,False,True,True,True
 ثبت کرد,11,9,6,True,True,کرد,0.8181818181818182,0.5454545454545454,0.18181818181818177,False,True,True,True
 جهاد کرد,11,0,7,True,True,کرد,0.0,0.6363636363636364,1.0,True,False,False,False
-شنا کرد,11,0,7,True,True,کرد,0.0,0.6363636363636364,1.0,True,False,False,False
+شنا کرد,11,2,5,True,True,کرد,0.18181818181818182,0.45454545454545453,0.8181818181818181,True,False,False,False
 بازرسی کرد,11,8,2,True,True,کرد,0.7272727272727273,0.18181818181818182,0.2727272727272727,False,True,True,True
 دوره کرد,11,9,0,True,True,کرد,0.8181818181818182,0.0,0.18181818181818177,False,True,True,True
 تدوین کرد,11,10,1,True,True,کرد,0.9090909090909091,0.09090909090909091,0.09090909090909094,False,True,True,True
@@ -432,7 +432,7 @@
 تحویل داد,11,9,2,True,True,داد,0.8181818181818182,0.18181818181818182,0.18181818181818177,False,True,True,True
 تداخل کرد,11,0,11,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 دگرگون کرد,11,10,0,True,True,کرد,0.9090909090909091,0.0,0.09090909090909094,False,True,True,True
-تازیانه زد,11,6,4,True,True,زد,0.5454545454545454,0.36363636363636365,0.4545454545454546,False,True,True,True
+تازیانه زد,11,7,3,True,True,زد,0.6363636363636364,0.2727272727272727,0.36363636363636365,False,True,True,True
 هم ریخت,11,11,0,True,True,ریخت,1.0,0.0,0.0,False,True,True,True
 زد کرد,11,0,7,True,True,کرد,0.0,0.6363636363636364,1.0,True,False,False,False
 دعا کرد,11,2,4,True,True,کرد,0.18181818181818182,0.36363636363636365,0.8181818181818181,True,False,False,False
@@ -475,7 +475,7 @@
 شرح داد,11,9,1,True,True,داد,0.8181818181818182,0.09090909090909091,0.18181818181818177,False,True,True,True
 بود,11,0,3,False,False,,0.0,0.2727272727272727,1.0,True,False,False,False
 همکاری کرد,11,0,10,True,True,کرد,0.0,0.9090909090909091,1.0,True,False,False,False
-سان دید,11,0,11,True,True,دید,0.0,1.0,1.0,True,False,False,False
+سان دید,11,4,7,True,True,دید,0.36363636363636365,0.6363636363636364,0.6363636363636364,True,False,False,False
 اختیار کرد,11,11,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 درخشید,11,0,0,False,False,,0.0,0.0,1.0,False,False,False,False
 عرضه کرد,11,10,5,True,True,کرد,0.9090909090909091,0.45454545454545453,0.09090909090909094,False,True,True,True
@@ -490,7 +490,7 @@
 تقدیر کرد,11,0,11,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 عشق ورزید,11,0,11,True,True,ورزید,0.0,1.0,1.0,True,False,False,False
 احوال‌پرسی کرد,11,0,7,True,True,کرد,0.0,0.6363636363636364,1.0,True,False,False,False
-پوشش داد,11,9,1,True,True,داد,0.8181818181818182,0.09090909090909091,0.18181818181818177,False,True,True,True
+پوشش داد,11,10,0,True,True,داد,0.9090909090909091,0.0,0.09090909090909094,False,True,True,True
 تعبیر کرد,11,8,1,True,True,کرد,0.7272727272727273,0.09090909090909091,0.2727272727272727,False,True,True,True
 تضمین کرد,11,11,1,True,True,کرد,1.0,0.09090909090909091,0.0,False,True,True,True
 خلق کرد,11,11,2,True,True,کرد,1.0,0.18181818181818182,0.0,False,True,True,True
@@ -511,7 +511,7 @@
 پرتاب کرد,11,10,7,True,True,کرد,0.9090909090909091,0.6363636363636364,0.09090909090909094,False,True,True,True
 جمع‌آوری کرد,11,11,2,True,True,کرد,1.0,0.18181818181818182,0.0,False,True,True,True
 پاک کرد,11,9,0,False,True,کرد,0.8181818181818182,0.0,0.18181818181818177,False,True,True,True
-یاد کرد,11,4,5,True,True,کرد,0.36363636363636365,0.45454545454545453,0.6363636363636364,True,False,False,False
+یاد کرد,11,5,4,True,True,کرد,0.45454545454545453,0.36363636363636365,0.5454545454545454,False,True,True,True
 تکان داد,10,9,0,True,True,داد,0.9,0.0,0.09999999999999998,False,True,True,True
 تکیه کرد,10,0,9,True,True,کرد,0.0,0.9,1.0,True,False,False,False
 گیر افتاد,10,0,7,True,True,افتاد,0.0,0.7,1.0,True,False,False,False
@@ -530,7 +530,7 @@
 احترام گذاشت,10,0,10,True,True,گذاشت,0.0,1.0,1.0,True,False,False,False
 سنجید,10,9,4,False,False,,0.9,0.4,0.09999999999999998,False,True,True,True
 تعلیق کرد,10,10,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-تعلیم داد,10,7,5,True,True,داد,0.7,0.5,0.30000000000000004,False,True,True,True
+تعلیم داد,10,7,4,True,True,داد,0.7,0.4,0.30000000000000004,False,True,True,True
 تعظیم کرد,10,1,8,True,True,کرد,0.1,0.8,0.9,True,False,False,False
 تعویض کرد,10,9,1,True,True,کرد,0.9,0.1,0.09999999999999998,False,True,True,True
 تفکیک کرد,10,10,7,True,True,کرد,1.0,0.7,0.0,False,True,True,True
@@ -540,7 +540,7 @@
 پشتیبانی کرد,10,2,7,True,True,کرد,0.2,0.7,0.8,True,False,False,False
 تقلب کرد,10,0,3,True,True,کرد,0.0,0.3,1.0,True,False,False,False
 سینه زد,10,0,0,True,True,زد,0.0,0.0,1.0,False,False,False,False
-نظارت کرد,10,0,9,True,True,کرد,0.0,0.9,1.0,True,False,False,False
+نظارت کرد,10,1,8,True,True,کرد,0.1,0.8,0.9,True,False,False,False
 نظاره کرد,10,10,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 نظر گرفت,10,10,2,True,True,گرفت,1.0,0.2,0.0,False,True,True,True
 برانداز کرد,10,10,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -583,7 +583,7 @@
 دشمنی کرد,10,0,8,True,True,کرد,0.0,0.8,1.0,True,False,False,False
 ترکیب کرد,10,10,9,True,True,کرد,1.0,0.9,0.0,False,True,True,True
 دعوا کرد,10,0,5,True,True,کرد,0.0,0.5,1.0,True,False,False,False
-چنگ زد,10,3,7,True,True,زد,0.3,0.7,0.7,True,False,False,False
+چنگ زد,10,4,6,True,True,زد,0.4,0.6,0.6,True,False,False,False
 عبور کرد,10,0,9,True,True,کرد,0.0,0.9,1.0,True,False,False,False
 تلاقی کرد,10,0,8,True,True,کرد,0.0,0.8,1.0,True,False,False,False
 خاموش کرد,10,10,0,False,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -618,7 +618,7 @@
 رخ داد,10,0,0,True,True,داد,0.0,0.0,1.0,False,False,False,False
 رخ کشید,10,10,0,True,True,کشید,1.0,0.0,0.0,False,True,True,True
 دچار کرد,10,6,0,False,True,کرد,0.6,0.0,0.4,False,True,True,True
-تخریب کرد,10,8,1,True,True,کرد,0.8,0.1,0.19999999999999996,False,True,True,True
+تخریب کرد,10,9,0,True,True,کرد,0.9,0.0,0.09999999999999998,False,True,True,True
 توجیه کرد,10,8,1,True,True,کرد,0.8,0.1,0.19999999999999996,False,True,True,True
 فعالیت کرد,10,0,4,True,True,کرد,0.0,0.4,1.0,True,False,False,False
 هراسید,10,0,9,False,False,,0.0,0.9,1.0,True,False,False,False
@@ -644,7 +644,7 @@
 منعکس کرد,9,9,0,False,True,کرد,1.0,0.0,0.0,False,True,True,True
 آراست,9,9,5,False,False,,1.0,0.5555555555555556,0.0,False,True,True,True
 استخراج کرد,9,9,2,True,True,کرد,1.0,0.2222222222222222,0.0,False,True,True,True
-یاد آمد,9,0,2,True,True,آمد,0.0,0.2222222222222222,1.0,True,False,False,False
+یاد آمد,9,1,1,True,True,آمد,0.1111111111111111,0.1111111111111111,0.8888888888888888,False,False,False,False
 کناره‌گیری کرد,9,0,9,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 کناره گرفت,9,0,7,True,True,گرفت,0.0,0.7777777777777778,1.0,True,False,False,False
 کم‌کاری کرد,9,0,7,True,True,کرد,0.0,0.7777777777777778,1.0,True,False,False,False
@@ -711,7 +711,7 @@
 شلاق زد,9,7,1,True,True,زد,0.7777777777777778,0.1111111111111111,0.2222222222222222,False,True,True,True
 جنبید,9,0,0,False,False,,0.0,0.0,1.0,False,False,False,False
 تساهل کرد,9,0,5,True,True,کرد,0.0,0.5555555555555556,1.0,True,False,False,False
-دشنام داد,9,2,6,True,True,داد,0.2222222222222222,0.6666666666666666,0.7777777777777778,True,False,False,False
+دشنام داد,9,3,5,True,True,داد,0.3333333333333333,0.5555555555555556,0.6666666666666667,True,False,False,False
 تاب داد,9,9,0,True,True,داد,1.0,0.0,0.0,False,True,True,True
 تا زد,9,8,1,True,True,زد,0.8888888888888888,0.1111111111111111,0.11111111111111116,False,True,True,True
 رجوع کرد,9,0,9,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -783,10 +783,10 @@
 چکاند,9,9,4,False,False,,1.0,0.4444444444444444,0.0,False,True,True,True
 غلتید,9,0,9,False,False,,0.0,1.0,1.0,True,False,False,False
 له‌له زد,9,0,2,True,True,زد,0.0,0.2222222222222222,1.0,True,False,False,False
-احیا کرد,9,7,0,True,True,کرد,0.7777777777777778,0.0,0.2222222222222222,False,True,True,True
+احیا کرد,9,9,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 گم کرد,9,9,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-مانست,9,0,9,False,False,,0.0,1.0,1.0,True,False,False,False
-حرمت نهاد,9,2,6,True,True,نهاد,0.2222222222222222,0.6666666666666666,0.7777777777777778,True,False,False,False
+مانست,9,2,7,False,False,,0.2222222222222222,0.7777777777777778,0.7777777777777778,True,False,False,False
+حرمت نهاد,9,7,1,True,True,نهاد,0.7777777777777778,0.1111111111111111,0.2222222222222222,False,True,True,True
 حفاظت کرد,9,1,9,True,True,کرد,0.1111111111111111,1.0,0.8888888888888888,True,False,False,False
 عدول کرد,9,0,9,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 سپاسگزاری کرد,9,0,8,True,True,کرد,0.0,0.8888888888888888,1.0,True,False,False,False
@@ -798,7 +798,7 @@
 تفاوت گذاشت,9,0,9,True,True,گذاشت,0.0,1.0,1.0,True,False,False,False
 سخنرانی کرد,9,0,1,True,True,کرد,0.0,0.1111111111111111,1.0,True,False,False,False
 بنیان گذاشت,9,9,1,True,True,گذاشت,1.0,0.1111111111111111,0.0,False,True,True,True
-لگد زد,9,1,6,True,True,زد,0.1111111111111111,0.6666666666666666,0.8888888888888888,True,False,False,False
+لگد زد,9,2,5,True,True,زد,0.2222222222222222,0.5555555555555556,0.7777777777777778,True,False,False,False
 لکه‌زدایی کرد,9,4,0,True,True,کرد,0.4444444444444444,0.0,0.5555555555555556,False,True,True,True
 ورزید,9,6,1,False,False,,0.6666666666666666,0.1111111111111111,0.33333333333333337,False,True,True,True
 ابلاغ کرد,9,8,7,True,True,کرد,0.8888888888888888,0.7777777777777778,0.11111111111111116,False,True,True,True
@@ -852,7 +852,7 @@
 آب‌پاشی کرد,8,5,0,True,True,کرد,0.625,0.0,0.375,False,True,True,True
 یاری داد,8,6,4,True,True,داد,0.75,0.5,0.25,False,True,True,True
 آذین بست,8,8,0,True,True,بست,1.0,0.0,0.0,False,True,True,True
-یاری کرد,8,6,4,True,True,کرد,0.75,0.5,0.25,False,True,True,True
+یاری کرد,8,8,3,True,True,کرد,1.0,0.375,0.0,False,True,True,True
 تیراندازی کرد,8,0,5,True,True,کرد,0.0,0.625,1.0,True,False,False,False
 شیهه کشید,8,0,0,True,True,کشید,0.0,0.0,1.0,False,False,False,False
 اوقات‌تلخی کرد,8,0,3,True,True,کرد,0.0,0.375,1.0,True,False,False,False
@@ -865,7 +865,7 @@
 جاسوسی کرد,8,0,4,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 جدیت کرد,8,0,5,True,True,کرد,0.0,0.625,1.0,True,False,False,False
 جدا کرد,8,6,0,False,True,کرد,0.75,0.0,0.25,False,True,True,True
-اهتمام ورزید,8,0,8,True,True,ورزید,0.0,1.0,1.0,True,False,False,False
+اهتمام ورزید,8,1,8,True,True,ورزید,0.125,1.0,0.875,True,False,False,False
 نجات کرد,8,0,5,True,True,کرد,0.0,0.625,1.0,True,False,False,False
 صیانت کرد,8,2,6,True,True,کرد,0.25,0.75,0.75,True,False,False,False
 بادکش کرد,8,7,0,True,True,کرد,0.875,0.0,0.125,False,True,True,True
@@ -917,7 +917,7 @@
 برش زد,8,8,0,True,True,زد,1.0,0.0,0.0,False,True,True,True
 سوخت‌گیری کرد,8,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 مارش زد,8,0,0,True,True,زد,0.0,0.0,1.0,False,False,False,False
-ماجراجویی کرد,8,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
+ماجراجویی کرد,8,1,0,True,True,کرد,0.125,0.0,0.875,False,False,False,False
 اثر گرفت,8,0,8,True,True,گرفت,0.0,1.0,1.0,True,False,False,False
 معرکه گرفت,8,1,1,True,True,گرفت,0.125,0.125,0.875,False,False,False,False
 تفوق داد,8,6,6,True,True,داد,0.75,0.75,0.25,False,True,True,True
@@ -979,7 +979,7 @@
 بدرقه کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 شادی کرد,8,0,1,True,True,کرد,0.0,0.125,1.0,True,False,False,False
 حقیقت داشت,8,0,0,True,True,داشت,0.0,0.0,1.0,False,False,False,False
-وقوف کرد,8,0,7,True,True,کرد,0.0,0.875,1.0,True,False,False,False
+وقوف کرد,8,1,7,True,True,کرد,0.125,0.875,0.875,True,False,False,False
 آموزش داد,8,5,4,True,True,داد,0.625,0.5,0.375,False,True,True,True
 آهنگسازی کرد,8,3,2,True,True,کرد,0.375,0.25,0.625,False,True,True,True
 آهار زد,8,6,0,True,True,زد,0.75,0.0,0.25,False,True,True,True
@@ -989,7 +989,7 @@
 وحشت کرد,8,0,4,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 تعصب ورزید,8,0,4,True,True,ورزید,0.0,0.5,1.0,True,False,False,False
 غوغا کرد,8,1,1,True,True,کرد,0.125,0.125,0.875,False,False,False,False
-چپاند,8,8,8,False,False,,1.0,1.0,0.0,False,True,True,True
+چپاند,8,8,7,False,False,,1.0,0.875,0.0,False,True,True,True
 بچه‌داری کرد,8,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 مونتاژ کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 گردن گذاشت,8,0,7,True,True,گذاشت,0.0,0.875,1.0,True,False,False,False
@@ -1007,8 +1007,8 @@
 اضافه کرد,8,8,7,True,True,کرد,1.0,0.875,0.0,False,True,True,True
 بو کشید,8,6,0,True,True,کشید,0.75,0.0,0.25,False,True,True,True
 امتناع کرد,8,0,8,True,True,کرد,0.0,1.0,1.0,True,False,False,False
-رونمایی کرد,8,1,7,True,True,کرد,0.125,0.875,0.875,True,False,False,False
-وول خورد,8,0,5,True,True,خورد,0.0,0.625,1.0,True,False,False,False
+رونمایی کرد,8,4,4,True,True,کرد,0.5,0.5,0.5,False,True,True,True
+وول خورد,8,1,5,True,True,خورد,0.125,0.625,0.875,True,False,False,False
 تملک کرد,8,7,0,True,True,کرد,0.875,0.0,0.125,False,True,True,True
 تنزل کرد,8,0,5,True,True,کرد,0.0,0.625,1.0,True,False,False,False
 تنید,8,5,6,False,False,,0.625,0.75,0.375,False,True,True,True
@@ -1048,7 +1048,7 @@
 تصحیح کرد,8,7,0,True,True,کرد,0.875,0.0,0.125,False,True,True,True
 تصادم کرد,8,0,8,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 تشخیص داد,8,6,3,True,True,داد,0.75,0.375,0.25,False,True,True,True
-لشگر کشید,8,0,6,True,True,کشید,0.0,0.75,1.0,True,False,False,False
+لشگر کشید,8,1,6,True,True,کشید,0.125,0.75,0.875,True,False,False,False
 اداره کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 وارد ساخت,8,8,5,True,True,ساخت,1.0,0.625,0.0,False,True,True,True
 وارد آورد,8,8,6,True,True,آورد,1.0,0.75,0.0,False,True,True,True
@@ -1068,13 +1068,13 @@
 نشست کرد,8,0,2,True,True,کرد,0.0,0.25,1.0,True,False,False,False
 نتیجه داد,8,0,0,True,True,داد,0.0,0.0,1.0,False,False,False,False
 فساد کرد,8,0,2,True,True,کرد,0.0,0.25,1.0,True,False,False,False
-روزه گرفت,8,0,0,True,True,گرفت,0.0,0.0,1.0,False,False,False,False
+روزه گرفت,8,2,0,True,True,گرفت,0.25,0.0,0.75,False,False,False,False
 فریاد کرد,8,7,0,True,True,کرد,0.875,0.0,0.125,False,True,True,True
 فروکش کرد,8,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 اشاره داشت,8,0,7,True,True,داشت,0.0,0.875,1.0,True,False,False,False
 فزونی گرفت,8,0,3,True,True,گرفت,0.0,0.375,1.0,True,False,False,False
 گرو گذاشت,8,8,0,True,True,گذاشت,1.0,0.0,0.0,False,True,True,True
-فوت کرد,8,3,1,True,True,کرد,0.375,0.125,0.625,False,True,True,True
+فوت کرد,8,3,0,True,True,کرد,0.375,0.0,0.625,False,True,True,True
 ردیابی کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 چاره کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 تسهیل کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -1174,10 +1174,10 @@
 فیلم‌برداری کرد,8,0,5,True,True,کرد,0.0,0.625,1.0,True,False,False,False
 قلم افتاد,8,0,0,True,True,افتاد,0.0,0.0,1.0,False,False,False,False
 دهن‌کجی کرد,8,0,7,True,True,کرد,0.0,0.875,1.0,True,False,False,False
-قربان رفت,8,0,1,True,True,رفت,0.0,0.125,1.0,True,False,False,False
+قربان رفت,8,1,0,True,True,رفت,0.125,0.0,0.875,False,False,False,False
 راه‌اندازی کرد,8,8,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 راهنمایی کرد,8,8,3,True,True,کرد,1.0,0.375,0.0,False,True,True,True
-استمهال کرد,8,1,6,True,True,کرد,0.125,0.75,0.875,True,False,False,False
+استمهال کرد,8,5,2,True,True,کرد,0.625,0.25,0.375,False,True,True,True
 تجهیز کرد,8,7,3,True,True,کرد,0.875,0.375,0.125,False,True,True,True
 تجسم کرد,8,8,1,True,True,کرد,1.0,0.125,0.0,False,True,True,True
 قدردانی کرد,8,0,8,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -1241,7 +1241,7 @@
 مردم‌آزاری کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 مرعی داشت,7,7,0,True,True,داشت,1.0,0.0,0.0,False,True,True,True
 مرقوم داشت,7,4,0,True,True,داشت,0.5714285714285714,0.0,0.4285714285714286,False,True,True,True
-آشنایی‌زدایی کرد,7,0,4,True,True,کرد,0.0,0.5714285714285714,1.0,True,False,False,False
+آشنایی‌زدایی کرد,7,2,2,True,True,کرد,0.2857142857142857,0.2857142857142857,0.7142857142857143,False,False,False,False
 اهتمام کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 اهمال کرد,7,0,5,True,True,کرد,0.0,0.7142857142857143,1.0,True,False,False,False
 ایمیل زد,7,0,7,True,True,زد,0.0,1.0,1.0,True,False,False,False
@@ -1253,7 +1253,7 @@
 قایق‌سواری کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
 استقراض کرد,7,4,5,True,True,کرد,0.5714285714285714,0.7142857142857143,0.4285714285714286,False,True,True,True
 تباه کرد,7,7,0,False,True,کرد,1.0,0.0,0.0,False,True,True,True
-تداوم داد,7,3,3,True,True,داد,0.42857142857142855,0.42857142857142855,0.5714285714285714,False,True,True,True
+تداوم داد,7,4,2,True,True,داد,0.5714285714285714,0.2857142857142857,0.4285714285714286,False,True,True,True
 تخلف کرد,7,0,4,True,True,کرد,0.0,0.5714285714285714,1.0,True,False,False,False
 تخلیه کرد,7,7,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 دوباره‌سازی کرد,7,6,1,True,True,کرد,0.8571428571428571,0.14285714285714285,0.1428571428571429,False,True,True,True
@@ -1307,9 +1307,9 @@
 دلسوزی کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 دم گرفت,7,1,0,True,True,گرفت,0.14285714285714285,0.0,0.8571428571428572,False,False,False,False
 دنبال داشت,7,7,0,True,True,داشت,1.0,0.0,0.0,False,True,True,True
-دندان زد,7,3,3,True,True,زد,0.42857142857142855,0.42857142857142855,0.5714285714285714,False,True,True,True
+دندان زد,7,4,2,True,True,زد,0.5714285714285714,0.2857142857142857,0.4285714285714286,False,True,True,True
 فهرست کرد,7,6,0,True,True,کرد,0.8571428571428571,0.0,0.1428571428571429,False,True,True,True
-فهرست‌برداری کرد,7,2,5,True,True,کرد,0.2857142857142857,0.7142857142857143,0.7142857142857143,True,False,False,False
+فهرست‌برداری کرد,7,3,4,True,True,کرد,0.42857142857142855,0.5714285714285714,0.5714285714285714,True,False,False,False
 تایپ کرد,7,6,0,True,True,کرد,0.8571428571428571,0.0,0.1428571428571429,False,True,True,True
 تابلو کرد,7,5,0,True,True,کرد,0.7142857142857143,0.0,0.2857142857142857,False,True,True,True
 تاب‌بازی کرد,7,1,1,True,True,کرد,0.14285714285714285,0.14285714285714285,0.8571428571428572,False,False,False,False
@@ -1332,7 +1332,7 @@
 فکس زد,7,0,3,True,True,زد,0.0,0.42857142857142855,1.0,True,False,False,False
 اسراف کرد,7,2,1,True,True,کرد,0.2857142857142857,0.14285714285714285,0.7142857142857143,False,False,False,False
 اسکان داد,7,6,2,True,True,داد,0.8571428571428571,0.2857142857142857,0.1428571428571429,False,True,True,True
-اسکی کرد,7,0,3,True,True,کرد,0.0,0.42857142857142855,1.0,True,False,False,False
+اسکی کرد,7,1,2,True,True,کرد,0.14285714285714285,0.2857142857142857,0.8571428571428572,True,False,False,False
 ارسال کرد,7,7,5,True,True,کرد,1.0,0.7142857142857143,0.0,False,True,True,True
 گشت زد,7,2,4,True,True,زد,0.2857142857142857,0.5714285714285714,0.7142857142857143,True,False,False,False
 قل‌قل کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
@@ -1343,7 +1343,7 @@
 مواظبت کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 رحمت کرد,7,3,3,True,True,کرد,0.42857142857142855,0.42857142857142855,0.5714285714285714,False,True,True,True
 تأکید داشت,7,1,5,True,True,داشت,0.14285714285714285,0.7142857142857143,0.8571428571428572,True,False,False,False
-رهنمود داد,7,2,4,True,True,داد,0.2857142857142857,0.5714285714285714,0.7142857142857143,True,False,False,False
+رهنمود داد,7,3,4,True,True,داد,0.42857142857142855,0.5714285714285714,0.5714285714285714,True,False,False,False
 تأخیر کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
 تأدیب کرد,7,5,1,True,True,کرد,0.7142857142857143,0.14285714285714285,0.2857142857142857,False,True,True,True
 لبخند زد,7,0,1,True,True,زد,0.0,0.14285714285714285,1.0,True,False,False,False
@@ -1370,7 +1370,7 @@
 تسری داد,7,7,6,True,True,داد,1.0,0.8571428571428571,0.0,False,True,True,True
 لانه کرد,7,1,6,True,True,کرد,0.14285714285714285,0.8571428571428571,0.8571428571428572,True,False,False,False
 لاک زد,7,5,0,True,True,زد,0.7142857142857143,0.0,0.2857142857142857,False,True,True,True
-اشتباه کرد,7,0,3,True,True,کرد,0.0,0.42857142857142855,1.0,True,False,False,False
+اشتباه کرد,7,1,2,True,True,کرد,0.14285714285714285,0.2857142857142857,0.8571428571428572,True,False,False,False
 گرم گرفت,7,0,6,True,True,گرفت,0.0,0.8571428571428571,1.0,True,False,False,False
 چاک خورد,7,0,3,True,True,خورد,0.0,0.42857142857142855,1.0,True,False,False,False
 چاک داد,7,7,0,True,True,داد,1.0,0.0,0.0,False,True,True,True
@@ -1398,7 +1398,7 @@
 اصرار داشت,7,0,6,True,True,داشت,0.0,0.8571428571428571,1.0,True,False,False,False
 اصرار ورزید,7,0,6,True,True,ورزید,0.0,0.8571428571428571,1.0,True,False,False,False
 چشمک زد,7,0,4,True,True,زد,0.0,0.5714285714285714,1.0,True,False,False,False
-چشم‌زخم زد,7,1,4,True,True,زد,0.14285714285714285,0.5714285714285714,0.8571428571428572,True,False,False,False
+چشم‌زخم زد,7,3,2,True,True,زد,0.42857142857142855,0.2857142857142857,0.5714285714285714,False,True,True,True
 چله نشست,7,1,2,True,True,نشست,0.14285714285714285,0.2857142857142857,0.8571428571428572,True,False,False,False
 درخت‌کاری کرد,7,4,1,True,True,کرد,0.5714285714285714,0.14285714285714285,0.4285714285714286,False,True,True,True
 وارسی کرد,7,7,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -1443,7 +1443,7 @@
 چمن‌کاری کرد,7,5,0,True,True,کرد,0.7142857142857143,0.0,0.2857142857142857,False,True,True,True
 چنبره زد,7,0,6,True,True,زد,0.0,0.8571428571428571,1.0,True,False,False,False
 بیان داشت,7,7,1,True,True,داشت,1.0,0.14285714285714285,0.0,False,True,True,True
-بیتوته کرد,7,1,5,True,True,کرد,0.14285714285714285,0.7142857142857143,0.8571428571428572,True,False,False,False
+بیتوته کرد,7,2,5,True,True,کرد,0.2857142857142857,0.7142857142857143,0.7142857142857143,True,False,False,False
 بیدار کرد,7,5,0,False,True,کرد,0.7142857142857143,0.0,0.2857142857142857,False,True,True,True
 بیرون زد,7,0,6,True,True,زد,0.0,0.8571428571428571,1.0,True,False,False,False
 بو گرفت,7,0,0,True,True,گرفت,0.0,0.0,1.0,False,False,False,False
@@ -1458,7 +1458,7 @@
 سابید,7,5,1,False,False,,0.7142857142857143,0.14285714285714285,0.2857142857142857,False,True,True,True
 فرسود,7,3,0,False,False,,0.42857142857142855,0.0,0.5714285714285714,False,True,True,True
 اعراض کرد,7,0,6,True,True,کرد,0.0,0.8571428571428571,1.0,True,False,False,False
-زل زد,7,0,7,True,True,زد,0.0,1.0,1.0,True,False,False,False
+زل زد,7,1,6,True,True,زد,0.14285714285714285,0.8571428571428571,0.8571428571428572,True,False,False,False
 نوحه‌خوانی کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 نورافشانی کرد,7,4,1,True,True,کرد,0.5714285714285714,0.14285714285714285,0.4285714285714286,False,True,True,True
 بویید,7,7,0,False,False,,1.0,0.0,0.0,False,True,True,True
@@ -1475,7 +1475,7 @@
 اعجاز کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 تفاهم کرد,7,0,6,True,True,کرد,0.0,0.8571428571428571,1.0,True,False,False,False
 تفاوت کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
-معنی داد,7,0,5,True,True,داد,0.0,0.7142857142857143,1.0,True,False,False,False
+معنی داد,7,1,4,True,True,داد,0.14285714285714285,0.5714285714285714,0.8571428571428572,True,False,False,False
 مغازله کرد,7,1,4,True,True,کرد,0.14285714285714285,0.5714285714285714,0.8571428571428572,True,False,False,False
 گله‌گذاری کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
 احضار کرد,7,7,3,True,True,کرد,1.0,0.42857142857142855,0.0,False,True,True,True
@@ -1556,7 +1556,7 @@
 خجالت داد,7,6,0,True,True,داد,0.8571428571428571,0.0,0.1428571428571429,False,True,True,True
 تلطیف کرد,7,7,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 تلفیق داد,7,7,6,True,True,داد,1.0,0.8571428571428571,0.0,False,True,True,True
-پسند آمد,7,1,3,True,True,آمد,0.14285714285714285,0.42857142857142855,0.8571428571428572,True,False,False,False
+پسند آمد,7,3,1,True,True,آمد,0.42857142857142855,0.14285714285714285,0.5714285714285714,False,True,True,True
 پس‌انداز کرد,7,6,0,True,True,کرد,0.8571428571428571,0.0,0.1428571428571429,False,True,True,True
 متابعت کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 اجتماع کرد,7,0,4,True,True,کرد,0.0,0.5714285714285714,1.0,True,False,False,False
@@ -1572,7 +1572,7 @@
 سنتز کرد,7,7,2,True,True,کرد,1.0,0.2857142857142857,0.0,False,True,True,True
 سنجاق کرد,7,4,5,True,True,کرد,0.5714285714285714,0.7142857142857143,0.4285714285714286,False,True,True,True
 سنجش کرد,7,7,1,True,True,کرد,1.0,0.14285714285714285,0.0,False,True,True,True
-نغمه‌سرایی کرد,7,1,1,True,True,کرد,0.14285714285714285,0.14285714285714285,0.8571428571428572,False,False,False,False
+نغمه‌سرایی کرد,7,2,0,True,True,کرد,0.2857142857142857,0.0,0.7142857142857143,False,False,False,False
 کباب کرد,7,7,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 پست کرد,7,5,2,False,True,کرد,0.7142857142857143,0.2857142857142857,0.2857142857142857,False,True,True,True
 پسرفت کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
@@ -1594,7 +1594,7 @@
 حمام کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 حمله آورد,7,0,5,True,True,آورد,0.0,0.7142857142857143,1.0,True,False,False,False
 پس افتاد,7,0,2,True,True,افتاد,0.0,0.2857142857142857,1.0,True,False,False,False
-اقامت داشت,7,0,7,True,True,داشت,0.0,1.0,1.0,True,False,False,False
+اقامت داشت,7,1,7,True,True,داشت,0.14285714285714285,1.0,0.8571428571428572,True,False,False,False
 گازرسانی کرد,7,2,4,True,True,کرد,0.2857142857142857,0.5714285714285714,0.7142857142857143,True,False,False,False
 گداخت,7,4,1,False,False,,0.5714285714285714,0.14285714285714285,0.4285714285714286,False,True,True,True
 عیادت کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -1615,13 +1615,13 @@
 کتک خورد,7,0,2,True,True,خورد,0.0,0.2857142857142857,1.0,True,False,False,False
 کتک‌کاری کرد,7,1,2,True,True,کرد,0.14285714285714285,0.2857142857142857,0.8571428571428572,True,False,False,False
 نظریه‌پردازی کرد,7,0,4,True,True,کرد,0.0,0.5714285714285714,1.0,True,False,False,False
-امساک کرد,7,0,5,True,True,کرد,0.0,0.7142857142857143,1.0,True,False,False,False
+امساک کرد,7,2,5,True,True,کرد,0.2857142857142857,0.7142857142857143,0.7142857142857143,True,False,False,False
 سپارد,7,7,7,False,False,,1.0,1.0,0.0,False,True,True,True
 سکنی داد,7,7,6,True,True,داد,1.0,0.8571428571428571,0.0,False,True,True,True
 سوت زد,7,1,1,True,True,زد,0.14285714285714285,0.14285714285714285,0.8571428571428572,False,False,False,False
 عزیمت کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 عذاب کرد,7,7,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-امامت کرد,7,3,5,True,True,کرد,0.42857142857142855,0.7142857142857143,0.5714285714285714,True,False,False,False
+امامت کرد,7,4,4,True,True,کرد,0.5714285714285714,0.5714285714285714,0.4285714285714286,False,True,True,True
 اقرار کرد,7,1,1,True,True,کرد,0.14285714285714285,0.14285714285714285,0.8571428571428572,False,False,False,False
 شاهد آورد,7,1,4,True,True,آورد,0.14285714285714285,0.5714285714285714,0.8571428571428572,True,False,False,False
 سینه‌پهلو کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
@@ -1642,7 +1642,7 @@
 نظارت داشت,7,7,0,True,True,داشت,1.0,0.0,0.0,False,True,True,True
 بدجنسی کرد,7,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 بدعت‌گذاری کرد,7,0,2,True,True,کرد,0.0,0.2857142857142857,1.0,True,False,False,False
-بخار داد,7,4,3,True,True,داد,0.5714285714285714,0.42857142857142855,0.4285714285714286,False,True,True,True
+بخار داد,7,6,1,True,True,داد,0.8571428571428571,0.14285714285714285,0.1428571428571429,False,True,True,True
 بخار کرد,7,3,0,True,True,کرد,0.42857142857142855,0.0,0.5714285714285714,False,True,True,True
 بخش کرد,7,6,1,True,True,کرد,0.8571428571428571,0.14285714285714285,0.1428571428571429,False,True,True,True
 نظرخواهی کرد,7,0,7,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -1679,7 +1679,7 @@
 مصلحت‌اندیشی کرد,7,0,1,True,True,کرد,0.0,0.14285714285714285,1.0,True,False,False,False
 مطابقت داد,7,6,6,True,True,داد,0.8571428571428571,0.8571428571428571,0.1428571428571429,False,True,True,True
 انتشار داد,7,6,1,True,True,داد,0.8571428571428571,0.14285714285714285,0.1428571428571429,False,True,True,True
-انتظار کشید,7,1,4,True,True,کشید,0.14285714285714285,0.5714285714285714,0.8571428571428572,True,False,False,False
+انتظار کشید,7,2,3,True,True,کشید,0.2857142857142857,0.42857142857142855,0.7142857142857143,True,False,False,False
 صورت پذیرفت,7,0,0,True,True,پذیرفت,0.0,0.0,1.0,False,False,False,False
 اندازه کرد,7,6,0,True,True,کرد,0.8571428571428571,0.0,0.1428571428571429,False,True,True,True
 آنتن داد,7,0,0,True,True,داد,0.0,0.0,1.0,False,False,False,False
@@ -1795,7 +1795,7 @@
 یقین آورد,6,0,6,True,True,آورد,0.0,1.0,1.0,True,False,False,False
 یورش آورد,6,0,6,True,True,آورد,0.0,1.0,1.0,True,False,False,False
 یادداشت‌برداری کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
-عتاب کرد,6,1,4,True,True,کرد,0.16666666666666666,0.6666666666666666,0.8333333333333334,True,False,False,False
+عتاب کرد,6,2,3,True,True,کرد,0.3333333333333333,0.5,0.6666666666666667,True,False,False,False
 امضا زد,6,4,1,True,True,زد,0.6666666666666666,0.16666666666666666,0.33333333333333337,False,True,True,True
 آب‌کشی کرد,6,3,0,True,True,کرد,0.5,0.0,0.5,False,True,True,True
 مساعدت کرد,6,3,2,True,True,کرد,0.5,0.3333333333333333,0.5,False,True,True,True
@@ -1820,7 +1820,7 @@
 اغماض کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 غوطه زد,6,0,6,True,True,زد,0.0,1.0,1.0,True,False,False,False
 فاصله داد,6,5,5,True,True,داد,0.8333333333333334,0.8333333333333334,0.16666666666666663,False,True,True,True
-سرپوش گذاشت,6,0,6,True,True,گذاشت,0.0,1.0,1.0,True,False,False,False
+سرپوش گذاشت,6,1,5,True,True,گذاشت,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
 پای آمد,6,0,0,True,True,آمد,0.0,0.0,1.0,False,False,False,False
 مشاورت کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 مشاوره کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -1846,9 +1846,9 @@
 اطمینان کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 فرش کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 سرکشی کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
-بست زد,6,0,2,True,True,زد,0.0,0.3333333333333333,1.0,True,False,False,False
+بست زد,6,2,0,True,True,زد,0.3333333333333333,0.0,0.6666666666666667,False,False,False,False
 بست نشست,6,0,6,True,True,نشست,0.0,1.0,1.0,True,False,False,False
-کارگردانی کرد,6,4,1,True,True,کرد,0.6666666666666666,0.16666666666666666,0.33333333333333337,False,True,True,True
+کارگردانی کرد,6,5,0,True,True,کرد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
 کارگری کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 کاریابی کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 اقناع کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -1875,7 +1875,7 @@
 سراغ داشت,6,6,1,True,True,داشت,1.0,0.16666666666666666,0.0,False,True,True,True
 نقل داد,6,5,6,True,True,داد,0.8333333333333334,1.0,0.16666666666666663,False,True,True,True
 سرشماری کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
-سرفه کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
+سرفه کرد,6,1,0,True,True,کرد,0.16666666666666666,0.0,0.8333333333333334,False,False,False,False
 مژه زد,6,1,0,True,True,زد,0.16666666666666666,0.0,0.8333333333333334,False,False,False,False
 مکاتبه کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 اعزام داشت,6,6,5,True,True,داشت,1.0,0.8333333333333334,0.0,False,True,True,True
@@ -1912,7 +1912,7 @@
 سامان پذیرفت,6,0,0,True,True,پذیرفت,0.0,0.0,1.0,False,False,False,False
 بند زد,6,5,1,True,True,زد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
 بندبازی کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-نمره آورد,6,1,2,True,True,آورد,0.16666666666666666,0.3333333333333333,0.8333333333333334,True,False,False,False
+نمره آورد,6,2,1,True,True,آورد,0.3333333333333333,0.16666666666666666,0.6666666666666667,False,False,False,False
 نمره کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 ستم کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 ستیز کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
@@ -1955,12 +1955,12 @@
 گردن گرفت,6,6,0,True,True,گرفت,1.0,0.0,0.0,False,True,True,True
 فرق گذاشت,6,0,6,True,True,گذاشت,0.0,1.0,1.0,True,False,False,False
 فرمانروایی کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
-فرمان‌برداری کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
+فرمان‌برداری کرد,6,1,2,True,True,کرد,0.16666666666666666,0.3333333333333333,0.8333333333333334,True,False,False,False
 زورگیری کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 زوزه کرد,6,1,0,True,True,کرد,0.16666666666666666,0.0,0.8333333333333334,False,False,False,False
 زیاد آورد,6,6,0,True,True,آورد,1.0,0.0,0.0,False,True,True,True
 بهره‌برداری کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
-اعانت کرد,6,3,5,True,True,کرد,0.5,0.8333333333333334,0.5,False,True,True,True
+اعانت کرد,6,5,3,True,True,کرد,0.8333333333333334,0.5,0.16666666666666663,False,True,True,True
 گران‌فروشی کرد,6,1,0,True,True,کرد,0.16666666666666666,0.0,0.8333333333333334,False,False,False,False
 گرایید,6,0,6,False,False,,0.0,1.0,1.0,True,False,False,False
 فرمت کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -1969,7 +1969,7 @@
 حسادت ورزید,6,0,6,True,True,ورزید,0.0,1.0,1.0,True,False,False,False
 حماسه‌آفرینی کرد,6,0,1,True,True,کرد,0.0,0.16666666666666666,1.0,True,False,False,False
 نجوا کرد,6,4,4,True,True,کرد,0.6666666666666666,0.6666666666666666,0.33333333333333337,False,True,True,True
-ندا داد,6,3,1,True,True,داد,0.5,0.16666666666666666,0.5,False,True,True,True
+ندا داد,6,4,0,True,True,داد,0.6666666666666666,0.0,0.33333333333333337,False,True,True,True
 کودتا کرد,6,0,2,True,True,کرد,0.0,0.3333333333333333,1.0,True,False,False,False
 اسکورت کرد,6,6,2,True,True,کرد,1.0,0.3333333333333333,0.0,False,True,True,True
 نمونه‌گیری کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
@@ -1986,7 +1986,7 @@
 حظ برد,6,0,5,True,True,برد,0.0,0.8333333333333334,1.0,True,False,False,False
 حروف‌چینی کرد,6,4,0,True,True,کرد,0.6666666666666666,0.0,0.33333333333333337,False,True,True,True
 ابلاغ داشت,6,6,5,True,True,داشت,1.0,0.8333333333333334,0.0,False,True,True,True
-معاونت کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
+معاونت کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 معذور داشت,6,6,0,False,True,داشت,1.0,0.0,0.0,False,True,True,True
 تمسک کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 تمشیت کرد,6,5,0,True,True,کرد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
@@ -2008,7 +2008,7 @@
 سنگ‌پرانی کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 سهل‌انگاری کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 برابری کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
-معصیت کرد,6,3,1,True,True,کرد,0.5,0.16666666666666666,0.5,False,True,True,True
+معصیت کرد,6,4,0,True,True,کرد,0.6666666666666666,0.0,0.33333333333333337,False,True,True,True
 مباشرت کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 مباهله کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
 مبذول داشت,6,6,3,True,True,داشت,1.0,0.5,0.0,False,True,True,True
@@ -2044,13 +2044,13 @@
 تله‌پاتی کرد,6,0,1,True,True,کرد,0.0,0.16666666666666666,1.0,True,False,False,False
 تلگراف زد,6,1,5,True,True,زد,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
 خاتمه پذیرفت,6,0,0,True,True,پذیرفت,0.0,0.0,1.0,False,False,False,False
-ماتم گرفت,6,0,1,True,True,گرفت,0.0,0.16666666666666666,1.0,True,False,False,False
+ماتم گرفت,6,1,0,True,True,گرفت,0.16666666666666666,0.0,0.8333333333333334,False,False,False,False
 وصله خورد,6,0,3,True,True,خورد,0.0,0.5,1.0,True,False,False,False
 وصله زد,6,4,1,True,True,زد,0.6666666666666666,0.16666666666666666,0.33333333333333337,False,True,True,True
 اشارت داشت,6,0,6,True,True,داشت,0.0,1.0,1.0,True,False,False,False
 اشاعه داد,6,5,5,True,True,داد,0.8333333333333334,0.8333333333333334,0.16666666666666663,False,True,True,True
 چمباتمه زد,6,0,0,True,True,زد,0.0,0.0,1.0,False,False,False,False
-چنگ انداخت,6,0,6,True,True,انداخت,0.0,1.0,1.0,True,False,False,False
+چنگ انداخت,6,1,5,True,True,انداخت,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
 بدل کرد,6,6,6,True,True,کرد,1.0,1.0,0.0,False,True,True,True
 نظر آورد,6,6,0,True,True,آورد,1.0,0.0,0.0,False,True,True,True
 نظر رسید,6,0,5,True,True,رسید,0.0,0.8333333333333334,1.0,True,False,False,False
@@ -2065,7 +2065,7 @@
 تلفن کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 خرابکاری کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 سیاست ورزید,6,0,0,True,True,ورزید,0.0,0.0,1.0,False,False,False,False
-سیاست‌گذاری کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
+سیاست‌گذاری کرد,6,1,4,True,True,کرد,0.16666666666666666,0.6666666666666666,0.8333333333333334,True,False,False,False
 سیاسی‌کاری کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 افاقه کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 بی‌تابی کرد,6,0,2,True,True,کرد,0.0,0.3333333333333333,1.0,True,False,False,False
@@ -2079,7 +2079,7 @@
 مادری کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
 ماساژ داد,6,6,1,True,True,داد,1.0,0.16666666666666666,0.0,False,True,True,True
 معمول داشت,6,6,0,False,True,داشت,1.0,0.0,0.0,False,True,True,True
-معنا داد,6,0,6,True,True,داد,0.0,1.0,1.0,True,False,False,False
+معنا داد,6,1,5,True,True,داد,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
 معنا کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 صدقه کرد,6,3,1,True,True,کرد,0.5,0.16666666666666666,0.5,False,True,True,True
 شیهه زد,6,0,1,True,True,زد,0.0,0.16666666666666666,1.0,True,False,False,False
@@ -2119,14 +2119,14 @@
 میان آمد,6,0,0,True,True,آمد,0.0,0.0,1.0,False,False,False,False
 سیلی خورد,6,0,2,True,True,خورد,0.0,0.3333333333333333,1.0,True,False,False,False
 سیمان کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-نظاره داشت,6,1,5,True,True,داشت,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
+نظاره داشت,6,3,3,True,True,داشت,0.5,0.5,0.5,False,True,True,True
 رهنمود کرد,6,5,6,True,True,کرد,0.8333333333333334,1.0,0.16666666666666663,False,True,True,True
 رهنمون ساخت,6,4,6,True,True,ساخت,0.6666666666666666,1.0,0.33333333333333337,False,True,True,True
 چرخ کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 چرخش کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 بی‌مهری کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 بی‌وجدانی کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-چرید,6,2,0,False,False,,0.3333333333333333,0.0,0.6666666666666667,False,False,False,False
+چرید,6,3,0,False,False,,0.5,0.0,0.5,False,True,True,True
 تفقد کرد,6,2,4,True,True,کرد,0.3333333333333333,0.6666666666666666,0.6666666666666667,True,False,False,False
 تفنن کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 وراجی کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
@@ -2146,7 +2146,7 @@
 پمپاژ کرد,6,6,4,True,True,کرد,1.0,0.6666666666666666,0.0,False,True,True,True
 تفاوت گذارد,6,0,6,True,True,گذارد,0.0,1.0,1.0,True,False,False,False
 خلوت کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
-تفرج کرد,6,1,5,True,True,کرد,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
+تفرج کرد,6,2,4,True,True,کرد,0.3333333333333333,0.6666666666666666,0.6666666666666667,True,False,False,False
 اخاذی کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 گلوله‌باران کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 گل‌افشانی کرد,6,3,0,True,True,کرد,0.5,0.0,0.5,False,True,True,True
@@ -2173,7 +2173,7 @@
 کهیر زد,6,0,0,True,True,زد,0.0,0.0,1.0,False,False,False,False
 تغافل کرد,6,1,2,True,True,کرد,0.16666666666666666,0.3333333333333333,0.8333333333333334,True,False,False,False
 اخفا کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
-اخلال کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
+اخلال کرد,6,1,5,True,True,کرد,0.16666666666666666,0.8333333333333334,0.8333333333333334,True,False,False,False
 ادا کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
 گل انداخت,6,0,0,True,True,انداخت,0.0,0.0,1.0,False,False,False,False
 گلایه کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -2182,7 +2182,7 @@
 شانه کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 شاهکار کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 مهر کرد,6,5,0,True,True,کرد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
-مهمانی داد,6,0,1,True,True,داد,0.0,0.16666666666666666,1.0,True,False,False,False
+مهمانی داد,6,1,1,True,True,داد,0.16666666666666666,0.16666666666666666,0.8333333333333334,False,False,False,False
 استنباط کرد,6,5,3,True,True,کرد,0.8333333333333334,0.5,0.16666666666666663,False,True,True,True
 رنگ‌آمیزی کرد,6,6,1,True,True,کرد,1.0,0.16666666666666666,0.0,False,True,True,True
 رم داد,6,6,0,True,True,داد,1.0,0.0,0.0,False,True,True,True
@@ -2218,12 +2218,12 @@
 چانه‌زنی کرد,6,0,1,True,True,کرد,0.0,0.16666666666666666,1.0,True,False,False,False
 چاپلوسی کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 میان گذاشت,6,6,5,True,True,گذاشت,1.0,0.8333333333333334,0.0,False,True,True,True
-میدان‌داری کرد,6,0,2,True,True,کرد,0.0,0.3333333333333333,1.0,True,False,False,False
+میدان‌داری کرد,6,1,1,True,True,کرد,0.16666666666666666,0.16666666666666666,0.8333333333333334,False,False,False,False
 تصور کرد,6,5,0,True,True,کرد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
 لحظه‌شماری کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 درخشانید,6,6,0,False,False,,1.0,0.0,0.0,False,True,True,True
 وارد آمد,6,0,6,True,True,آمد,0.0,1.0,1.0,True,False,False,False
-نشانه رفت,6,2,4,True,True,رفت,0.3333333333333333,0.6666666666666666,0.6666666666666667,True,False,False,False
+نشانه رفت,6,3,3,True,True,رفت,0.5,0.5,0.5,False,True,True,True
 شکاف داد,6,6,0,True,True,داد,1.0,0.0,0.0,False,True,True,True
 افول کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 بانگ زد,6,3,2,True,True,زد,0.5,0.3333333333333333,0.5,False,True,True,True
@@ -2256,7 +2256,7 @@
 قالب‌بندی کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 شورش کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
 شوهر کرد,6,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-کلاهبرداری کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
+کلاهبرداری کرد,6,1,2,True,True,کرد,0.16666666666666666,0.3333333333333333,0.8333333333333334,True,False,False,False
 بازشناسی کرد,6,6,1,True,True,کرد,1.0,0.16666666666666666,0.0,False,True,True,True
 نشأت گرفت,6,0,6,True,True,گرفت,0.0,1.0,1.0,True,False,False,False
 باد رفت,6,0,0,True,True,رفت,0.0,0.0,1.0,False,False,False,False
@@ -2270,7 +2270,7 @@
 ممانعت کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
 مناجات کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
 تشریح داد,6,4,0,True,True,داد,0.6666666666666666,0.0,0.33333333333333337,False,True,True,True
-بازاندیشی کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
+بازاندیشی کرد,6,1,4,True,True,کرد,0.16666666666666666,0.6666666666666666,0.8333333333333334,True,False,False,False
 شوت کرد,6,4,2,True,True,کرد,0.6666666666666666,0.3333333333333333,0.33333333333333337,False,True,True,True
 قایق‌رانی کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 قایم کرد,6,6,1,True,True,کرد,1.0,0.16666666666666666,0.0,False,True,True,True
@@ -2286,7 +2286,7 @@
 تجمیع کرد,6,6,3,True,True,کرد,1.0,0.5,0.0,False,True,True,True
 عهدشکنی کرد,6,0,1,True,True,کرد,0.0,0.16666666666666666,1.0,True,False,False,False
 علاوه کرد,6,5,6,True,True,کرد,0.8333333333333334,1.0,0.16666666666666663,False,True,True,True
-بازآفرینی کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
+بازآفرینی کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 دزدی کرد,6,0,1,True,True,کرد,0.0,0.16666666666666666,1.0,True,False,False,False
 دست خورد,6,0,0,True,True,خورد,0.0,0.0,1.0,False,False,False,False
 همگرایی کرد,6,0,5,True,True,کرد,0.0,0.8333333333333334,1.0,True,False,False,False
@@ -2309,7 +2309,7 @@
 استدلال کرد,6,0,4,True,True,کرد,0.0,0.6666666666666666,1.0,True,False,False,False
 استشهاد کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 نشخوار کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
-نصرت کرد,6,4,2,True,True,کرد,0.6666666666666666,0.3333333333333333,0.33333333333333337,False,True,True,True
+نصرت کرد,6,6,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 کینه ورزید,6,0,5,True,True,ورزید,0.0,0.8333333333333334,1.0,True,False,False,False
 گاز زد,6,5,0,True,True,زد,0.8333333333333334,0.0,0.16666666666666663,False,True,True,True
 گاز گرفت,6,4,0,True,True,گرفت,0.6666666666666666,0.0,0.33333333333333337,False,True,True,True
@@ -2336,7 +2336,7 @@
 دل برد,6,0,4,True,True,برد,0.0,0.6666666666666666,1.0,True,False,False,False
 دل برید,6,0,6,True,True,برید,0.0,1.0,1.0,True,False,False,False
 دست‌چین کرد,6,6,1,True,True,کرد,1.0,0.16666666666666666,0.0,False,True,True,True
-دست‌کاری کرد,6,3,3,True,True,کرد,0.5,0.5,0.5,False,True,True,True
+دست‌کاری کرد,6,5,1,True,True,کرد,0.8333333333333334,0.16666666666666666,0.16666666666666663,False,True,True,True
 پیشوایی کرد,6,0,3,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 پیشکش داشت,6,5,5,True,True,داشت,0.8333333333333334,0.8333333333333334,0.16666666666666663,False,True,True,True
 دنباله‌روی کرد,6,0,6,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -2404,7 +2404,7 @@
 دهن‌دره کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 قصابی کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 ارزانی داشت,5,5,5,True,True,داشت,1.0,1.0,0.0,False,True,True,True
-قلاب‌بافی کرد,5,1,2,True,True,کرد,0.2,0.4,0.8,True,False,False,False
+قلاب‌بافی کرد,5,3,0,True,True,کرد,0.6,0.0,0.4,False,True,True,True
 قلاب‌دوزی کرد,5,4,1,True,True,کرد,0.8,0.2,0.19999999999999996,False,True,True,True
 قرعه کشید,5,1,2,True,True,کشید,0.2,0.4,0.8,True,False,False,False
 همدلی کرد,5,0,4,True,True,کرد,0.0,0.8,1.0,True,False,False,False
@@ -2439,7 +2439,7 @@
 استانداردسازی کرد,5,4,0,True,True,کرد,0.8,0.0,0.19999999999999996,False,True,True,True
 نشانه‌گذاری کرد,5,5,2,True,True,کرد,1.0,0.4,0.0,False,True,True,True
 گارد گرفت,5,0,4,True,True,گرفت,0.0,0.8,1.0,True,False,False,False
-عکاسی کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
+عکاسی کرد,5,2,0,True,True,کرد,0.4,0.0,0.6,False,False,False,False
 عکس انداخت,5,0,1,True,True,انداخت,0.0,0.2,1.0,True,False,False,False
 تزاحم کرد,5,0,4,True,True,کرد,0.0,0.8,1.0,True,False,False,False
 پی گذاشت,5,5,0,True,True,گذاشت,1.0,0.0,0.0,False,True,True,True
@@ -2461,12 +2461,12 @@
 هوادهی کرد,5,4,0,True,True,کرد,0.8,0.0,0.19999999999999996,False,True,True,True
 دروازه‌بانی کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 دستبرد زد,5,0,5,True,True,زد,0.0,1.0,1.0,True,False,False,False
-دستور داد,5,0,2,True,True,داد,0.0,0.4,1.0,True,False,False,False
+دستور داد,5,1,2,True,True,داد,0.2,0.4,0.8,True,False,False,False
 قیل کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 قیچی کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 ملحوظ داشت,5,5,0,True,True,داشت,1.0,0.0,0.0,False,True,True,True
 منازعت کرد,5,0,4,True,True,کرد,0.0,0.8,1.0,True,False,False,False
-ارزش نهاد,5,0,5,True,True,نهاد,0.0,1.0,1.0,True,False,False,False
+ارزش نهاد,5,2,3,True,True,نهاد,0.4,0.6,0.6,True,False,False,False
 بازارگرمی کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
 قبض کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 قتل کرد,5,4,0,True,True,کرد,0.8,0.0,0.19999999999999996,False,True,True,True
@@ -2538,7 +2538,7 @@
 تأمین شد,5,0,1,True,True,شد,0.0,0.2,1.0,True,False,False,False
 تأویل کرد,5,5,2,True,True,کرد,1.0,0.4,0.0,False,True,True,True
 تأکید نهاد,5,0,5,True,True,نهاد,0.0,1.0,1.0,True,False,False,False
-نظام داد,5,1,4,True,True,داد,0.2,0.8,0.8,True,False,False,False
+نظام داد,5,2,3,True,True,داد,0.4,0.6,0.6,True,False,False,False
 بدرفتاری کرد,5,0,5,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 میگساری کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 نائل کرد,5,3,0,False,True,کرد,0.6,0.0,0.4,False,True,True,True
@@ -2573,7 +2573,7 @@
 شکیبایی کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 ایثارگری کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 صف کشید,5,0,4,True,True,کشید,0.0,0.8,1.0,True,False,False,False
-صفیر زد,5,0,2,True,True,زد,0.0,0.4,1.0,True,False,False,False
+صفیر زد,5,1,1,True,True,زد,0.2,0.2,0.8,False,False,False,False
 رواج داد,5,5,1,True,True,داد,1.0,0.2,0.0,False,True,True,True
 رواج گرفت,5,0,1,True,True,گرفت,0.0,0.2,1.0,True,False,False,False
 نوگرایی کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
@@ -2602,14 +2602,14 @@
 تفضل کرد,5,1,2,True,True,کرد,0.2,0.4,0.8,True,False,False,False
 خنده کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 صابون زد,5,4,0,True,True,زد,0.8,0.0,0.19999999999999996,False,True,True,True
-اسم برد,5,1,4,True,True,برد,0.2,0.8,0.8,True,False,False,False
+اسم برد,5,2,3,True,True,برد,0.4,0.6,0.6,True,False,False,False
 اجرا گذاشت,5,5,0,True,True,گذاشت,1.0,0.0,0.0,False,True,True,True
 احتجاج کرد,5,0,5,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 احتراز کرد,5,0,4,True,True,کرد,0.0,0.8,1.0,True,False,False,False
 معنی کرد,5,4,0,True,True,کرد,0.8,0.0,0.19999999999999996,False,True,True,True
 صدارت کرد,5,0,3,True,True,کرد,0.0,0.6,1.0,True,False,False,False
 صدور کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
-اسپری زد,5,0,3,True,True,زد,0.0,0.6,1.0,True,False,False,False
+اسپری زد,5,2,1,True,True,زد,0.4,0.2,0.6,False,False,False,False
 اسپری کرد,5,5,4,True,True,کرد,1.0,0.8,0.0,False,True,True,True
 اسکان داشت,5,0,5,True,True,داشت,0.0,1.0,1.0,True,False,False,False
 فغان کرد,5,1,0,True,True,کرد,0.2,0.0,0.8,False,False,False,False
@@ -2651,7 +2651,7 @@
 سوهان کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 سوگند خورد,5,0,2,True,True,خورد,0.0,0.4,1.0,True,False,False,False
 نوردید,5,5,0,False,False,,1.0,0.0,0.0,False,True,True,True
-رکاب زد,5,1,3,True,True,زد,0.2,0.6,0.8,True,False,False,False
+رکاب زد,5,2,3,True,True,زد,0.4,0.6,0.6,True,False,False,False
 ریتم گرفت,5,0,0,True,True,گرفت,0.0,0.0,1.0,False,False,False,False
 وعده کرد,5,3,2,True,True,کرد,0.6,0.4,0.4,False,True,True,True
 حکایت کرد,5,1,4,True,True,کرد,0.2,0.8,0.8,True,False,False,False
@@ -2664,7 +2664,7 @@
 ریخت کرد,5,2,0,True,True,کرد,0.4,0.0,0.6,False,False,False,False
 ریسه رفت,5,0,2,True,True,رفت,0.0,0.4,1.0,True,False,False,False
 ریشخند زد,5,0,4,True,True,زد,0.0,0.8,1.0,True,False,False,False
-رونق داد,5,2,3,True,True,داد,0.4,0.6,0.6,True,False,False,False
+رونق داد,5,4,1,True,True,داد,0.8,0.2,0.19999999999999996,False,True,True,True
 بچه کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 سهمیه‌بندی کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 برخورد شد,5,0,5,True,True,شد,0.0,1.0,1.0,True,False,False,False
@@ -2675,7 +2675,7 @@
 حق‌کشی کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 تمتع کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
 برتری کرد,5,0,3,True,True,کرد,0.0,0.6,1.0,True,False,False,False
-کدگشایی کرد,5,1,3,True,True,کرد,0.2,0.6,0.8,True,False,False,False
+کدگشایی کرد,5,4,0,True,True,کرد,0.8,0.0,0.19999999999999996,False,True,True,True
 ریشه‌یابی کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
 زایمان کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 زبانه کشید,5,0,1,True,True,کشید,0.0,0.2,1.0,True,False,False,False
@@ -2719,7 +2719,7 @@
 گردن کشید,5,0,1,True,True,کشید,0.0,0.2,1.0,True,False,False,False
 فرمان داد,5,0,3,True,True,داد,0.0,0.6,1.0,True,False,False,False
 فرمان راند,5,0,2,True,True,راند,0.0,0.4,1.0,True,False,False,False
-فرمانبری کرد,5,1,3,True,True,کرد,0.2,0.6,0.8,True,False,False,False
+فرمانبری کرد,5,2,2,True,True,کرد,0.4,0.4,0.6,False,False,False,False
 ساده‌اندیشی کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 سادگی کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 زورگویی کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
@@ -2757,7 +2757,7 @@
 طراحی شد,5,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 زیرگیری کرد,5,0,3,True,True,کرد,0.0,0.6,1.0,True,False,False,False
 زینت کرد,5,4,3,True,True,کرد,0.8,0.6,0.19999999999999996,False,True,True,True
-کار داشت,5,0,5,True,True,داشت,0.0,1.0,1.0,True,False,False,False
+کار داشت,5,1,4,True,True,داشت,0.2,0.8,0.8,True,False,False,False
 بنیاد نهاد,5,5,1,True,True,نهاد,1.0,0.2,0.0,False,True,True,True
 بنیاد گذارد,5,5,0,True,True,گذارد,1.0,0.0,0.0,False,True,True,True
 بنیان کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
@@ -2769,7 +2769,7 @@
 الگوسازی کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 سامان کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 سامان‌دهی کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-سبزی‌کاری کرد,5,1,1,True,True,کرد,0.2,0.2,0.8,False,False,False,False
+سبزی‌کاری کرد,5,2,0,True,True,کرد,0.4,0.0,0.6,False,False,False,False
 بغض کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 نمونه‌سازی کرد,5,3,0,True,True,کرد,0.6,0.0,0.4,False,True,True,True
 ستون کرد,5,5,2,True,True,کرد,1.0,0.4,0.0,False,True,True,True
@@ -2809,7 +2809,7 @@
 کوهپیمایی کرد,5,0,1,True,True,کرد,0.0,0.2,1.0,True,False,False,False
 طناب‌بازی کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 تولید شد,5,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
-گوش‌مالی داد,5,2,3,True,True,داد,0.4,0.6,0.6,True,False,False,False
+گوش‌مالی داد,5,5,0,True,True,داد,1.0,0.0,0.0,False,True,True,True
 آشیانه کرد,5,1,4,True,True,کرد,0.2,0.8,0.8,True,False,False,False
 آمار گرفت,5,0,3,True,True,گرفت,0.0,0.6,1.0,True,False,False,False
 جستجو کرد,5,4,1,True,True,کرد,0.8,0.2,0.19999999999999996,False,True,True,True
@@ -2822,7 +2822,7 @@
 طهارت کرد,5,1,1,True,True,کرد,0.2,0.2,0.8,False,False,False,False
 کاسبی کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
 سر گرفت,5,5,0,True,True,گرفت,1.0,0.0,0.0,False,True,True,True
-نقش زد,5,3,3,True,True,زد,0.6,0.6,0.4,False,True,True,True
+نقش زد,5,4,2,True,True,زد,0.8,0.4,0.19999999999999996,False,True,True,True
 نقش‌آفرینی کرد,5,0,3,True,True,کرد,0.0,0.6,1.0,True,False,False,False
 نقصان کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 سرویس‌رسانی کرد,5,0,4,True,True,کرد,0.0,0.8,1.0,True,False,False,False
@@ -2838,8 +2838,8 @@
 فتنه‌گری کرد,5,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 فر خورد,5,0,0,True,True,خورد,0.0,0.0,1.0,False,False,False,False
 فرآوری کرد,5,5,0,True,True,کرد,1.0,0.0,0.0,False,True,True,True
-سلام داد,5,0,5,True,True,داد,0.0,1.0,1.0,True,False,False,False
-بسترسازی کرد,5,0,3,True,True,کرد,0.0,0.6,1.0,True,False,False,False
+سلام داد,5,1,4,True,True,داد,0.2,0.8,0.8,True,False,False,False
+بسترسازی کرد,5,1,2,True,True,کرد,0.2,0.4,0.8,True,False,False,False
 سرکوفت زد,5,0,3,True,True,زد,0.0,0.6,1.0,True,False,False,False
 آشیان کرد,5,0,2,True,True,کرد,0.0,0.4,1.0,True,False,False,False
 انبوه‌سازی کرد,5,2,0,True,True,کرد,0.4,0.0,0.6,False,False,False,False
@@ -2951,7 +2951,7 @@
 زمان گذاشت,4,0,3,True,True,گذاشت,0.0,0.75,1.0,True,False,False,False
 زمان برد,4,0,1,True,True,برد,0.0,0.25,1.0,True,False,False,False
 نگاه داشت,4,3,2,True,True,داشت,0.75,0.5,0.25,False,False,False,False
-رنگ داد,4,1,3,True,True,داد,0.25,0.75,0.75,True,False,False,False
+رنگ داد,4,2,2,True,True,داد,0.5,0.5,0.5,False,False,False,False
 چرخ داد,4,2,1,True,True,داد,0.5,0.25,0.5,False,False,False,False
 بی‌نزاکتی کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 رهنمون داشت,4,3,3,True,True,داشت,0.75,0.75,0.25,False,False,False,False
@@ -3001,7 +3001,7 @@
 تحریض کرد,4,4,2,True,True,کرد,1.0,0.5,0.0,False,False,False,False
 استفهام کرد,4,2,3,True,True,کرد,0.5,0.75,0.5,False,False,False,False
 منع کرد,4,3,1,True,True,کرد,0.75,0.25,0.25,False,False,False,False
-فیش‌برداری کرد,4,1,2,True,True,کرد,0.25,0.5,0.75,True,False,False,False
+فیش‌برداری کرد,4,2,1,True,True,کرد,0.5,0.25,0.5,False,False,False,False
 قانون‌گذاری کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 قالب زد,4,3,0,True,True,زد,0.75,0.0,0.25,False,False,False,False
 قارچ زد,4,0,1,True,True,زد,0.0,0.25,1.0,True,False,False,False
@@ -3013,7 +3013,7 @@
 بخشندگی کرد,4,0,1,True,True,کرد,0.0,0.25,1.0,True,False,False,False
 شراره کشید,4,0,2,True,True,کشید,0.0,0.5,1.0,True,False,False,False
 شجاعت کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-نصیب کرد,4,4,1,True,True,کرد,1.0,0.25,0.0,False,False,False,False
+نصیب کرد,4,4,0,True,True,کرد,1.0,0.0,0.0,False,False,False,False
 قشون‌کشی کرد,4,0,2,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 تحول کرد,4,0,1,True,True,کرد,0.0,0.25,1.0,True,False,False,False
 تخمک‌گذاری کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
@@ -3043,12 +3043,12 @@
 ترجمه کرد,4,2,1,True,True,کرد,0.5,0.25,0.5,False,False,False,False
 ترانزیت شد,4,0,2,True,True,شد,0.0,0.5,1.0,True,False,False,False
 قطعیت کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-قطعیت داد,4,0,4,True,True,داد,0.0,1.0,1.0,True,False,False,False
+قطعیت داد,4,1,3,True,True,داد,0.25,0.75,0.75,True,False,False,False
 استارت زد,4,1,0,True,True,زد,0.25,0.0,0.75,False,False,False,False
 اسب‌دوانی کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 ملیله‌دوزی کرد,4,2,2,True,True,کرد,0.5,0.5,0.5,False,False,False,False
 لازم داشت,4,4,0,True,True,داشت,1.0,0.0,0.0,False,False,False,False
-لابه کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
+لابه کرد,4,1,0,True,True,کرد,0.25,0.0,0.75,False,False,False,False
 تشعشع کرد,4,2,1,True,True,کرد,0.5,0.25,0.5,False,False,False,False
 تشریف‌فرمایی کرد,4,0,1,True,True,کرد,0.0,0.25,1.0,True,False,False,False
 علامت‌گذاری کرد,4,4,2,True,True,کرد,1.0,0.5,0.0,False,False,False,False
@@ -3175,7 +3175,7 @@
 تمهید کرد,4,3,1,True,True,کرد,0.75,0.25,0.25,False,False,False,False
 تمنا کرد,4,3,2,True,True,کرد,0.75,0.5,0.25,False,False,False,False
 تهییج کرد,4,4,1,True,True,کرد,1.0,0.25,0.0,False,False,False,False
-تهجد کرد,4,0,1,True,True,کرد,0.0,0.25,1.0,True,False,False,False
+تهجد کرد,4,1,0,True,True,کرد,0.25,0.0,0.75,False,False,False,False
 آوانویسی کرد,4,4,0,True,True,کرد,1.0,0.0,0.0,False,False,False,False
 آفرینش کرد,4,2,0,True,True,کرد,0.5,0.0,0.5,False,False,False,False
 انباشت,4,3,3,False,False,,0.75,0.75,0.25,False,False,False,False
@@ -3194,12 +3194,12 @@
 پاس‌کاری کرد,4,1,0,True,True,کرد,0.25,0.0,0.75,False,False,False,False
 پاسخ‌گویی کرد,4,0,3,True,True,کرد,0.0,0.75,1.0,True,False,False,False
 توصیه کرد,4,2,2,True,True,کرد,0.5,0.5,0.5,False,False,False,False
-گوشمالی داد,4,2,2,True,True,داد,0.5,0.5,0.5,False,False,False,False
+گوشمالی داد,4,3,1,True,True,داد,0.75,0.25,0.25,False,False,False,False
 گوش داشت,4,0,1,True,True,داشت,0.0,0.25,1.0,True,False,False,False
 آماس کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 ناپختگی کرد,4,0,1,True,True,کرد,0.0,0.25,1.0,True,False,False,False
 کوهنوردی کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-عصاره‌گیری کرد,4,2,2,True,True,کرد,0.5,0.5,0.5,False,False,False,False
+عصاره‌گیری کرد,4,3,1,True,True,کرد,0.75,0.25,0.25,False,False,False,False
 عشق‌ورزی کرد,4,0,4,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 توجه شد,4,0,3,True,True,شد,0.0,0.75,1.0,True,False,False,False
 توافق کرد,4,0,4,True,True,کرد,0.0,1.0,1.0,True,False,False,False
@@ -3221,7 +3221,7 @@
 جا گذارد,4,4,1,True,True,گذارد,1.0,0.25,0.0,False,False,False,False
 جانبازی کرد,4,0,2,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 پایان کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-تک‌گویی کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
+تک‌گویی کرد,4,1,0,True,True,کرد,0.25,0.0,0.75,False,False,False,False
 بنایی کرد,4,1,0,True,True,کرد,0.25,0.0,0.75,False,False,False,False
 بنا گذاشت,4,4,3,True,True,گذاشت,1.0,0.75,0.0,False,False,False,False
 بنا گذارد,4,4,1,True,True,گذارد,1.0,0.25,0.0,False,False,False,False
@@ -3232,7 +3232,7 @@
 برپا کرد,4,4,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 کارزار کرد,4,0,2,True,True,کرد,0.0,0.5,1.0,True,False,False,False
 فراموش شد,4,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
-سرپوش گذارد,4,0,4,True,True,گذارد,0.0,1.0,1.0,True,False,False,False
+سرپوش گذارد,4,1,3,True,True,گذارد,0.25,0.75,0.75,True,False,False,False
 سرقت کرد,4,1,1,True,True,کرد,0.25,0.25,0.75,False,False,False,False
 سر کرد,4,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 کامجویی کرد,4,0,3,True,True,کرد,0.0,0.75,1.0,True,False,False,False
@@ -3421,7 +3421,7 @@
 دراز کرد,3,3,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 تصحیف کرد,3,3,0,True,True,کرد,1.0,0.0,0.0,False,False,False,False
 تصدق کرد,3,0,1,False,True,کرد,0.0,0.3333333333333333,1.0,True,False,False,False
-سراغ گرفت,3,2,3,True,True,گرفت,0.6666666666666666,1.0,0.33333333333333337,False,False,False,False
+سراغ گرفت,3,3,2,True,True,گرفت,1.0,0.6666666666666666,0.0,False,False,False,False
 بنا نهاد,3,3,0,True,True,نهاد,1.0,0.0,0.0,False,False,False,False
 بنا کرد,3,3,3,True,True,کرد,1.0,1.0,0.0,False,False,False,False
 فراهم ساخت,3,3,0,False,True,ساخت,1.0,0.0,0.0,False,False,False,False
@@ -3523,7 +3523,7 @@
 جان کرد,3,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 جا گرفت,3,0,2,True,True,گرفت,0.0,0.6666666666666666,1.0,True,False,False,False
 آسیب کرد,3,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
-پایان داد,3,0,3,True,True,داد,0.0,1.0,1.0,True,False,False,False
+پایان داد,3,1,2,True,True,داد,0.3333333333333333,0.6666666666666666,0.6666666666666667,True,False,False,False
 پایه‌ریزی شد,3,0,1,True,True,شد,0.0,0.3333333333333333,1.0,True,False,False,False
 آرزو کرد,3,2,0,True,True,کرد,0.6666666666666666,0.0,0.33333333333333337,False,False,False,False
 آب‌زدایی شد,3,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
@@ -3750,7 +3750,7 @@
 سیادت کرد,2,0,2,True,True,کرد,0.0,1.0,1.0,True,False,False,False
 برآورده کرد,2,2,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 غلبه یافت,2,0,2,True,True,یافت,0.0,1.0,1.0,True,False,False,False
-شب‌زنده‌داری کرد,2,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
+شب‌زنده‌داری کرد,2,1,0,True,True,کرد,0.5,0.0,0.5,False,False,False,False
 کشف شد,2,1,0,True,True,شد,0.5,0.0,0.5,False,False,False,False
 میان گذارد,2,2,2,True,True,گذارد,1.0,1.0,0.0,False,False,False,False
 غافلگیر کرد,2,1,0,False,True,کرد,0.5,0.0,0.5,False,False,False,False
@@ -3763,7 +3763,7 @@
 بازی‌گردانی کرد,2,1,0,True,True,کرد,0.5,0.0,0.5,False,False,False,False
 باطل کرد,2,2,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 وسعت یافت,2,0,0,True,True,یافت,0.0,0.0,1.0,False,False,False,False
-احترام کرد,2,0,1,True,True,کرد,0.0,0.5,1.0,True,False,False,False
+احترام کرد,2,1,0,True,True,کرد,0.5,0.0,0.5,False,False,False,False
 معنا شد,2,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 معین کرد,2,2,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 تقلا داشت,2,0,2,True,True,داشت,0.0,1.0,1.0,True,False,False,False
@@ -3938,7 +3938,7 @@
 آزار کرد,1,1,0,True,True,کرد,1.0,0.0,0.0,False,False,False,False
 آزار شد,1,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 آزاد ساخت,1,1,0,False,True,ساخت,1.0,0.0,0.0,False,False,False,False
-یادداشت داشت,1,0,1,True,True,داشت,0.0,1.0,1.0,True,False,False,False
+یادداشت داشت,1,1,0,True,True,داشت,1.0,0.0,0.0,False,False,False,False
 گیر داد,1,0,1,True,True,داد,0.0,1.0,1.0,True,False,False,False
 گیر آورد,1,1,1,True,True,آورد,1.0,1.0,0.0,False,False,False,False
 آشوبید,1,0,1,False,False,,0.0,1.0,1.0,True,False,False,False
@@ -4409,7 +4409,7 @@
 سازماندهی شد,1,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 روبرو کرد,1,0,0,False,True,کرد,0.0,0.0,1.0,False,False,False,False
 روایت شد,1,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
-رونق بخشید,1,0,1,True,True,بخشید,0.0,1.0,1.0,True,False,False,False
+رونق بخشید,1,1,0,True,True,بخشید,1.0,0.0,0.0,False,False,False,False
 ریشه زد,1,0,1,True,True,زد,0.0,1.0,1.0,True,False,False,False
 ریزش نمود,1,0,0,True,True,نمود,0.0,0.0,1.0,False,False,False,False
 ریز کرد,1,1,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
@@ -4818,7 +4818,7 @@
 پنهان ساخت,1,1,0,False,True,ساخت,1.0,0.0,0.0,False,False,False,False
 پنداشت,1,0,0,False,False,,0.0,0.0,1.0,False,False,False,False
 پناه کرد,1,0,1,True,True,کرد,0.0,1.0,1.0,True,False,False,False
-پناه داد,1,0,1,True,True,داد,0.0,1.0,1.0,True,False,False,False
+پناه داد,1,1,0,True,True,داد,1.0,0.0,0.0,False,False,False,False
 پناه برید,1,0,1,True,True,برید,0.0,1.0,1.0,True,False,False,False
 تقبل فرمود,1,1,0,True,True,فرمود,1.0,0.0,0.0,False,False,False,False
 تقاضا نمود,1,0,0,True,True,نمود,0.0,0.0,1.0,False,False,False,False
@@ -4901,7 +4901,7 @@
 تخلص داشت,1,1,0,True,True,داشت,1.0,0.0,0.0,False,False,False,False
 تخم‌گذار کرد,1,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 تخمین شد,1,0,1,True,True,شد,0.0,1.0,1.0,True,False,False,False
-تخمین زد,1,0,1,True,True,زد,0.0,1.0,1.0,True,False,False,False
+تخمین زد,1,1,1,True,True,زد,1.0,1.0,0.0,False,False,False,False
 تخلیه شد,1,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False
 تبعید شد,1,0,1,True,True,شد,0.0,1.0,1.0,True,False,False,False
 تبدیل گشت,1,0,0,True,True,گشت,0.0,0.0,1.0,False,False,False,False
@@ -5246,7 +5246,7 @@
 ادبار کرد,1,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 ادب کرد,1,1,0,True,True,کرد,1.0,0.0,0.0,False,False,False,False
 ارجاع داد,1,1,0,True,True,داد,1.0,0.0,0.0,False,False,False,False
-ارج گذاشت,1,0,1,True,True,گذاشت,0.0,1.0,1.0,True,False,False,False
+ارج گذاشت,1,1,0,True,True,گذاشت,1.0,0.0,0.0,False,False,False,False
 ارتعاش کرد,1,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 اراده فرمود,1,1,0,True,True,فرمود,1.0,0.0,0.0,False,False,False,False
 ارائه نمود,1,1,0,True,True,نمود,1.0,0.0,0.0,False,False,False,False
@@ -5327,7 +5327,7 @@
 CSSنویسی کرد,1,0,0,True,True,کرد,0.0,0.0,1.0,False,False,False,False
 ‌تابید,1,1,0,False,False,,1.0,0.0,0.0,False,False,False,False
 یدک کشید,1,1,0,True,True,کشید,1.0,0.0,0.0,False,False,False,False
-یاری نمود,1,0,1,True,True,نمود,0.0,1.0,1.0,True,False,False,False
+یاری نمود,1,1,1,True,True,نمود,1.0,1.0,0.0,False,False,False,False
 یاری فرمود,1,1,1,True,True,فرمود,1.0,1.0,0.0,False,False,False,False
 یار کرد,1,1,0,False,True,کرد,1.0,0.0,0.0,False,False,False,False
 آتش‌افروزی شد,1,0,0,True,True,شد,0.0,0.0,1.0,False,False,False,False

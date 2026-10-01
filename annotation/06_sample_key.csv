@@ -1,0 +1,501 @@
+﻿item,stratum,file,sent_id,tok_id,predicate,cp_strict,cp_broad,light_verb,reliable,has_obj,conjunct_has_obj,imperfective,imperative
+1,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s15543,5,طلب کرد,True,True,کرد,False,False,False,False,False
+2,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s663,13,همراهی کرد,True,True,کرد,False,False,False,False,False
+3,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s910,11,شن‌ریزی کرد,True,True,کرد,False,False,False,False,False
+4,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s25360,5,جمع کرد,True,True,کرد,True,False,False,False,False
+5,control_with_object,fa_perdt-ud-train.conllu,train-s4014,10,داشت,False,False,,True,True,False,False,False
+6,control_with_object,fa_perdt-ud-train.conllu,train-s25438,17,نسبت داد,True,True,داد,True,True,False,True,False
+7,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s21220,5,برد,False,False,,True,False,False,True,False
+8,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2880,5,چرید,False,False,,False,False,False,True,False
+9,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11473,7,صفحه‌آرایی کرد,True,True,کرد,False,False,False,True,False
+10,control_with_object,fa_perdt-ud-train.conllu,train-s8808,7,تاب داد,True,True,داد,False,True,False,False,False
+11,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s2667,9,شروع کرد,True,True,کرد,True,False,False,False,False
+12,control_with_object,fa_perdt-ud-train.conllu,train-s3375,13,نشاند,False,False,,True,True,True,False,False
+13,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s726,12,مشق کرد,True,True,کرد,False,False,False,False,False
+14,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14662,6,بزرگ‌نمایی کرد,True,True,کرد,False,False,False,False,False
+15,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s25637,26,چشم‌زخم زد,True,True,زد,False,False,False,True,False
+16,control_with_object,fa_perdt-ud-train.conllu,train-s5729,10,گرداند,False,False,,True,True,False,False,False
+17,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3736,11,سنجید,False,False,,False,False,False,False,False
+18,control_with_object,fa_perdt-ud-train.conllu,train-s21462,13,مخابره کرد,True,True,کرد,False,True,False,False,False
+19,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s904,5,جدی گرفت,False,True,گرفت,False,False,False,True,False
+20,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11213,32,تشدید کرد,True,True,کرد,False,False,True,False,False
+21,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11181,8,ترمیم کرد,True,True,کرد,False,False,False,True,False
+22,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24159,4,دست داد,True,True,داد,True,False,False,False,False
+23,control_with_object,fa_perdt-ud-train.conllu,train-s4315,21,گرداند,False,False,,True,True,False,False,False
+24,control_with_object,fa_perdt-ud-test.conllu,test-s556,8,ستون کرد,True,True,کرد,False,True,False,False,False
+25,control_with_object,fa_perdt-ud-train.conllu,train-s25144,5,گسترش داد,True,True,داد,True,True,False,True,False
+26,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s5915,13,گذاشت,False,False,,True,False,False,False,False
+27,control_with_object,fa_perdt-ud-train.conllu,train-s10912,22,انجام داد,True,True,داد,True,True,False,False,False
+28,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15692,26,بیان کرد,True,True,کرد,True,False,True,True,False
+29,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s7877,11,نوشت,False,False,,True,False,False,False,False
+30,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2340,38,دچار کرد,False,True,کرد,False,False,False,False,False
+31,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2888,9,جوشاند,False,False,,False,False,True,True,False
+32,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s19105,2,خواند,False,False,,True,False,False,True,False
+33,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s5413,14,شروع کرد,True,True,کرد,True,False,True,False,False
+34,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s16582,23,دور کرد,False,True,کرد,False,False,True,False,False
+35,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24732,22,پرس کرد,True,True,کرد,True,False,False,False,False
+36,control_with_object,fa_perdt-ud-train.conllu,train-s24311,11,صادر کرد,True,True,کرد,True,True,False,False,False
+37,control_with_object,fa_perdt-ud-train.conllu,train-s16985,10,جلب کرد,True,True,کرد,True,True,False,False,False
+38,simple_rare_omitted,fa_perdt-ud-test.conllu,test-s1331,8,متوجه کرد,False,True,کرد,False,False,False,False,False
+39,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s369,4,فرسود,False,False,,False,False,False,True,False
+40,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s555,15,پخت,False,False,,False,False,False,False,False
+41,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s1240,2,فرمود,False,False,,False,False,False,True,False
+42,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s1877,6,نوشت,False,False,,True,False,True,False,False
+43,control_with_object,fa_perdt-ud-train.conllu,train-s22362,12,مطابقه کرد,True,True,کرد,False,True,False,False,True
+44,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23557,3,آغازید,False,False,,False,False,False,False,False
+45,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s20959,15,ساخت,False,False,,True,False,False,False,False
+46,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s862,10,یاد گرفت,True,True,گرفت,True,False,False,False,False
+47,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s377,5,بذرپاشی کرد,True,True,کرد,False,False,False,False,True
+48,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s12872,28,نثار کرد,True,True,کرد,True,False,False,True,False
+49,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2428,20,رها کرد,False,True,کرد,True,False,True,False,False
+50,control_with_object,fa_perdt-ud-train.conllu,train-s1812,23,کشاند,False,False,,True,True,True,False,False
+51,control_with_object,fa_perdt-ud-train.conllu,train-s20727,21,دید,False,False,,True,True,False,False,False
+52,control_with_object,fa_perdt-ud-train.conllu,train-s9217,8,تدوین کرد,True,True,کرد,True,True,False,False,False
+53,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1190,13,شروع کرد,True,True,کرد,True,False,False,False,False
+54,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s278,16,آورد,False,False,,True,False,False,False,False
+55,control_with_object,fa_perdt-ud-train.conllu,train-s18556,27,معارفه کرد,True,True,کرد,False,True,False,False,False
+56,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2175,36,گفت,False,False,,True,False,True,False,False
+57,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14415,19,تلافی کرد,True,True,کرد,False,False,False,False,False
+58,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s9841,15,داشت,False,False,,True,False,False,False,False
+59,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s19147,26,کسب کرد,True,True,کرد,True,False,False,True,False
+60,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s14396,32,تصرف کرد,True,True,کرد,True,False,True,False,False
+61,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23279,12,تنید,False,False,,False,False,False,False,False
+62,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s25768,39,نهفت,False,False,,False,False,True,False,False
+63,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s18991,3,شکست,False,False,,True,False,False,False,False
+64,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s11253,29,جدا کرد,False,True,کرد,False,False,True,False,False
+65,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s16612,8,جمع کرد,True,True,کرد,True,False,False,False,False
+66,control_with_object,fa_perdt-ud-train.conllu,train-s11297,15,گرفت,False,False,,True,True,True,True,False
+67,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s10761,3,انکار کرد,True,True,کرد,False,False,False,False,True
+68,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2466,14,تراشاند,False,False,,False,False,True,True,False
+69,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s20397,12,کرد,False,False,,True,False,False,False,False
+70,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21303,20,فروگذار کرد,False,True,کرد,False,False,False,False,False
+71,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s20629,24,شروع کرد,True,True,کرد,True,False,False,False,False
+72,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s10888,7,بوس کرد,True,True,کرد,False,False,False,False,True
+73,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15182,31,تغییر داد,True,True,داد,True,False,False,False,False
+74,control_with_object,fa_perdt-ud-train.conllu,train-s16353,18,داشت,False,False,,True,True,False,False,False
+75,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s16645,19,خوابانید,False,False,,False,False,False,False,False
+76,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11379,4,تخیل کرد,True,True,کرد,False,False,False,False,False
+77,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s20131,10,بخشید,False,False,,True,False,True,False,True
+78,control_with_object,fa_perdt-ud-train.conllu,train-s25054,12,گرداند,False,False,,True,True,False,False,False
+79,control_with_object,fa_perdt-ud-train.conllu,train-s20611,34,مطرح کرد,False,True,کرد,False,True,False,False,False
+80,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11746,18,پی افکند,True,True,افکند,False,False,False,False,False
+81,control_with_object,fa_perdt-ud-train.conllu,train-s26108,18,اجابت کرد,True,True,کرد,True,True,True,False,False
+82,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s815,4,کرد,False,False,,True,False,False,False,False
+83,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s25172,40,انجام داد,True,True,داد,True,False,True,False,False
+84,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s22706,16,سازماندهی کرد,True,True,کرد,False,False,False,False,False
+85,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17999,20,نقل کرد,True,True,کرد,True,False,False,False,False
+86,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23913,6,قبولاند,False,False,,False,False,False,False,True
+87,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s20610,8,مثال زد,True,True,زد,False,False,False,False,False
+88,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2889,7,ریخت,False,False,,True,False,True,True,False
+89,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s15,29,طلب کرد,True,True,کرد,False,False,False,False,False
+90,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21233,29,پاره کرد,False,True,کرد,False,False,False,False,False
+91,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s634,21,نهی کرد,True,True,کرد,True,False,False,True,False
+92,control_with_object,fa_perdt-ud-train.conllu,train-s15368,6,قرقره کرد,True,True,کرد,False,True,False,True,False
+93,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s20543,22,گرفت,False,False,,True,False,False,False,False
+94,control_with_object,fa_perdt-ud-train.conllu,train-s6504,10,ازدیاد کرد,True,True,کرد,False,True,False,False,False
+95,control_with_object,fa_perdt-ud-train.conllu,train-s24869,7,بهینه‌سازی کرد,True,True,کرد,False,True,False,True,False
+96,control_with_object,fa_perdt-ud-train.conllu,train-s9035,17,رؤیت کرد,True,True,کرد,False,True,False,False,False
+97,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s9699,18,ریخت,False,False,,True,False,True,False,False
+98,control_with_object,fa_perdt-ud-train.conllu,train-s24081,6,شنید,False,False,,True,True,False,False,False
+99,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s21602,17,نقل کرد,True,True,کرد,True,False,False,False,False
+100,simple_reliable_omitted,fa_perdt-ud-test.conllu,test-s152,15,آورد,False,False,,True,False,False,False,False
+101,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2174,11,آشامید,False,False,,False,False,False,False,False
+102,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3863,2,پایید,False,False,,False,False,False,False,False
+103,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s12757,26,پالایش کرد,True,True,کرد,False,False,False,False,False
+104,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s21693,12,جنباند,False,False,,True,False,True,True,False
+105,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7533,43,تهیه کرد,True,True,کرد,True,False,False,True,False
+106,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23761,26,گسیخت,False,False,,False,False,False,True,False
+107,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s23888,4,اعلام کرد,True,True,کرد,True,False,False,True,False
+108,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s4381,6,نوشاند,False,False,,False,False,False,False,True
+109,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s25362,35,تفوق داد,True,True,داد,False,False,True,False,False
+110,control_with_object,fa_perdt-ud-train.conllu,train-s22128,12,آب گرفت,True,True,گرفت,False,True,False,False,False
+111,control_with_object,fa_perdt-ud-train.conllu,train-s11200,20,پیدا کرد,True,True,کرد,True,True,True,False,False
+112,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11730,13,پنچرگیری کرد,True,True,کرد,False,False,False,True,False
+113,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s4385,19,آمرزید,False,False,,False,False,True,False,False
+114,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11607,10,پرس کرد,True,True,کرد,True,False,False,False,True
+115,control_with_object,fa_perdt-ud-train.conllu,train-s5473,47,گرفت,False,False,,True,True,False,False,False
+116,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s25848,25,بیدار کرد,False,True,کرد,False,False,True,False,False
+117,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24948,15,اجابت کرد,True,True,کرد,True,False,True,False,False
+118,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s25756,10,هم پاشید,True,True,پاشید,False,False,False,False,False
+119,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s834,21,پیچاند,False,False,,False,False,True,False,False
+120,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s8012,10,فراموش کرد,True,True,کرد,True,False,False,False,False
+121,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s1429,6,جوید,False,False,,False,False,True,False,False
+122,control_with_object,fa_perdt-ud-train.conllu,train-s2486,3,تابید,False,False,,True,True,False,False,True
+123,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s15619,11,کوک زد,True,True,زد,False,False,True,False,False
+124,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s15271,21,برد,False,False,,True,False,True,False,False
+125,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s4744,119,داشت,False,False,,True,False,False,False,False
+126,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s4670,20,شروع کرد,True,True,کرد,True,False,False,False,False
+127,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s522,22,حذف کرد,True,True,کرد,True,False,True,False,False
+128,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7390,16,کسب کرد,True,True,کرد,True,False,False,True,False
+129,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s420,11,دوشید,False,False,,False,False,True,False,False
+130,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s643,13,کوفت,False,False,,False,False,False,True,False
+131,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7183,22,صرف کرد,True,True,کرد,True,False,True,False,False
+132,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s608,17,شروع کرد,True,True,کرد,True,False,False,False,False
+133,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s21000,18,گفت,False,False,,True,False,False,False,False
+134,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s23387,19,ریخت,False,False,,True,False,False,False,False
+135,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15855,12,دست داد,True,True,داد,True,False,False,True,False
+136,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s13296,5,کم آورد,True,True,آورد,False,False,False,True,False
+137,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s2694,14,هدر داد,True,True,داد,False,False,True,True,False
+138,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s22274,35,گذاشت,False,False,,True,False,True,False,True
+139,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11776,8,منفجر کرد,True,True,کرد,False,False,False,False,False
+140,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s4122,10,کم آورد,True,True,آورد,False,False,False,False,False
+141,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2572,8,بخشود,False,False,,False,False,True,False,True
+142,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3980,8,روبید,False,False,,False,False,True,False,False
+143,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s5382,21,گفت,False,False,,True,False,False,True,False
+144,simple_reliable_omitted,fa_perdt-ud-test.conllu,test-s1406,6,برد,False,False,,True,False,True,False,True
+145,control_with_object,fa_perdt-ud-dev.conllu,dev-s402,4,گشود,False,False,,True,True,False,False,False
+146,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17750,32,معرفی کرد,True,True,کرد,True,False,True,False,False
+147,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s897,9,خرید کرد,True,True,کرد,False,False,False,False,True
+148,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3010,11,لیسید,False,False,,False,False,False,False,False
+149,control_with_object,fa_perdt-ud-train.conllu,train-s1010,6,تلاوت کرد,True,True,کرد,False,True,False,True,False
+150,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s13294,8,کم آورد,True,True,آورد,False,False,False,False,False
+151,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s25305,13,دید,False,False,,True,False,True,True,False
+152,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s5157,1,پرسید,False,False,,True,False,False,False,True
+153,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s17625,14,فیلترگذاری کرد,True,True,کرد,False,False,True,False,False
+154,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s418,18,گرفت,False,False,,True,False,True,False,False
+155,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14482,10,تنزیل کرد,True,True,کرد,False,False,False,False,False
+156,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s643,2,دید,False,False,,True,False,True,False,False
+157,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s10553,12,محاسبه کرد,True,True,کرد,False,False,False,False,False
+158,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s7130,24,ریخت,False,False,,True,False,False,True,False
+159,control_with_object,fa_perdt-ud-train.conllu,train-s17544,7,فرآوری کرد,True,True,کرد,False,True,False,False,False
+160,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s20146,35,وعده کرد,True,True,کرد,False,False,False,False,False
+161,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17821,17,نشان داد,True,True,داد,True,False,False,False,False
+162,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s16855,15,انتخاب کرد,True,True,کرد,True,False,False,False,False
+163,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10001,105,داد,False,False,,True,False,True,True,False
+164,control_with_object,fa_perdt-ud-train.conllu,train-s14308,27,تکافو کرد,True,True,کرد,False,True,False,False,False
+165,control_with_object,fa_perdt-ud-train.conllu,train-s18046,17,نگهداری کرد,True,True,کرد,True,True,False,False,False
+166,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2562,8,پاک کرد,False,True,کرد,False,False,False,False,False
+167,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14015,6,ذخیره کرد,True,True,کرد,False,False,False,False,False
+168,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23695,10,تکاند,False,False,,False,False,True,False,False
+169,control_with_object,fa_perdt-ud-train.conllu,train-s3774,6,ادا کرد,True,True,کرد,False,True,False,False,False
+170,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s22420,9,جوشاند,False,False,,False,False,True,True,False
+171,control_with_object,fa_perdt-ud-train.conllu,train-s10312,9,گذارد,False,False,,True,True,False,False,False
+172,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s22446,9,متوجه کرد,False,True,کرد,False,False,False,False,False
+173,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s6352,7,تازیانه زد,True,True,زد,False,False,False,False,True
+174,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14737,10,دوره کرد,True,True,کرد,False,False,True,False,False
+175,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s25891,6,شروع کرد,True,True,کرد,True,False,False,False,False
+176,control_with_object,fa_perdt-ud-train.conllu,train-s12783,6,تجلی داد,True,True,داد,False,True,False,False,True
+177,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10546,76,اعلام کرد,True,True,کرد,True,False,True,False,False
+178,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23650,4,فرسود,False,False,,False,False,False,False,False
+179,control_with_object,fa_perdt-ud-train.conllu,train-s14721,29,گرفت,False,False,,True,True,True,False,False
+180,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s14440,18,شروع کرد,True,True,کرد,True,False,False,False,False
+181,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s10142,6,اندوخته کرد,False,True,کرد,False,False,False,False,False
+182,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s19845,48,همراهی کرد,True,True,کرد,False,False,False,False,False
+183,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1404,8,تصرف کرد,True,True,کرد,True,False,False,True,False
+184,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2461,42,تابید,False,False,,True,False,False,False,False
+185,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s11962,21,پیشگویی کرد,True,True,کرد,False,False,False,False,False
+186,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3402,7,گسست,False,False,,False,False,False,True,False
+187,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2438,12,تنید,False,False,,False,False,False,False,False
+188,control_with_object,fa_perdt-ud-dev.conllu,dev-s464,11,بیان کرد,True,True,کرد,True,True,False,True,False
+189,control_with_object,fa_perdt-ud-train.conllu,train-s13188,18,باد داد,True,True,داد,True,True,False,False,False
+190,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s25697,19,شریک کرد,False,True,کرد,False,False,False,False,False
+191,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23156,13,نائل کرد,False,True,کرد,False,False,True,False,False
+192,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s24697,46,سوار کرد,False,True,کرد,False,False,True,False,False
+193,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s6221,25,وارد کرد,True,True,کرد,True,False,True,True,False
+194,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s704,21,کشید,False,False,,True,False,True,False,False
+195,control_with_object,fa_perdt-ud-train.conllu,train-s19328,27,شن‌ریزی کرد,True,True,کرد,False,True,False,False,False
+196,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s8455,4,افشا کرد,True,True,کرد,False,False,False,False,True
+197,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s23323,23,آتش زد,True,True,زد,False,False,False,False,False
+198,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2878,3,چرید,False,False,,False,False,False,False,False
+199,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7482,16,صرف کرد,True,True,کرد,True,False,False,False,False
+200,control_with_object,fa_perdt-ud-train.conllu,train-s21246,24,شست,False,False,,True,True,False,False,False
+201,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s6614,10,گفت,False,False,,True,False,False,False,False
+202,simple_reliable_omitted,fa_perdt-ud-test.conllu,test-s1192,8,خواند,False,False,,True,False,False,False,False
+203,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s22463,5,شروع کرد,True,True,کرد,True,False,False,False,False
+204,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s22066,9,جوشاند,False,False,,False,False,True,True,False
+205,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2054,84,زد,False,False,,True,False,False,True,False
+206,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23864,3,نگاشت,False,False,,False,False,False,False,False
+207,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s1765,8,شروع کرد,True,True,کرد,True,False,False,False,False
+208,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s17667,25,کاشت,False,False,,True,False,False,False,False
+209,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14305,15,تکافو کرد,True,True,کرد,False,False,False,True,False
+210,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1220,13,وارد کرد,True,True,کرد,True,False,True,True,False
+211,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s1301,16,آواز داد,True,True,داد,False,False,False,False,True
+212,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s5639,6,سنگسار کرد,True,True,کرد,False,False,False,True,False
+213,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24979,40,تغییر داد,True,True,داد,True,False,False,False,False
+214,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s3434,9,ریخت,False,False,,True,False,False,False,False
+215,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s5474,10,رعایت کرد,True,True,کرد,True,False,True,True,False
+216,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2948,5,فرسود,False,False,,False,False,False,True,False
+217,control_with_object,fa_perdt-ud-train.conllu,train-s6843,10,استعمال کرد,True,True,کرد,False,True,False,False,False
+218,control_with_object,fa_perdt-ud-train.conllu,train-s9218,9,تدوین کرد,True,True,کرد,True,True,False,True,False
+219,control_with_object,fa_perdt-ud-test.conllu,test-s185,13,نظاره کرد,True,True,کرد,True,True,False,False,True
+220,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3352,7,دوشید,False,False,,False,False,False,False,False
+221,control_with_object,fa_perdt-ud-train.conllu,train-s14340,19,تشبیه کرد,True,True,کرد,False,True,False,False,False
+222,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s18977,10,انجام داد,True,True,داد,True,False,False,False,False
+223,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7185,28,صرف کرد,True,True,کرد,True,False,True,False,False
+224,control_with_object,fa_perdt-ud-train.conllu,train-s10665,17,شکنجه کرد,True,True,کرد,False,True,False,True,False
+225,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s22569,19,استراق کرد,True,True,کرد,False,False,False,False,False
+226,control_with_object,fa_perdt-ud-train.conllu,train-s6703,10,افتتاح کرد,True,True,کرد,False,True,False,False,False
+227,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s25933,14,داشت,False,False,,True,False,False,False,True
+228,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s15238,25,گاز گرفت,True,True,گرفت,False,False,False,False,False
+229,control_with_object,fa_perdt-ud-train.conllu,train-s24442,12,تبعید کرد,True,True,کرد,False,True,True,False,True
+230,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s4434,8,پخت,False,False,,False,False,False,False,False
+231,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s5745,16,تافت,False,False,,True,False,False,False,False
+232,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23692,53,جهاند,False,False,,False,False,True,False,False
+233,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s25502,5,کارشناسی کرد,True,True,کرد,False,False,False,False,False
+234,control_with_object,fa_perdt-ud-train.conllu,train-s22520,17,برف‌روبی کرد,True,True,کرد,False,True,False,False,False
+235,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2170,38,آشامید,False,False,,False,False,False,False,False
+236,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21308,12,فروگذار کرد,False,True,کرد,False,False,True,False,True
+237,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s4724,6,کند,False,False,,True,False,False,False,False
+238,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s15679,5,حکاکی کرد,True,True,کرد,False,False,False,False,False
+239,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s1200,10,تمرین کرد,True,True,کرد,False,False,False,True,False
+240,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15150,30,شروع کرد,True,True,کرد,True,False,False,False,False
+241,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s23092,8,شروع کرد,True,True,کرد,True,False,False,False,False
+242,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2173,3,آشامید,False,False,,False,False,False,False,True
+243,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s17385,7,زد,False,False,,True,False,False,True,False
+244,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s7211,15,زد,False,False,,True,False,True,False,False
+245,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17646,10,شروع کرد,True,True,کرد,True,False,False,False,False
+246,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s23427,17,تمدید کرد,True,True,کرد,False,False,False,False,False
+247,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s19722,14,انداخت,False,False,,True,False,False,False,False
+248,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s22260,19,لقمه کرد,False,True,کرد,False,False,False,False,False
+249,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s18190,6,نصیحت کرد,True,True,کرد,False,False,False,False,False
+250,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s12291,5,پیچ زد,True,True,زد,False,False,False,False,False
+251,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s353,40,مطرح کرد,False,True,کرد,False,False,False,False,False
+252,control_with_object,fa_perdt-ud-train.conllu,train-s19247,24,داشت,False,False,,True,True,False,False,False
+253,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s1353,17,ایفا کرد,True,True,کرد,False,False,False,False,False
+254,control_with_object,fa_perdt-ud-train.conllu,train-s16673,3,داشت,False,False,,True,True,False,False,False
+255,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s5050,4,قبولاند,False,False,,False,False,False,False,False
+256,control_with_object,fa_perdt-ud-train.conllu,train-s15559,2,کاشت,False,False,,True,True,False,False,True
+257,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s13348,28,تحمل کرد,True,True,کرد,True,False,False,False,False
+258,control_with_object,fa_perdt-ud-train.conllu,train-s1933,4,انداخت,False,False,,True,True,False,False,False
+259,control_with_object,fa_perdt-ud-train.conllu,train-s23962,13,انداخت,False,False,,True,True,False,False,False
+260,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s21979,8,وارد کرد,True,True,کرد,True,False,False,False,False
+261,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s17498,37,عمل‌آوری کرد,True,True,کرد,False,False,False,False,False
+262,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s18103,4,میل زد,True,True,زد,False,False,False,False,False
+263,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1180,28,انجام داد,True,True,داد,True,False,False,False,False
+264,control_with_object,fa_perdt-ud-train.conllu,train-s21356,23,داشت,False,False,,True,True,False,False,False
+265,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10820,16,شروع کرد,True,True,کرد,True,False,True,False,False
+266,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s276,8,آغازید,False,False,,False,False,False,False,True
+267,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s9669,29,عطرافشانی کرد,True,True,کرد,False,False,False,False,False
+268,control_with_object,fa_perdt-ud-train.conllu,train-s25068,7,داد,False,False,,True,True,True,False,False
+269,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23391,16,جایگزین کرد,False,True,کرد,False,False,False,True,False
+270,control_with_object,fa_perdt-ud-train.conllu,train-s12918,24,دچار کرد,False,True,کرد,False,True,False,True,False
+271,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24379,9,شلیک کرد,True,True,کرد,True,False,False,False,False
+272,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s21934,6,کدگشایی کرد,True,True,کرد,False,False,False,False,False
+273,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s22225,12,بازگردانی کرد,True,True,کرد,False,False,False,False,False
+274,control_with_object,fa_perdt-ud-train.conllu,train-s4227,18,پراکند,False,False,,False,True,False,False,False
+275,control_with_object,fa_perdt-ud-train.conllu,train-s7017,13,راه‌اندازی کرد,True,True,کرد,False,True,False,False,False
+276,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s6194,2,دانست,False,False,,True,False,False,True,False
+277,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s5088,8,دانست,False,False,,True,False,False,True,False
+278,control_with_object,fa_perdt-ud-train.conllu,train-s17713,10,غلغلک داد,True,True,داد,False,True,False,False,False
+279,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s5131,14,کوفت,False,False,,False,False,True,False,False
+280,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21306,12,فروگذار کرد,False,True,کرد,False,False,False,False,False
+281,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s6080,10,شناسایی کرد,True,True,کرد,False,False,False,False,False
+282,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21174,8,آشکار ساخت,False,True,ساخت,False,False,False,False,True
+283,control_with_object,fa_perdt-ud-train.conllu,train-s22341,12,نهی کرد,True,True,کرد,True,True,True,False,False
+284,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s20604,6,شروع کرد,True,True,کرد,True,False,False,False,False
+285,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3296,6,چشاند,False,False,,False,False,False,True,False
+286,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s18053,11,نگاهداری کرد,True,True,کرد,False,False,False,False,False
+287,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1233,23,خورد,False,False,,True,False,False,False,False
+288,control_with_object,fa_perdt-ud-train.conllu,train-s6919,7,داشت,False,False,,True,True,False,False,False
+289,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s25994,16,زایید,False,False,,False,False,False,False,False
+290,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s10387,4,دور کرد,False,True,کرد,False,False,False,False,False
+291,control_with_object,fa_perdt-ud-train.conllu,train-s14359,23,تعمیم داد,True,True,داد,False,True,False,False,False
+292,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s1173,13,تمرین داد,True,True,داد,False,False,False,True,False
+293,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s1423,7,تخیل کرد,True,True,کرد,False,False,False,False,False
+294,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s25895,4,گفت,False,False,,True,False,False,False,True
+295,control_with_object,fa_perdt-ud-train.conllu,train-s23529,12,داشت,False,False,,True,True,False,False,False
+296,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17996,22,نقل کرد,True,True,کرد,True,False,False,False,False
+297,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2456,8,تابید,False,False,,True,False,False,True,False
+298,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s23432,9,تمرین کرد,True,True,کرد,False,False,False,True,False
+299,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s5694,20,احقاق کرد,True,True,کرد,False,False,False,True,False
+300,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3377,15,فهماند,False,False,,False,False,True,False,False
+301,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s18828,20,کوبید,False,False,,True,False,True,False,False
+302,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s18705,31,برد,False,False,,True,False,False,False,False
+303,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s1383,12,سازماندهی کرد,True,True,کرد,False,False,False,False,False
+304,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s11760,29,جدی گرفت,False,True,گرفت,False,False,False,True,False
+305,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s18984,11,کشید,False,False,,True,False,False,True,False
+306,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s6168,1,فرمود,False,False,,False,False,False,False,True
+307,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s159,21,تیرباران کرد,True,True,کرد,False,False,True,False,False
+308,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s9902,4,خورد,False,False,,True,False,False,False,False
+309,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s13831,16,تسبیح کرد,True,True,کرد,False,False,False,False,False
+310,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2056,27,بیدار کرد,False,True,کرد,False,False,False,False,False
+311,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s23463,29,رهنمون ساخت,True,True,ساخت,False,False,True,False,False
+312,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11833,35,ارائه داد,True,True,داد,True,False,True,False,False
+313,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s24527,29,گداخت,False,False,,False,False,True,True,False
+314,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2516,7,پویید,False,False,,False,False,False,True,False
+315,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s14325,7,نقد کرد,True,True,کرد,False,False,True,False,False
+316,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s18102,5,میل زد,True,True,زد,False,False,False,True,False
+317,control_with_object,fa_perdt-ud-train.conllu,train-s22014,8,گرفت,False,False,,True,True,False,False,False
+318,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s790,14,انجام داد,True,True,داد,True,False,False,False,False
+319,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23692,36,جهاند,False,False,,False,False,True,False,False
+320,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s4916,17,احتکار کرد,True,True,کرد,False,False,True,False,False
+321,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3261,17,خوراند,False,False,,False,False,False,False,False
+322,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s23588,26,تابید,False,False,,True,False,False,False,False
+323,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s16551,15,گذاشت,False,False,,True,False,False,False,False
+324,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s8083,12,گذاشت,False,False,,True,False,True,False,False
+325,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s19944,12,خارج کرد,False,True,کرد,True,False,True,False,False
+326,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17529,11,شروع کرد,True,True,کرد,True,False,False,False,False
+327,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10713,11,دید,False,False,,True,False,False,True,False
+328,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10441,87,دعوت کرد,True,True,کرد,True,False,True,False,False
+329,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s6997,3,شکست,False,False,,True,False,False,False,False
+330,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10454,60,گفت,False,False,,True,False,True,True,False
+331,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10454,56,گفت,False,False,,True,False,True,True,False
+332,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s7958,8,تا کرد,True,True,کرد,False,False,False,False,False
+333,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s7178,27,صلح داد,True,True,داد,False,False,True,True,False
+334,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s14276,11,پاک کرد,False,True,کرد,False,False,True,False,False
+335,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s791,22,شروع کرد,True,True,کرد,True,False,False,False,False
+336,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s19454,7,نیت کرد,True,True,کرد,False,False,False,False,False
+337,control_with_object,fa_perdt-ud-train.conllu,train-s12204,8,گرفت,False,False,,True,True,False,False,False
+338,control_with_object,fa_perdt-ud-train.conllu,train-s8393,9,درمان کرد,True,True,کرد,True,True,False,False,False
+339,control_with_object,fa_perdt-ud-train.conllu,train-s18492,15,مصروف داشت,True,True,داشت,False,True,False,False,False
+340,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s21872,19,انجام داد,True,True,داد,True,False,False,False,False
+341,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2425,41,تنید,False,False,,False,False,False,True,False
+342,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s1534,22,خورد,False,False,,True,False,False,False,False
+343,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s9930,19,فرستاد,False,False,,True,False,True,False,False
+344,control_with_object,fa_perdt-ud-train.conllu,train-s11634,10,پرستش کرد,True,True,کرد,False,True,False,False,False
+345,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s4236,8,گوش کرد,True,True,کرد,False,False,False,False,False
+346,simple_reliable_omitted,fa_perdt-ud-test.conllu,test-s1152,10,آورد,False,False,,True,False,False,True,False
+347,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s18942,8,مثال آورد,True,True,آورد,False,False,False,True,False
+348,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2958,2,گداخت,False,False,,False,False,False,True,False
+349,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s6262,18,پس زد,True,True,زد,False,False,True,False,False
+350,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11978,10,تغییر داد,True,True,داد,True,False,False,True,False
+351,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s2963,13,صدا کرد,True,True,کرد,False,False,False,True,False
+352,simple_rare_omitted,fa_perdt-ud-test.conllu,test-s1450,20,دچار کرد,False,True,کرد,False,False,True,False,False
+353,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s4926,22,تبدیل کرد,True,True,کرد,False,False,True,False,False
+354,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s22332,13,تمام کرد,True,True,کرد,True,False,True,False,False
+355,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s12534,23,شروع کرد,True,True,کرد,True,False,True,True,False
+356,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s2932,3,طلبید,False,False,,True,False,False,False,True
+357,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s3303,9,چلاند,False,False,,True,False,True,True,False
+358,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s16432,11,آورد,False,False,,True,False,True,True,False
+359,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11150,15,پیدا کرد,True,True,کرد,True,False,False,False,False
+360,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s9487,11,غلبه داد,True,True,داد,False,False,True,False,False
+361,control_with_object,fa_perdt-ud-train.conllu,train-s1293,25,توسعه داد,True,True,داد,True,True,False,False,False
+362,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s1183,23,نقل کرد,True,True,کرد,True,False,False,False,False
+363,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23083,8,ورزید,False,False,,False,False,False,False,False
+364,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15966,17,نشان داد,True,True,داد,True,False,False,True,False
+365,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s11496,16,خرید,False,False,,True,False,False,False,False
+366,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10326,29,راند,False,False,,True,False,True,True,False
+367,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s18938,14,آغاز کرد,True,True,کرد,True,False,False,False,False
+368,control_with_object,fa_perdt-ud-train.conllu,train-s22181,9,بازپرداخت کرد,True,True,کرد,False,True,False,False,False
+369,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10495,17,اعلام کرد,True,True,کرد,True,False,False,False,True
+370,control_with_object,fa_perdt-ud-test.conllu,test-s1068,8,وصله زد,True,True,زد,False,True,False,False,False
+371,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s22758,7,علاج کرد,True,True,کرد,False,False,False,False,False
+372,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s21243,7,نوشت,False,False,,True,False,False,True,False
+373,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s4118,12,دواند,False,False,,False,False,True,False,False
+374,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s7963,7,تا کرد,True,True,کرد,False,False,False,False,False
+375,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1020,10,بازتعریف کرد,True,True,کرد,True,False,True,False,True
+376,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s19772,5,هم پاشید,True,True,پاشید,False,False,False,False,False
+377,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s21522,25,اعانت کرد,True,True,کرد,False,False,False,True,False
+378,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s14396,27,گرفت,False,False,,True,False,True,False,False
+379,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s6734,7,کشف کرد,True,True,کرد,True,False,False,False,False
+380,control_with_object,fa_perdt-ud-train.conllu,train-s23973,12,تحمل کرد,True,True,کرد,True,True,False,False,False
+381,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s19040,18,ایجاد کرد,True,True,کرد,True,False,False,False,False
+382,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s15858,5,دست داد,True,True,داد,True,False,False,False,False
+383,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s21623,21,التیام داد,True,True,داد,False,False,False,True,False
+384,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s20446,6,اعلام کرد,True,True,کرد,True,False,False,False,False
+385,simple_rare_omitted,fa_perdt-ud-test.conllu,test-s663,36,ورزید,False,False,,False,False,True,False,False
+386,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s6436,19,تکرار کرد,True,True,کرد,True,False,False,True,False
+387,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10073,4,پوشید,False,False,,True,False,False,False,False
+388,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2515,5,پویید,False,False,,False,False,False,True,False
+389,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s1403,17,پیدا کرد,True,True,کرد,True,False,False,False,False
+390,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2204,4,آغازید,False,False,,False,False,False,True,False
+391,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s21238,21,فرستاد,False,False,,True,False,False,False,False
+392,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s11823,42,زد,False,False,,True,False,True,True,False
+393,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s691,11,آورد,False,False,,True,False,False,False,False
+394,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10337,13,انداخت,False,False,,True,False,True,True,False
+395,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s9716,20,قرار داد,True,True,داد,True,False,True,False,False
+396,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s17757,28,کرد,False,False,,True,False,False,False,False
+397,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s25008,8,تزکیه کرد,True,True,کرد,False,False,False,False,False
+398,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s23820,5,ریخت,False,False,,True,False,False,False,False
+399,control_with_object,fa_perdt-ud-train.conllu,train-s11440,7,داشت,False,False,,True,True,False,False,False
+400,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s5138,10,آزرد,False,False,,False,False,False,False,False
+401,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s359,4,سابید,False,False,,False,False,False,True,False
+402,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s11293,5,کرد,False,False,,True,False,False,False,False
+403,control_with_object,fa_perdt-ud-train.conllu,train-s6057,7,گردانید,False,False,,False,True,False,False,False
+404,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10204,22,کسب کرد,True,True,کرد,True,False,False,False,False
+405,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s10679,43,شروع کرد,True,True,کرد,True,False,False,False,False
+406,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1451,29,پرس کرد,True,True,کرد,True,False,False,True,False
+407,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s14415,15,نثار کرد,True,True,کرد,True,False,False,False,False
+408,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s14739,28,شروع کرد,True,True,کرد,True,False,True,True,False
+409,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s20928,31,مجری‌گری کرد,True,True,کرد,False,False,True,True,False
+410,control_with_object,fa_perdt-ud-train.conllu,train-s20270,12,وصول کرد,True,True,کرد,False,True,False,False,False
+411,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2172,3,آشامید,False,False,,False,False,False,False,True
+412,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s23328,34,آورد,False,False,,True,False,True,False,False
+413,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2946,2,فرسود,False,False,,False,False,False,True,False
+414,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s17338,76,اعلام کرد,True,True,کرد,True,False,True,False,False
+415,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s16387,9,قربان کرد,False,True,کرد,False,False,False,False,False
+416,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s4604,5,چشید,False,False,,False,False,False,True,False
+417,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s2969,9,شروع کرد,True,True,کرد,True,False,False,True,False
+418,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s24094,4,استتار کرد,True,True,کرد,False,False,False,False,False
+419,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s1181,15,خورد,False,False,,True,False,False,True,False
+420,control_with_object,fa_perdt-ud-train.conllu,train-s14215,20,تصدیق کرد,True,True,کرد,False,True,False,False,False
+421,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s1415,8,تکوین کرد,True,True,کرد,False,False,False,False,False
+422,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s204,9,فرمود,False,False,,False,False,False,False,True
+423,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s14038,11,کرد,False,False,,True,False,True,False,True
+424,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s1668,3,مرحمت کرد,True,True,کرد,False,False,True,False,True
+425,control_with_object,fa_perdt-ud-train.conllu,train-s8392,7,درمان کرد,True,True,کرد,True,True,False,False,True
+426,control_with_object,fa_perdt-ud-train.conllu,train-s3601,8,بازنگری کرد,True,True,کرد,False,True,False,False,True
+427,simple_rare_omitted,fa_perdt-ud-dev.conllu,dev-s359,2,سابید,False,False,,False,False,False,True,False
+428,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s4780,3,شروع کرد,True,True,کرد,True,False,False,False,False
+429,simple_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1253,2,زد,False,False,,True,False,False,False,False
+430,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s21201,19,آشامید,False,False,,False,False,True,False,False
+431,control_with_object,fa_perdt-ud-train.conllu,train-s5704,14,احراز کرد,True,True,کرد,False,True,False,False,False
+432,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s5961,8,بسته‌بندی کرد,True,True,کرد,False,False,True,True,False
+433,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s176,11,صرف کرد,True,True,کرد,True,False,False,False,False
+434,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s24451,15,شروع کرد,True,True,کرد,True,False,False,False,False
+435,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s8786,6,شروع کرد,True,True,کرد,True,False,True,False,False
+436,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s25593,40,اجرا کرد,True,True,کرد,True,False,True,True,False
+437,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s4774,18,ابرام کرد,True,True,کرد,False,False,False,True,False
+438,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s23639,9,سرایید,False,False,,False,False,False,False,False
+439,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s7124,9,کشت,False,False,,True,False,True,False,False
+440,control_with_object,fa_perdt-ud-train.conllu,train-s13662,8,تخلیه کرد,True,True,کرد,False,True,False,False,True
+441,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s23463,24,نجات داد,True,True,داد,True,False,True,False,False
+442,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s3177,4,افروخت,False,False,,True,False,False,False,False
+443,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3831,7,گسیخت,False,False,,False,False,False,False,False
+444,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s7276,14,موعظه کرد,True,True,کرد,False,False,True,False,False
+445,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s8256,14,ریخت,False,False,,True,False,True,False,False
+446,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s20116,20,فروخت,False,False,,True,False,True,True,False
+447,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s12564,22,کرد,False,False,,True,False,True,False,False
+448,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7912,7,استنشاق کرد,True,True,کرد,True,False,False,False,False
+449,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s13781,10,تدفین کرد,True,True,کرد,False,False,True,False,False
+450,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s1453,11,بازتاب کرد,True,True,کرد,False,False,False,False,False
+451,control_with_object,fa_perdt-ud-train.conllu,train-s19967,12,متوجه کرد,False,True,کرد,False,True,False,False,False
+452,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10103,7,کرد,False,False,,True,False,False,False,False
+453,complex_reliable_omitted,fa_perdt-ud-test.conllu,test-s493,24,شروع کرد,True,True,کرد,True,False,False,False,False
+454,control_with_object,fa_perdt-ud-train.conllu,train-s16200,8,گوش کرد,True,True,کرد,False,True,False,False,False
+455,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s4949,11,خورد,False,False,,True,False,False,False,False
+456,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s10823,10,آماده کرد,False,True,کرد,True,False,True,False,False
+457,control_with_object,fa_perdt-ud-train.conllu,train-s16886,13,تناول کرد,True,True,کرد,False,True,False,False,False
+458,control_with_object,fa_perdt-ud-train.conllu,train-s17867,7,مونتاژ کرد,True,True,کرد,False,True,False,False,False
+459,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s6114,23,نابود کرد,False,True,کرد,False,False,True,False,True
+460,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s5728,19,گردانید,False,False,,False,False,True,False,False
+461,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s6258,9,جذب کرد,False,True,کرد,False,False,False,True,False
+462,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s1090,12,مشابه‌سازی کرد,True,True,کرد,False,False,False,False,False
+463,control_with_object,fa_perdt-ud-train.conllu,train-s21764,21,خیس کرد,False,True,کرد,False,True,False,False,False
+464,control_with_object,fa_perdt-ud-train.conllu,train-s6519,9,عهده داشت,True,True,داشت,True,True,False,False,False
+465,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11608,25,پرس کرد,True,True,کرد,True,False,False,False,False
+466,control_with_object,fa_perdt-ud-train.conllu,train-s21380,15,میخ کرد,True,True,کرد,True,True,False,False,False
+467,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s22543,49,شناخت,False,False,,True,False,True,True,False
+468,simple_reliable_omitted,fa_perdt-ud-test.conllu,test-s57,16,داشت,False,False,,True,False,False,False,False
+469,complex_reliable_omitted,fa_perdt-ud-dev.conllu,dev-s1304,6,تولید کرد,True,True,کرد,True,False,False,False,False
+470,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2422,11,ترکاند,False,False,,False,False,False,False,False
+471,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s19340,14,شهود کرد,True,True,کرد,False,False,False,False,False
+472,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s22772,3,متوجه کرد,False,True,کرد,False,False,False,False,False
+473,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s2347,9,آغاز کرد,True,True,کرد,True,False,False,False,False
+474,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s24525,4,خورد,False,False,,True,False,False,False,False
+475,simple_rare_omitted,fa_perdt-ud-test.conllu,test-s787,42,نائل کرد,False,True,کرد,False,False,True,True,False
+476,control_with_object,fa_perdt-ud-train.conllu,train-s24758,14,پیوند داد,True,True,داد,False,True,False,True,False
+477,control_with_object,fa_perdt-ud-train.conllu,train-s11682,5,پیمانه کرد,True,True,کرد,False,True,False,False,False
+478,complex_rare_omitted,fa_perdt-ud-dev.conllu,dev-s731,5,اختلاس کرد,True,True,کرد,False,False,False,True,False
+479,complex_rare_omitted,fa_perdt-ud-test.conllu,test-s743,34,فاصله داد,True,True,داد,False,False,True,False,False
+480,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7184,22,صرف کرد,True,True,کرد,True,False,False,False,False
+481,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s828,4,بخشید,False,False,,True,False,False,False,False
+482,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s3848,4,خواست,False,False,,True,False,False,False,False
+483,control_with_object,fa_perdt-ud-train.conllu,train-s20043,10,نوشت,False,False,,True,True,True,False,False
+484,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s21381,25,میخ کرد,True,True,کرد,True,False,True,True,False
+485,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s4698,14,راند,False,False,,True,False,False,True,False
+486,control_with_object,fa_perdt-ud-train.conllu,train-s5933,7,کرد,False,False,,True,True,False,True,False
+487,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s7280,17,سرشماری کرد,True,True,کرد,False,False,False,False,False
+488,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s7069,3,امتحان کرد,True,True,کرد,True,False,False,False,False
+489,control_with_object,fa_perdt-ud-train.conllu,train-s8910,39,پروراند,False,False,,True,True,False,False,False
+490,control_with_object,fa_perdt-ud-train.conllu,train-s1535,10,آورد,False,False,,True,True,False,False,False
+491,control_with_object,fa_perdt-ud-train.conllu,train-s109,49,نهی کرد,True,True,کرد,True,True,False,False,False
+492,control_with_object,fa_perdt-ud-train.conllu,train-s24337,9,یافت,False,False,,True,True,False,False,False
+493,complex_rare_omitted,fa_perdt-ud-train.conllu,train-s20126,15,نشخوار کرد,True,True,کرد,False,False,False,False,False
+494,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s11252,13,انجام داد,True,True,داد,True,False,True,False,False
+495,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s2201,5,آغازید,False,False,,False,False,False,False,False
+496,complex_reliable_omitted,fa_perdt-ud-train.conllu,train-s19797,2,فراموش کرد,True,True,کرد,True,False,False,False,True
+497,control_with_object,fa_perdt-ud-train.conllu,train-s25577,13,معمول داشت,True,True,داشت,False,True,False,False,False
+498,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s3429,5,ریخت,False,False,,True,False,False,False,False
+499,simple_rare_omitted,fa_perdt-ud-train.conllu,train-s3295,8,چشاند,False,False,,False,False,False,True,False
+500,simple_reliable_omitted,fa_perdt-ud-train.conllu,train-s22273,17,شست,False,False,,True,False,False,False,False

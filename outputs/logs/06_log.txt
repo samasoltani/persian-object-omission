@@ -1,0 +1,10 @@
+complex_reliable_omitted         available   255   sampled 100
+complex_rare_omitted             available  1117   sampled 100
+simple_reliable_omitted          available   655   sampled 100
+simple_rare_omitted              available   128   sampled 100
+control_with_object              sampled 100
+
+Total items: 500
+Saved: annotation/06_sample_annotator1.xlsx, 06_sample_annotator2.xlsx, 06_sample_key.csv
+
+=== exit code: 0 ===
